@@ -4,7 +4,18 @@
     {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
+      "envios": [
+        "2026-07-31T06:22:14Z (envio ordinario)",
+        "2026-07-31T06:51:27Z (segundo envio, prueba solicitada por Mikel; mismas fuentes, redactado con enlaces propios y cifras de Ceuta actualizadas)"
+      ],
       "titulares": [
+        "Seguimiento Ceuta: Vivas cifra 20.000 entradas y al menos 16 muertos; Sanchez despliega el Ejercito pero rechaza la Emergencia Nacional",
+        "PIB espanol +0,7% en el segundo trimestre e IPC adelantado de julio en el 3,5%",
+        "FCC: la letra pequena del veto solo afecta a modelos nuevos y admite aprobacion condicional del Department of War",
+        "EE. UU. institucionaliza el acceso previo a modelos frontera (orden ejecutiva del 28/07)",
+        "Vence el plazo de comentarios de la FTC sobre precision de la IA y la preempcion de la ley de Colorado",
+        "Precios de memoria: DRAM de contrato +58-63% y NAND +70-75% en Q2 2026; spot DRAM cerca de +700% interanual",
+        "Drones ucranianos atacan refinerias en Perm, Riazan y Taganrog",
         "Apple firma un trimestre record y avisa de lo que viene (Q3 FY26: 109.400 M$, +16%)",
         "Amazon rompe la barrera de los 200.000 M$ en un trimestre; AWS +37%",
         "El flujo de caja libre de Meta cae un 91% por capex de IA",
