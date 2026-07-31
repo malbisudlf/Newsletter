@@ -1,0 +1,58 @@
+{
+  "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
+  "briefings": [
+    {
+      "fecha": "2026-07-31",
+      "enviado_utc": "2026-07-31T06:22:14Z",
+      "titulares": [
+        "Apple firma un trimestre record y avisa de lo que viene (Q3 FY26: 109.400 M$, +16%)",
+        "Amazon rompe la barrera de los 200.000 M$ en un trimestre; AWS +37%",
+        "El flujo de caja libre de Meta cae un 91% por capex de IA",
+        "La memoria es el cuello de botella fisico: DRAM +60% y NAND +80% intertrimestral",
+        "Fotonica programable: chip que frena la luz bajo demanda (CRIT, Advanced Science)",
+        "OpenAI reparte acceso gratuito a la academia (ChatGPT for Academic Researchers)",
+        "El mercado empieza a discriminar dentro del trade de IA (financiacion circular)",
+        "Gemini Robotics 2 (Google DeepMind): control de cuerpo entero",
+        "Cierre de mes en modelos frontera: Claude Opus 5 y MoE de pesos abiertos de Mistral",
+        "Ceuta y Melilla: la crisis migratoria escala a respuesta militar",
+        "Incendios: mejora Madrid, empeora Zamora (180.000 ha quemadas en 2026)",
+        "Ola de calor y segunda fase de la operacion especial de la DGT",
+        "EE. UU. advierte formalmente a Iran por ataques en el Golfo",
+        "Japon: rescates en Kumamoto tras el terremoto de magnitud 7,1",
+        "Trump: reuniones por separado con Zelenski y Netanyahu",
+        "Incendios en el sur de Europa: Espana y Francia, escala continental",
+        "Dans: 'Cuando prohibir al rival es admitir que ya te ha ganado' (veto FCC a humanoides chinos)"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
+    {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    }
+  ]
+}
