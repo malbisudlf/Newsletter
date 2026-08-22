@@ -1,6 +1,39 @@
 {
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
+  "_nota_2026-08-22": "El fichero esta versionado en git: no persiste entre ejecuciones salvo que la rutina haga commit y push, que es lo que faltaba. Los briefings enviados del 01/08 al 13/08 existen en el buzon (carpeta Newsletters) pero no estan recogidos aqui; la memoria fiable sigue siendo el buzon. Entre el 13/08 y el 22/08 no se envio ningun briefing.",
   "briefings": [
+    {
+      "fecha": "2026-08-22",
+      "enviado_utc": "2026-08-22T11:02:27Z",
+      "titulares": [
+        "Waymo ensena por fin su chip propio: un ASIC de 5 nm que ya va montado en toda la flota",
+        "Los robotaxis de Tesla en Austin circulan sin vigilante, segun un rastreo ciudadano",
+        "Micron anuncia 10.000 M$ para un laboratorio de memoria en Boise que empieza a construirse en 2027",
+        "Slack mete los agentes de codigo dentro del chat con canales que se archivan solos",
+        "Anthropic apunta a la mayor salida a bolsa de la historia y se guarda el control con acciones de voto multiple",
+        "Nvidia paga 6.000 M$ por licenciar la fabrica de modelos de Poolside y fichar a 109 personas",
+        "Mistral sustituye el RAG de un tiro por un bucle de navegacion y triplica el acierto sobre documentos financieros",
+        "Anthropic prueba a convertir las reuniones en tareas ejecutables (Project Parka)",
+        "La desigualdad espanola no esta en las nominas, esta en el patrimonio (Llaneras, El Pais)",
+        "Dans: 'tiempo de pantalla' es una variable inutil (estudio finlandes PANIC)",
+        "Hurtado: once problemas de matematicas y ciencia resueltos con IA este verano, comprobados uno a uno",
+        "El mercado de credito empieza a poner precio a la factura de la IA, no a su premio (CDS tecnologicos)",
+        "El Tesoro americano dobla las recompras de deuda larga con el 30 anos en maximos desde 2007"
+      ],
+      "fuentes_usadas": {
+        "tldr": "2026-08-21 (edicion del viernes)",
+        "tldr_ai": "2026-08-21 (edicion del viernes)",
+        "the_trader": "n169, 2026-08-20, leida de una copia reenviada a la bandeja de entrada",
+        "dinero_claro": "sin edicion real; solo correos de alta del 20/08",
+        "klosh_letter": "sin publicar desde el 31/07",
+        "guardian_first_edition": "no publica sabados",
+        "enrique_dans": "2026-08-22",
+        "david_hurtado": "2026-08-22",
+        "no_contemplada": "Kiko Llaneras | EL PAIS, reenviada a la bandeja el 22/08 08:03 (1 hecho usado)"
+      },
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJSvg74AAAA=",
+      "tldr_ai_email_fecha": "2026-08-21"
+    },
     {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
