@@ -2,6 +2,34 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
@@ -38,32 +66,31 @@
       "tldr_ai_email_fecha": null
     },
     {
-      "fecha": "2026-07-30",
-      "enviado_utc": "2026-07-30T06:10:00Z",
+      "fecha": "2026-08-23",
+      "enviado_utc": "2026-08-23T06:56:15Z",
+      "fuentes_newsletter": {
+        "TLDR": "no usada - edicion del 21/08 ya consumida en el briefing del 22/08",
+        "TLDR AI": "no usada - edicion del 21/08 ya consumida en el briefing del 22/08",
+        "Klosh Letter": "sin publicar desde el 31/07 (paron veraniego); domingo",
+        "Guardian First Edition": "no publica fin de semana",
+        "El blog de Enrique Dans": "usada - 'El tiempo que se tarda en corregir un error' (23/08 05:03Z)",
+        "David Hurtado": "no llego hoy (ultima 22/08)",
+        "The Trader": "n169 (20/08) ya usada el 22/08 - bloque Mercados omitido",
+        "Dinero Claro": "sin edicion real (solo correos de alta del 20/08) - bloque omitido"
+      },
+      "nota": "Domingo. Secciones 1 y 2 construidas solo con busqueda web al no haber edicion de TLDR/TLDR AI sin usar.",
       "titulares": [
-        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
-        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
-        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
-        "Amazon entra en satelite directo-a-dispositivo (D2D)",
-        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
-        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
-        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
-        "La guerra por los pesos abiertos se traslada al regulador",
-        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
-        "xAI lanza Build Mode para SuperGrok Heavy",
-        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
-        "Amazon consolidaria Nova en un unico modelo frontera",
-        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
-        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
-        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
-        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
-        "Los huties amenazan con imponer peajes en Bab el Mandeb",
-        "Japon: 18 muertos por el terremoto",
-        "Guyana: acusan de asesinato al capitan del ferry hundido",
-        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
-      ],
-      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
-      "tldr_ai_email_fecha": "2026-07-29"
+        "Apple recorta unos 200 puestos: ~100 en Vision Pro (juegos y video inmersivo) y ~100 en Siri e Ingenieria de Software",
+        "GitLab CVE-2026-19478 (CVSS 9.4): inyeccion de codigo via GraphQL explotada en la naturaleza tres dias tras el parche fuera de ciclo del 17/08",
+        "Marvell emite a Google un warrant sobre 58.970.907 acciones que solo vesta al ritmo de ~120.000 M$ en compras de Custom Products",
+        "Seguimiento: Nevada autoriza hasta 7.000 robotaxis de pago en Clark County (Tesla 5.000, Waymo 1.000, Uber 1.000)",
+        "Anthropic ficha a Amir Salek, fundador del programa TPU de Google, para montar silicio propio",
+        "Apple Music hace obligatorias las AI Transparency Tags y anade una etiqueta visible 'Made With AI'",
+        "'Ox Alpha', modelo anonimo y gratis en OpenRouter, marca 80% en DeepSWE; el 22/08 el analisis forense apunta a Zhipu/Z.AI",
+        "xAI amplia Grok Bot a SuperGrok Plus, Cursor Pro+ y Cursor Teams",
+        "Espana (anadido): el curso politico se adelanta por Ceuta - Consejo de Ministros el martes y seis ministros al Congreso",
+        "Enrique Dans: Walmart acepta Apple Pay doce anos despues, desde el 24 de agosto"
+      ]
     }
   ]
 }
