@@ -2,6 +2,47 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-24",
+      "enviado_utc": "2026-08-24T07:47:19Z",
+      "envios": [
+        "2026-08-24T07:47:19Z (envio ordinario, disparo por API tras el correo de datos)"
+      ],
+      "titulares": [
+        "Uber, multada con 825 M EUR por la autoridad neerlandesa de proteccion de datos por desactivar cuentas de conductores de forma automatizada (segunda mayor sancion del RGPD)",
+        "China aplaza el Chang'e 7: la mision no reune las condiciones de lanzamiento y pierde la ventana lunar de este ano",
+        "Cursor construye Origin/Continuity sobre almacenamiento de objetos (S3) para saltarse el cuello de botella de escala de Git",
+        "Seguimiento: el gasto corporativo en Fable 5 no supera el ~11% del total en herramientas de Anthropic (datos de Ramp, FT), y el precio medio cae ~25% desde mediados de julio",
+        "Los centros de datos pasan de argumento a lastre electoral: giro bipartidista documentado por WSJ, NYT y Washington Post",
+        "Seguimiento Ox Alpha: sigue sin atribucion; la pista de Z.ai se enfria y Collison (Stripe) lo elogia siendo comprador de OpenRouter",
+        "Anthropic registra errores elevados en Mythos 5, Fable 5, Opus 5 y Opus 4.8 (05:06 UTC del 24/08, API Error 529)",
+        "Seguimiento Ceuta: Feijoo pide estudiar el confinamiento de portadores de enfermedades infectocontagiosas; Sanidad le recuerda las competencias autonomicas y convoca reunion de urgencia por las vacunas",
+        "Los vecinos de Loma Colmenar (Ceuta) se manifiestan contra la gestion e invocan el articulo 149 CE",
+        "EE. UU. aplica aranceles del 50% a 20.000 M USD de productos canadienses; Carney responde dolar por dolar desde el 8 de septiembre",
+        "El Reino Unido ampliara la capacidad de Ucrania para fabricar misiles de largo alcance (anuncio de Burnham en Kiev)",
+        "Rusia acusa a una mujer de 32 anos del asesinato con bomba de un comandante naval en Crimea ocupada",
+        "Enrique Dans: los detectores de IA y el boton de 'AI slop' de LinkedIn invierten la carga de la prueba (probatio diabolica)"
+      ],
+      "tldr_ai": {
+        "usado": false,
+        "motivo": "La edicion mas reciente es la del 21/08 y ya se uso en el briefing del 22/08; no se reutiliza."
+      },
+      "tldr": {
+        "usado": false,
+        "motivo": "Idem: edicion del 21/08 ya usada el 22/08."
+      },
+      "fuentes_usadas": [
+        "Guardian First Edition (24/08)",
+        "El blog de Enrique Dans (24/08)",
+        "busqueda web"
+      ],
+      "bloques_omitidos": [
+        "3.5 Mercados (The Trader n169 ya usada el 22/08)",
+        "3.5 Finanzas personales (Dinero Claro sin edicion real)",
+        "David Hurtado (ultima entrega 22/08)",
+        "Clima (Life Assistant lo envia como '(no disponible)')"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
