@@ -2,6 +2,35 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-25",
+      "enviado_utc": "2026-08-25T07:42:32Z",
+      "titulares": [
+        "Nvidia sube mas de un 15% el precio de sus servidores de IA y el motivo es la memoria, no la GPU",
+        "IBM ensena el primer procesador cuyos nucleos ejecutan Z y Arm a la vez, sin emulacion (Hot Chips, 11 nucleos a 5,7 GHz)",
+        "El nuevo plan de MCP admite que el problema no eran las herramientas, era el transporte (hoja de ruta del 22/08)",
+        "El iPhone plegable, para el 9 de septiembre y por encima de 2.000 $ - segun Gurman, no segun Apple",
+        "Hugging Face contrata banco para tantear su venta a 13.000 M$, casi el triple de su ultima valoracion",
+        "Los pesos abiertos ya son el 62% de los tokens, y siguen sin ser el 62% del dinero (indice AI Gateway de Vercel)",
+        "DeepSeek publica V4-Flash-Vision-Exp, a un punto de Opus 4.8 en tareas de agente",
+        "Anthropic reparte lo que Claude Mythos 5 encuentra, pero no el modelo (Claude Security + fondo de 35 M$)",
+        "OpenAI recorta mas de un 20% el precio de GPT-5.6 Sol durante tres meses (5->4 $ entrada, 30->20 $ salida)",
+        "Seguimiento Ceuta: el Gobierno la declara situacion de interes para la seguridad nacional y crea mando unico bajo Angel Victor Torres",
+        "Espana pide formalmente fondos de emergencia a Bruselas y Sanidad manda 45.000 dosis de vacunas a Ceuta",
+        "EE. UU. amenaza con sancionar a cualquier pais o entidad que mantenga lazos economicos con Iran (Bessent)",
+        "Las denuncias por violencia policial francesa en las playas del Canal suben un 39% (Utopia 56) mientras las travesias caen un 40%",
+        "Seguimiento Ucrania: MBDA desclasifica componentes britanicos del misil SCALP; Burnham lo anuncia en Kiev",
+        "Dans: 'El impuesto invisible de la inteligencia artificial'"
+      ],
+      "tldr_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJX_QTIAAAA=",
+      "tldr_email_fecha": "2026-08-24",
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJX_QTMAAAA=",
+      "tldr_ai_email_fecha": "2026-08-24",
+      "secciones_omitidas": [
+        "3.5 Economia y Geopolitica (The Trader n169 ya usada el 22/08; Dinero Claro sin edicion real)",
+        "David Hurtado (ultima entrega del 22/08)"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
