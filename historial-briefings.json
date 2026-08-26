@@ -2,6 +2,28 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-26",
+      "enviado_utc": "2026-08-26T07:44:11Z",
+      "titulares": [
+        "Un LLM puede tomar el control de la maquina que lo ejecuta atacando su propio motor de inferencia (CVE-2025-9141 en vLLM, CVE-2026-33626 en LMDeploy)",
+        "Seguimiento: Tesla pone fecha al Cybercab - 3 de septiembre en Austin, flota activa de 20-30 vehiculos",
+        "Los centros de datos se convierten en la aplicacion que rentabiliza el transformador de estado solido (SiC, 40,3 M$ 2025 -> 154 M$ 2030)",
+        "Uber dice que los agentes escriben ya mas del 70% de sus pull requests (250 migraciones, 9 M de lineas)",
+        "Alibaba lanza Wan3.0 un dia despues de colocar 10.000 M$ en la mayor ampliacion de una cotizada de Hong Kong",
+        "Nvidia pone en produccion el Groq 3 LPX: 3.400 tokens/s con Gemma 4 31B a 100k de contexto",
+        "Seguimiento: Ox Alpha pone numeros al misterio - 26 billones de tokens en cuatro dias, 327.000 usuarios",
+        "Aagesen comparece hoy en el Congreso por los incendios y los precios de la energia (262.030 ha quemadas en 2026)",
+        "Seguimiento: la Conferencia Sectorial de Infancia del 27/08 nace rota - 9 comunidades asisten, 3 plantan al Gobierno",
+        "Muere Dolly Parton a los 80 anos",
+        "Seguimiento: Canada concreta el 'dolar por dolar' para septiembre y Carney sale reforzado de la ruptura",
+        "Dos centros de datos proyectados en Inglaterra emitiran mas CO2 que toda la operacion britanica de ExxonMobil (4,577 Mt/ano)",
+        "Enrique Dans - Cyberdecks: ordenadores para volver a entender los ordenadores"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJdqULEAAAA=",
+      "tldr_ai_email_fecha": "2026-08-25",
+      "notas": "Klosh Letter sin edicion desde el 31/07 (18 dias laborables): bloque de Espana construido solo con busqueda web. Seccion 3.5 omitida entera: The Trader n169 (20/08) ya usada el 22/08 y Dinero Claro sin primera edicion desde el alta del 20/08."
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
