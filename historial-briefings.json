@@ -2,6 +2,39 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-27",
+      "enviado_utc": "2026-08-27T08:20:00Z",
+      "titulares": [
+        "SpaceX compromete hasta 100.000 M$ en un segundo Starbase, en Luisiana",
+        "Apple mete el primer chip de 2 nm de la serie M en un Mac mini de 899 $",
+        "Amazon prepara estaciones de reparto sin personas - y de momento es una hoja de ruta, no un despliegue",
+        "Seguimiento: el mercado de credito ya le pone numero al riesgo de Nvidia - 82 pb, record",
+        "Anthropic fusiona la memoria de Claude y Cowork y la deja activada por defecto",
+        "OpenAI ensena los numeros de Jalapeno y le gana a Nvidia, pero solo en inferencia",
+        "Perplexity y Nvidia bajan el agente al escritorio con Portable Computer",
+        "IBM publica Granite 4.2 con licencia Apache 2.0",
+        "Seguimiento: el Gobierno aprueba en primera vuelta la reforma de extranjeria y una nueva ley de asilo",
+        "Seguimiento: el PSOE admite que el CNI pudo avisar de las entradas a nado, pero no de su alcance",
+        "Una riada glaciar arrasa la frontera Nepal-Tibet: mas de 160 muertos y cientos de desaparecidos",
+        "Meta paga unos 18.000 M$ y acepta limites de uso para menores",
+        "Enrique Dans - De Stanford a Tsinghua: la nueva geografia del talento tecnologico"
+      ],
+      "tldr_ai": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJgPZDAAAAA=",
+        "fecha": "2026-08-26",
+        "asunto": "OpenAI Jalapeno, Perplexity Portable Computer, Claude combines memory"
+      },
+      "tldr": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJgPZC8AAAA=",
+        "fecha": "2026-08-26"
+      },
+      "incidencias": [
+        "Klosh Letter: sin edicion desde el 31/07 (19 dias laborables), paron veraniego.",
+        "Life Assistant: campo CLIMA '(no disponible)'.",
+        "Seccion 3.5 omitida: The Trader n.169 (20/08) ya se uso el 22/08; Dinero Claro aun sin edicion de contenido."
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
