@@ -2,6 +2,39 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-28",
+      "enviado_utc": "2026-08-28T07:55:27Z",
+      "titulares": [
+        "Seguimiento: Nvidia se queda Hugging Face - 12.900 M$ segun The Information, sin contrato firmado segun Business Insider",
+        "La FDA aprueba el primer inhibidor de RAS para cancer de pancreas metastasico y casi dobla la supervivencia (13,2 vs 6,7 meses)",
+        "Anthropic firma 45.000 M$ con Nscale por 460 MW en Virginia Occidental",
+        "Un investigador encadena tres bugs ya publicos y se escapa del sandbox de V8",
+        "Seguimiento: Ox Alpha era Z.ai - GLM-5.3-Flash, 320B/18B activos, licencia MIT, chips chinos",
+        "El plan de Meta para sustituir plantilla por agentes (Project OT) se cayo solo: +220% de cambios de codigo frente a +36% de funcionalidades",
+        "Salesforce mete su CRM dentro de Claude con Claudeforce (37 skills de ventas)",
+        "Google lanza Gemini 3.5 Transcribe con 2,6% de WER y deteccion de 85+ idiomas",
+        "ChatGPT pasa a soportar WebMCP en su navegador integrado",
+        "Seguimiento: Marlaska cierra hoy la ronda de comparecencias por Ceuta; Sanchez el 3 de septiembre",
+        "Muere Ratko Mladic en la prision de La Haya a los 84 anos",
+        "Rusia amenaza con atacar objetivos militares britanicos dentro y fuera de Ucrania",
+        "Seguimiento: el acuerdo de Meta con 29 estados abre la via en media docena de jurisdicciones",
+        "Seguimiento: Nepal teme un segundo desastre en el mismo punto"
+      ],
+      "tldr_ai_usado": {
+        "fecha": "2026-08-27",
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJgPZDYAAAA="
+      },
+      "tldr_usado": {
+        "fecha": "2026-08-27"
+      },
+      "incidencias": [
+        "Klosh Letter: sin edicion desde el 31/07 (20 dias laborables); parece cierre por vacaciones, conviene verificar la suscripcion",
+        "The Trader: sin edicion nueva el jueves 27/08; la unica del buzon es un reenvio de terceros del 20/08 (n 169). Bloque Mercados omitido",
+        "Dinero Claro: suscripcion confirmada el 20/08 pero ninguna edicion recibida. Bloque Finanzas personales omitido",
+        "Sin remitentes no contemplados en Newsletters"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
