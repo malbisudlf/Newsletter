@@ -2,6 +2,50 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-29",
+      "enviado_utc": "2026-08-29T07:44:22Z",
+      "titulares": [
+        "Anthropic abre en preview el Model Hardware Standard para que los agentes manejen equipamiento de laboratorio",
+        "Cloudflare libera ~100 TB de RAM reordenando la cache DNS de 1.1.1.1 (-56% por entrada)",
+        "El FBI y el DOJ incautan QScan y QTRouter, plataformas de intrusion ligadas a China (grupo QTFY)",
+        "El Ariane 6 pone en orbita el MTG-I2 y llega por primera vez a orbita de transferencia geoestacionaria",
+        "Hugging Face y Pollen Robotics abren reservas del Microduck, bipedo de codigo abierto por 399 $",
+        "Seguimiento: Meta es uno de los mayores clientes de Anthropic (hasta 10.000 M$/ano) mientras Zuckerberg publica un ensayo contra los laboratorios de IA",
+        "Seguimiento: los descuentos de GPT-5.6 disparan el consumo de Luna x13,8 y Terra x5,6 (paradoja de Jevons)",
+        "Nvidia guia un 70% de crecimiento de ingresos para el FY2028 frente al 44% del consenso",
+        "Cohere lanza Parse, VLM de 2.300 M de parametros, a 1,50 $ por 1.000 paginas",
+        "Google actualiza Gemini Omni 1.1 Flash: extension de escena a 40 s y 4K por reescalado, no nativo",
+        "El IPC adelantado de agosto sube al 4,3% interanual en Espana; la subyacente baja al 2,9%",
+        "Seguimiento: Interior anuncia medidas extraordinarias de contencion fisica en Ceuta con financiacion europea",
+        "Entra en vigor la nueva jubilacion flexible (RD 416/2026), abierta por primera vez a autonomos",
+        "Seguimiento: la riada del Himalaya pasa a 547 muertos en Nepal con 977 desaparecidos",
+        "Al menos 47 muertos y mas de 50 secuestrados en Kenscoff (Haiti)",
+        "Seguimiento: Iran prepara una lista de condiciones para reabrir el estrecho de Ormuz"
+      ],
+      "tldr_ai": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJlIBuMAAAA=",
+        "fecha": "2026-08-28",
+        "asunto": "Gemini Omni 1.1, Cohere Parse, Codex persistent mode"
+      },
+      "tldr": {
+        "fecha": "2026-08-28",
+        "asunto": "Anthropic's hardware standard, Meta's Claude spend, agent files"
+      },
+      "incidencias": [
+        "Klosh Letter: sin edicion desde el 31/07 (20 dias laborables).",
+        "The Trader: unica edicion en buzon, n 169 reenviado el 20/08 (9 dias) - ausencia real, supera el umbral de 8 dias.",
+        "Dinero Claro: solo altas de suscripcion del 20/08, ninguna edicion real (9 dias) - ausencia real.",
+        "Seccion 3.5 omitida entera por lo anterior.",
+        "Guardian/TLDR/TLDR AI: sabado, no publican; no es ausencia.",
+        "Sin remitentes no contemplados; ninguna newsletter descolgada en la bandeja."
+      ],
+      "limpieza": {
+        "briefings_movidos": 1,
+        "life_assistant_movidos": 0,
+        "newsletters_movidas": 0
+      }
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
