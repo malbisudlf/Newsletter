@@ -1,6 +1,151 @@
 {
-  "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
+  "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Las entradas del 25 al 30 de agosto de 2026 se anadieron el 30/08 reconstruyendolas a partir de los correos realmente enviados: entre el 01 y el 24 de agosto el fichero no se actualizo porque el contenedor de ejecucion es efimero y los cambios no se estaban comiteando. La memoria fiable sigue siendo el buzon (los briefings enviados); este fichero es solo refuerzo.",
   "briefings": [
+    {
+      "fecha": "2026-08-30",
+      "enviado_utc": "2026-08-30T04:24:33Z",
+      "envios": [
+        "2026-08-30T04:24:33Z (envio ordinario, disparado por API tras salir el correo de datos)"
+      ],
+      "titulares": [
+        "CXMT demanda al Pentagono para salir de la lista de empresas militares chinas",
+        "Lambda cierra 1.000 M$ de deuda privada a corto plazo para comprar GPUs que alquilara a Microsoft",
+        "Pasqal debuta en Nasdaq via SPAC con 360 M$ en caja y valoracion de 2.000 M$ (52% o 95% segun la base)",
+        "El mayor centro de datos de IA de Nueva Jersey (DataOne, Vineland), acusado de operar 45 de 62 generadores sin permiso",
+        "El rechazo a los centros de datos entra en la campana de las midterms: 75% de oposicion en la encuesta de Heatmap Pro",
+        "Tencent abre los pesos de Hy4 preview: 770B totales, 49B activos y contexto de mas de 1M de tokens",
+        "Seguimiento: los convocantes desconvocan la manifestacion del sabado en Ceuta ante la llegada de grupos ultras",
+        "Estabilizado el incendio de la Devesa de El Saler tras quemar 37 hectareas",
+        "Trump anuncia una concesion petrolera de 100 anos en Venezuela: 17 campos y 65.000 M de barriles",
+        "Muere Harald V de Noruega"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null,
+      "nota": "Sin base de newsletter en las secciones 1, 2 y 3: domingo (Klosh y Guardian no publican), TLDR y TLDR AI del 28/08 ya usadas el 29/08, sin articulo nuevo de Dans. Seccion 3.5 omitida: The Trader y Dinero Claro siguen sin una sola edicion real desde el alta del 20/08."
+    },
+    {
+      "fecha": "2026-08-29",
+      "enviado_utc": "2026-08-29T07:44:22Z",
+      "envios": [
+        "2026-08-29T07:44:22Z (envio ordinario)"
+      ],
+      "titulares": [
+        "Anthropic abre en preview un estandar para que los agentes manejen equipamiento de laboratorio",
+        "Cloudflare libera unos 100 TB de RAM reordenando la cache DNS de 1.1.1.1",
+        "El FBI y el DOJ incautan QScan y QTRouter, dos plataformas de intrusion ligadas a China",
+        "El Ariane 6 pone en orbita el MTG-I2 y llega por primera vez a orbita de transferencia geoestacionaria",
+        "Hugging Face y Pollen Robotics abren reservas de Microduck, un bipedo de codigo abierto por 399 $",
+        "Seguimiento: Meta es uno de los mayores clientes de Anthropic mientras Zuckerberg publica un ensayo contra la IA",
+        "Seguimiento: los descuentos de GPT-5.6 ya tienen resultados, patron de manual de Jevons",
+        "Nvidia guia un 70% de crecimiento de ingresos para el ano fiscal 2028",
+        "Cohere lanza Parse, modelo de vision de 2.300 M de parametros para documentos de empresa",
+        "Google actualiza Gemini Omni 1.1 Flash con extension de escena, control de fotogramas y reescalado a 4K",
+        "El IPC adelantado de agosto sube al 4,3% interanual",
+        "Seguimiento: Interior anuncia medidas extraordinarias de contencion fisica en Ceuta",
+        "Entra en vigor la nueva jubilacion flexible (RD 416/2026)",
+        "Seguimiento: la riada del Himalaya pasa de 160 a 547 muertos solo en Nepal",
+        "Al menos 47 muertos y mas de 50 secuestrados en Kenscoff, Haiti",
+        "Seguimiento: Iran prepara una lista de condiciones para reabrir el estrecho de Ormuz"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
+    {
+      "fecha": "2026-08-28",
+      "enviado_utc": "2026-08-28T07:55:27Z",
+      "envios": [
+        "2026-08-28T07:55:27Z (envio ordinario)"
+      ],
+      "titulares": [
+        "Seguimiento: Nvidia se queda Hugging Face y las cifras no cuadran entre si",
+        "La FDA aprueba el primer inhibidor de RAS para cancer de pancreas metastasico",
+        "Anthropic firma 45.000 M$ con Nscale por 460 MW en Virginia Occidental",
+        "Un investigador encadena tres bugs ya publicos y se escapa del sandbox de V8",
+        "Seguimiento: Ox Alpha era Z.ai, y la pista china que se habia enfriado era la buena (GLM-5.3-Flash)",
+        "El plan de Meta para sustituir plantilla por agentes se cayo solo",
+        "Salesforce mete su CRM dentro de Claude con Claudeforce",
+        "Google lanza Gemini 3.5 Transcribe con 2,6% de tasa de error y deteccion de 85+ idiomas",
+        "ChatGPT pasa a soportar WebMCP en su navegador integrado",
+        "Seguimiento: Marlaska cierra la ronda de comparecencias por Ceuta",
+        "Muere Ratko Mladic en la prision de La Haya a los 84 anos",
+        "Rusia amenaza con atacar objetivos militares britanicos dentro y fuera de Ucrania",
+        "Seguimiento: el acuerdo de Meta con 29 estados no cierra nada",
+        "Seguimiento: Nepal teme un segundo desastre en el mismo punto"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
+    {
+      "fecha": "2026-08-27",
+      "enviado_utc": "2026-08-27T08:15:34Z",
+      "envios": [
+        "2026-08-27T08:15:34Z (envio ordinario)"
+      ],
+      "titulares": [
+        "SpaceX compromete hasta 100.000 M$ en un segundo Starbase, en Luisiana",
+        "Apple mete el primer chip de 2 nm de la serie M en un Mac mini de 899 $",
+        "Amazon prepara estaciones de reparto sin personas, de momento hoja de ruta y no despliegue",
+        "Seguimiento: el mercado de credito ya le pone numero al riesgo de Nvidia, 82 pb, record",
+        "Anthropic fusiona la memoria de Claude y Cowork y la deja activada por defecto",
+        "OpenAI ensena los numeros de Jalapeno y le gana a Nvidia, pero solo en inferencia",
+        "Perplexity y Nvidia bajan el agente al escritorio con Portable Computer",
+        "IBM publica Granite 4.2 con licencia Apache 2.0",
+        "Seguimiento: el Gobierno aprueba en primera vuelta la reforma de extranjeria y una nueva ley de asilo",
+        "Seguimiento: el PSOE admite que el CNI pudo avisar de las entradas a nado, pero no de su alcance",
+        "Una riada glaciar arrasa la frontera Nepal-Tibet: mas de 160 muertos y cientos de desaparecidos",
+        "Meta paga unos 18.000 M$ y acepta limites de uso para menores"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
+    {
+      "fecha": "2026-08-26",
+      "enviado_utc": "2026-08-26T07:44:11Z",
+      "envios": [
+        "2026-08-26T07:44:11Z (envio ordinario)"
+      ],
+      "titulares": [
+        "Un LLM puede tomar el control de la maquina que lo ejecuta atacando su propio motor de inferencia",
+        "Seguimiento: Tesla pone fecha al Cybercab, 3 de septiembre en Austin",
+        "Los centros de datos rentabilizan por fin el transformador de estado solido",
+        "Uber dice que los agentes escriben ya mas del 70% de sus pull requests",
+        "Alibaba lanza Wan3.0 un dia despues de la mayor ampliacion de capital de una cotizada de Hong Kong",
+        "Nvidia pone en produccion el Groq 3 LPX y separa el trabajo de inferencia en dos piezas",
+        "Seguimiento: Ox Alpha pone numeros al misterio, 26 billones de tokens en cuatro dias",
+        "Aagesen comparece en el Congreso por los incendios y los precios de la energia",
+        "Seguimiento: la Conferencia Sectorial de Infancia nace ya rota",
+        "Muere Dolly Parton a los 80 anos",
+        "Seguimiento: Canada concreta el dolar por dolar para septiembre y Carney sale reforzado",
+        "Dos centros de datos proyectados en Inglaterra emitiran mas CO2 que toda la operacion britanica de ExxonMobil"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
+    {
+      "fecha": "2026-08-25",
+      "enviado_utc": "2026-08-25T07:42:36Z",
+      "envios": [
+        "2026-08-25T07:42:36Z (envio ordinario)"
+      ],
+      "titulares": [
+        "Nvidia sube mas de un 15% el precio de sus servidores de IA y el motivo es la memoria, no la GPU",
+        "IBM ensena el primer procesador cuyos nucleos ejecutan Z y Arm a la vez, sin emulacion",
+        "El nuevo plan de MCP admite que el problema no eran las herramientas, era el transporte",
+        "El iPhone plegable, para el 9 de septiembre y por encima de 2.000 $ (segun Gurman, no segun Apple)",
+        "Hugging Face contrata banco para tantear su venta a 13.000 M$",
+        "Los pesos abiertos ya son el 62% de los tokens, y siguen sin ser el 62% del dinero",
+        "DeepSeek publica un modelo multimodal experimental a un punto de Opus 4.8 en tareas de agente",
+        "Anthropic reparte lo que su modelo mas fuerte encuentra, pero no el modelo",
+        "OpenAI recorta mas de un 20% el precio de GPT-5.6 Sol y pone fecha de caducidad al descuento",
+        "Seguimiento: el Gobierno declara Ceuta situacion de interes para la seguridad nacional y crea un mando unico",
+        "Espana pide formalmente fondos de emergencia a Bruselas y Sanidad manda 45.000 dosis de vacunas a Ceuta",
+        "EE. UU. amenaza con sancionar a cualquier pais o entidad con lazos economicos con Iran",
+        "Las denuncias por violencia policial francesa en las playas del Canal suben un 39%",
+        "Seguimiento: MBDA desclasifica componentes del misil SCALP para Ucrania"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null
+    },
     {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
