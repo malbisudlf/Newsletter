@@ -2,6 +2,27 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-08-31",
+      "enviado_utc": "2026-08-31T07:10:08Z",
+      "titulares": [
+        "Un infostealer esta robando sesiones activas de Claude y Anthropic desconecta a los afectados",
+        "OpenAI compra decenas de miles de Mac mini y Mac Studio para cargas de aprendizaje por refuerzo",
+        "Hasbro notifica una brecha de datos de empleados cinco meses despues del ataque",
+        "Los chatbots aguantan la propaganda estatal mejor que los buscadores (NPR/NewsGuard)",
+        "Caterpillar traslada lo aprendido con 690 camiones mineros autonomos al resto de la empresa",
+        "Seguimiento: Sanchez rompe un mes de silencio sobre Ceuta y moviliza otros 165 millones",
+        "Puente presenta los nuevos Cercanias de Madrid: 912 y 1.884 plazas y un 20% mas de capacidad",
+        "Agosto se cierra estable y septiembre entra con calor de pleno verano",
+        "EE. UU. bombardea lanzaderas iranies en Ormuz e Iran responde contra bases en Jordania y Emiratos",
+        "Seguimiento: la riada del Himalaya sube a 903 muertos y 4.247 desaparecidos",
+        "Islandia rechaza en referendum reabrir las negociaciones de adhesion a la UE (52,8%-47,2%)",
+        "Dans: 'De Aristoteles a Bacon: el giro que necesita la inteligencia artificial corporativa'"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": null,
+      "_nota_ejecucion": "TLDR y TLDR AI no se usaron: su edicion mas reciente (28/08) ya se resumio en el briefing del 29/08. Secciones 1 y 2 construidas solo con busqueda web; bloque 'Nuevos lanzamientos' omitido por falta de lanzamientos dentro de la ventana. Seccion 3.5 omitida entera (The Trader sin edicion nueva desde el 20/08; Dinero Claro sin ninguna edicion real desde el alta del 20/08). Klosh Letter: 21 dias laborables sin edicion desde el 31/07."
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
