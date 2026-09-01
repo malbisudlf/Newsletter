@@ -2,6 +2,51 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-01",
+      "enviado_utc": "2026-09-01T04:51:55Z",
+      "envios": [
+        "2026-09-01T04:51:55Z (envio ordinario, disparado por API tras el correo de datos de las 04:40Z)"
+      ],
+      "titulares": [
+        "John Ternus es desde hoy el consejero delegado de Apple; Cook pasa a presidente ejecutivo",
+        "SpaceX se pone a fundir alabes de turbina en Bastrop (Texas) para no hacer cola por los generadores",
+        "Alphabet coloca 25.000 M$ en bonos con 115.000 M$ de demanda y volvera al mercado dos veces al ano",
+        "YouTube cuenta una visualizacion desde el primer fotograma desde el 24 de agosto",
+        "OpenAI corta el acceso de Cursor a sus modelos el 12 de noviembre tras la compra por SpaceX",
+        "El postmortem de METR y Redwood sobre las civilizaciones de agentes de OpenAI deja fuera la parte mas grave",
+        "Anthropic dice que sus investigadores automaticos cierran hasta el 96% del hueco de seguridad de un modelo",
+        "Nvidia mueve el argumento de la GPU a la CPU con Vera (88 nucleos Arm, NVLink-C2C 1,8 TB/s)",
+        "OpenAI extiende las pruebas de publicidad en ChatGPT a 31 mercados europeos, Espana incluida (sin verificar)",
+        "Seguimiento: el acuerdo de Meta por adiccion de menores se cierra en 48 estados y deja fuera a Florida y Nuevo Mexico",
+        "Espana disparo un 42% las compras de gas ruso entre enero y junio, a meses del veto europeo",
+        "Opinion en Cinco Dias: seguro de hogar obligatorio para todas las viviendas",
+        "Palabra del dia: derrama de una comunidad de propietarios"
+      ],
+      "tldr_ai_usado": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJqBe_oAAAA=",
+        "fecha": "2026-08-31T14:06:34Z",
+        "asunto": "OpenAI Cursor split, self-improving AI, GPT-6 Astra"
+      },
+      "tldr_usado": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJqBe_kAAAA=",
+        "fecha": "2026-08-31T10:32:55Z",
+        "asunto": "OpenAI blocks Cursor, Apple's new CEO, GitHub Agentic Workflows"
+      },
+      "incidencias": [
+        "Ejecucion a las 06:40 (Madrid), por delante de Klosh (07:00), Enrique Dans (07:10) y Guardian (08:00): ninguna habia llegado. Sin bloque de Espana ni de opinion.",
+        "Klosh Letter: 22 dias laborables sin edicion. MultiVersial anuncia que vuelve el 2026-09-02 a las 07:00 (paron de verano, no baja).",
+        "The Trader: 12 dias desde el alta del 20/08 sin edicion real (>8 dias). Bloque Mercados omitido.",
+        "Dinero Claro: martes, su dia, y sin edicion real desde el alta del 20/08. Bloque Finanzas personales omitido.",
+        "Fuente no contemplada: MultiVersial (multiversialnewsletter@substack.com), llegada a la BANDEJA DE ENTRADA, no a Newsletters. 4 hechos usados. Falta regla de buzon.",
+        "Correo de datos: feed de Cinco Dias en CAIDA y RTVE con 0 titulares; los 8 titulares salen todos de Economia en EL PAIS."
+      ],
+      "limpieza": {
+        "briefings_movidos": 1,
+        "life_assistant_movidos": 0,
+        "newsletters_movidas": 1
+      }
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
