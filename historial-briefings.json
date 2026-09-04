@@ -2,6 +2,32 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-04",
+      "enviado_utc": "2026-09-04T08:10:56Z",
+      "titulares": [
+        "Google conserva AdX: la jueza Brinkema rechaza trocear su negocio publicitario",
+        "Uber despide al 10% de su plantilla corporativa: 3.300 personas",
+        "Londres estrena robotaxis: 15 coches de Uber y Wayve",
+        "El Departamento de Justicia de EE. UU. se pone del lado de OpenAI frente al New York Times",
+        "Seguimiento: Anthropic pausa parte de su entrenamiento por refuerzo y encarga a METR una revision externa",
+        "Meta lanza Muse Spark 1.3",
+        "Google publica Gemini 3.8 Flash y una variante Cyber",
+        "Meta abre lista de espera para Muse, su superapp de agentes",
+        "Seguimiento: Sanchez comparece por Ceuta y dice que 'de momento' no hay indicios solidos contra Marruecos",
+        "Volkswagen aprueba el mayor ajuste de su historia y deja el futuro de Seat en el aire",
+        "Mas de 80 muertos en un cayuco que paso 26 dias a la deriva rumbo a Canarias",
+        "Malta absuelve a Yorgen Fenech del asesinato de Daphne Caruana Galizia",
+        "Seguimiento: dos trabajadores salen vivos de un tunel en Nepal nueve dias despues de la riada",
+        "Milei reabre el frente de Malvinas con sanciones y una base naval",
+        "Dans: 'Google: dos monopolios ilegales y ninguna consecuencia'",
+        "CC OO llevara ante el juez la 'corrupcion' en las elecciones sindicales de las subcontratas de Uber Eats y Glovo",
+        "Cinco Dias: 'Una incomoda sensacion de deja vu en los mercados'",
+        "Palabra del dia: los ficheros de morosos (ASNEF)"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJqBfAIAAAA=",
+      "tldr_ai_email_fecha": "2026-09-03"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
