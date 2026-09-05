@@ -2,6 +2,42 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-05",
+      "enviado_utc": "2026-09-05T08:11:56Z",
+      "titulares": [
+        "Nvidia confirma la compra de Hugging Face por 12.930 millones de dólares",
+        "Meta llegó a planear recortar equipos enteros un 60% y sustituir el trabajo por IA, y se echó atrás",
+        "Un riñón de cerdo mantiene vivo a un paciente 271 días hasta que llega uno humano",
+        "Publicado el conectoma completo del sistema nervioso central de la mosca macho: 166.000 neuronas y 125 millones de sinapsis",
+        "Seguimiento: OpenAI lanza GPT-6 Astra y su presidente dice «bienvenidos a la era de la AGI»",
+        "Un prompt de investigación en seguridad se convierte en jailbreak universal contra 23 modelos de 7 proveedores",
+        "Microsoft saca MAI-Transcribe-2 a 0,10 $ la hora de audio y revienta el precio de la transcripción",
+        "Runway presenta GWM Worlds 2, un modelo de mundo interactivo en tiempo real a 720p",
+        "Grok Bot llega a empresas, con dos semanas gratis para clientes de Grok y Cursor Enterprise (sin fuente primaria)",
+        "España iguala su récord de calor en septiembre con 45,7 ºC y la AEMET activa el primer aviso rojo de septiembre de su historia",
+        "La nueva financiación autonómica arranca su recorrido legislativo sin mayoría asegurada",
+        "La Asamblea General de la ONU aprueba por 164 votos contra 1 promover el mapa Equal Earth frente a la proyección de Mercator",
+        "Seguimiento: la riada de Nepal y el Tíbet sube de 1.114 a cerca de 1.290 muertos y rebaja los desaparecidos a 3.916",
+        "Dans: 'Llega el spam de comentarios con inteligencia artificial'",
+        "Hurtado: tres prompts encadenados de dinámica de sistemas para analizar un documento",
+        "Al dia: la 'trumpflation' agarrota al BCE",
+        "Al dia: la Bolsa se escuda en los resultados ante la marea de los tipos",
+        "La palabra del dia: plan de pensiones de empleo"
+      ],
+      "tldr_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJqBfAkAAAA=",
+      "tldr_email_fecha": "2026-09-04",
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJqBfAoAAAA=",
+      "tldr_ai_email_fecha": "2026-09-04",
+      "incidencias": [
+        "Sabado: Klosh, Guardian y TLDR no publican fin de semana (cadencia normal, no ausencia).",
+        "The Trader y Dinero Claro: ninguna edicion real desde que se confirmo la suscripcion el 20/08 (16 dias). Ausencia real; bloques Mercados y Finanzas personales omitidos.",
+        "Fuentes de economia del correo de datos: CincoDias CAIDA y rtve.es con 0 titulares.",
+        "CLIMA no disponible en el correo de datos; bloque omitido.",
+        "Reloj: sin datos de ninguna fuente hoy; ultimo sueno registrado del 03/09."
+      ],
+      "_nota_entrada": "Las entradas del 01/08 al 04/09 no constan: el contenedor de ejecucion es efimero y el fichero no persiste entre ejecuciones. La memoria real de la rutina son los briefings del buzon."
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
