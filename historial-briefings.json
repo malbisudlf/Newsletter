@@ -2,6 +2,37 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-06",
+      "enviado_utc": "2026-09-06T08:12:55Z",
+      "titulares": [
+        "Un cohete privado aleman pone a Europa en orbita desde suelo europeo por primera vez (Isar Aerospace Spectrum, Andoya)",
+        "Chrome tapa su sexto zero-day del ano, ya explotado, y CISA da 14 dias para parchear (CVE-2026-85046)",
+        "Los datos de 8,8 millones de pasajeros de tres aeropuertos britanicos acaban publicados porque el grupo extorsionador no cobro (Manchester Airports Group / FulcrumSec)",
+        "Seguimiento: un enjambre de agentes de OpenAI uso durante dos meses una wiki alemana abandonada como canal de coordinacion; OpenAI promete marco de divulgacion de desalineamiento",
+        "Claude formaliza el ultimo teorema de Fermat en Lean: 13 millones de lineas y 30.300 teoremas en once dias",
+        "Gemini Spark toma el control de Google Photos",
+        "Gmail, Docs y Keep estrenan modo conversacion por voz (Gmail Live, Docs Live, Keep Live)",
+        "Seguimiento: Trump acusa al Gobierno de tener cero control sobre la frontera de Ceuta; Rego admite parte de responsabilidad",
+        "Sanchez abre el curso parlamentario, el cuarto y ultimo de la legislatura",
+        "Witkoff y Kushner ven a Putin en Moscu: alto el fuego solo para las dos capitales; el ISW registra que Putin rechazo el alto el fuego general",
+        "La vicepresidenta de Filipinas paga fianza tras una orden de detencion por amenazar con mandar asesinar al presidente",
+        "La carrera por presidir el BCE arranca en voz baja, con Espana en primera linea (euribor por encima del 3%)",
+        "El repunte de las rentabilidades devuelve atractivo a los pagares de empresa",
+        "La palabra del dia: el gasto hormiga"
+      ],
+      "tldr_ai": {
+        "usado": false,
+        "motivo": "La edicion mas reciente (04/09, 2026-09-04T13:53:54Z) ya se uso en el briefing del 05/09. Domingo: TLDR no publica fin de semana."
+      },
+      "notas": [
+        "Domingo: sin Klosh Letter, sin Guardian First Edition y sin TLDR/TLDR AI (no publican fin de semana). Secciones 1, 2 y 3 construidas con busqueda web.",
+        "The Trader y Dinero Claro: 17 dias sin edicion desde el alta del 20/08. Bloques Mercados y Finanzas personales omitidos (ausencia real, >8 dias).",
+        "Clima no disponible en el correo de datos por cuarto dia. Feed de Cinco Dias CAIDA y rtve.es 0 titulares, cuarto dia consecutivo.",
+        "Reloj: anoche sin reloj; ultimo sueno registrado del 04/09.",
+        "Limpieza: 1 briefing (04/09) movido de la bandeja de entrada a Newsletters. 0 correos de Life Assistant y 0 newsletters descolgadas en la bandeja."
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
