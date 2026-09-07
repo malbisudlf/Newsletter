@@ -2,6 +2,46 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-07",
+      "enviado_utc": "2026-09-07T06:07:52Z",
+      "titulares": [
+        "Rhysida publica 5,8 TB de datos del Gobierno de Berlin tras negarse la ciudad a pagar 30 bitcoins",
+        "La cadena de fallos de PaperCut (CVE-2026-81578 + CVE-2026-82078) se usa contra colegios y universidades de EE. UU. y Europa",
+        "Nvidia: el techo lo pone la fabrica, no el cliente (2T fiscal 2027, 279.000 M$ en compromisos de suministro) [MultiVersial]",
+        "Apple ensena el miercoles su primer iPhone plegable, y es el primer keynote sin Tim Cook",
+        "Anthropic presenta esta semana el folleto de su salida a bolsa",
+        "Seguimiento: la NHTSA abre investigacion sobre los Cybercab sin volante",
+        "Qwen3.8-Max-0902 se coloca primero en Code Arena WebDev",
+        "Claude Mythos 5.1, el gemelo de acceso restringido de Fable 5.1",
+        "Seguimiento: el Gobierno interviene el puerto de Ceuta para carpas para mas de 1.000 migrantes",
+        "Seguimiento: cifras del nuevo modelo de financiacion autonomica y el rechazo de 12 comunidades",
+        "La AfD arrasa en Sajonia-Anhalt con el 43,8% y se queda a tres escanos de la mayoria",
+        "Seguimiento: EE. UU. destruye tres petroleros iranies tras un ataque con misiles contra dos de sus buques",
+        "Un carguero de Amazon se sale de pista en Miami y mata al menos a cinco personas",
+        "Von der Leyen viaja a Groenlandia con 200 millones y un mensaje para Trump",
+        "Palabra del dia: gestion activa y gestion pasiva"
+      ],
+      "tldr_ai": {
+        "usado": false,
+        "motivo": "la edicion mas reciente es la del 2026-09-04 y ya se uso en el briefing del 2026-09-05"
+      },
+      "tldr": {
+        "usado": false,
+        "motivo": "idem, edicion del 2026-09-04 ya usada el 2026-09-05"
+      },
+      "fuentes_base_usadas": [
+        "Klosh Letter (2026-09-07)",
+        "Guardian First Edition (2026-09-07)",
+        "El blog de Enrique Dans (2026-09-07)",
+        "MultiVersial (2026-09-07, fuente no contemplada)"
+      ],
+      "bloques_omitidos": [
+        "Mercados (The Trader: 18 dias sin edicion)",
+        "Finanzas personales (Dinero Claro: 18 dias sin edicion)",
+        "David Hurtado (no llego hoy)"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
