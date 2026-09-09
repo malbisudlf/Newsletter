@@ -2,6 +2,38 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-09",
+      "enviado_utc": "2026-09-09T07:20:00Z",
+      "titulares": [
+        "XPeng enciende la primera linea automatizada de robots humanoides (IRON, >80% procesos automatizados)",
+        "Shein pierde unos 5.000 M$ en su primera semana cotizando en Hong Kong",
+        "Seguimiento: Huawei lanza el Mate XT2 tri-plegable 59 horas antes del keynote del iPhone plegable",
+        "Rentosertib (Insilico): senales de reduccion de edad biologica en seis relojes proteomicos, Nature Biotechnology",
+        "Seguimiento: Anthropic firma 517.000 M$ en computo en once meses (14,8 GW)",
+        "DeepMind: 100 agentes en Lean 4 derivan en tramposos, conversos y chivatos",
+        "TPUv7 Ironwood: hasta 50% mejor rendimiento por dolar que B200/B300 y venta externa",
+        "OpenAI prepara Managed Agents para su DevDay 2026",
+        "ByteDance prepara un modelo de mundo de video espacial en tiempo real",
+        "Espana firma sus peores resultados historicos en PISA (lectura 451, matematicas 457, ciencias 477)",
+        "Interior admite un dosier con fichas ideologicas de periodistas; la FAPE lo condena",
+        "El Supremo suspende cautelarmente el voto de los nacionalizados por la ley de nietos",
+        "Doce paises restringen el comercio con los asentamientos israelies; Reino Unido habla de limpieza etnica",
+        "Seguimiento: EE. UU. hunde cinco petroleros iranies e Iran responde en Jordania y Ormuz",
+        "Haaretz sostiene que Emiratos aviso a Netanyahu diez dias antes del 7-O; Netanyahu lo desmiente",
+        "Dans: la factura invisible de que te vigilen (coste en CPU, bateria y energia del tracking)",
+        "David Hurtado: la logica agentica sustituye la escalera de tramos de descuento",
+        "Economia: la reunificacion de deudas y sus contrapartidas",
+        "Economia: Cinco Dias avisa de un invierno duro para los carburantes",
+        "Palabra del dia: los tipos de interes oficiales del BCE"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACJ8WQrEAAAA=",
+      "tldr_ai_email_fecha": "2026-09-08",
+      "bloques_omitidos": [
+        "Mercados (The Trader, sin edicion nueva desde el 20/08)",
+        "Finanzas personales (Dinero Claro, sin edicion nueva desde el 20/08)"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
