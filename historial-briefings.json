@@ -2,6 +2,34 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
@@ -38,32 +66,37 @@
       "tldr_ai_email_fecha": null
     },
     {
-      "fecha": "2026-07-30",
-      "enviado_utc": "2026-07-30T06:10:00Z",
+      "fecha": "2026-09-13",
+      "enviado_utc": "2026-09-13T07:52:00Z",
       "titulares": [
-        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
-        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
-        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
-        "Amazon entra en satelite directo-a-dispositivo (D2D)",
-        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
-        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
-        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
-        "La guerra por los pesos abiertos se traslada al regulador",
-        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
-        "xAI lanza Build Mode para SuperGrok Heavy",
-        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
-        "Amazon consolidaria Nova en un unico modelo frontera",
-        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
-        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
-        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
-        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
-        "Los huties amenazan con imponer peajes en Bab el Mandeb",
-        "Japon: 18 muertos por el terremoto",
-        "Guyana: acusan de asesinato al capitan del ferry hundido",
-        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+        "Seguimiento: informe forense de GreyNoise sobre PaperCut - enjambre de cientos de agentes de IA sobre Codex y DeepSeek, 440 instancias en 395 organizaciones de 48 paises",
+        "El Pentagono negocia prestar 5.000 M$ a Fluidstack para la cadena de suministro electrica de los centros de datos (WSJ)",
+        "TSMC rompe los 500.000 M NT$ de ingresos mensuales en agosto: 514.800 M NT$, +53,3% interanual",
+        "Seguimiento: Amodei pide por escrito frenar el ritmo de la IA y Altman y Musk le secundan el mismo dia",
+        "OpenAI cierra las altas del plan Pro de 200 $/mes por la demanda de Astra (solo consta en TLDR AI)",
+        "OpenAI abre en beta publica la Agents API",
+        "GPT-Live-1: voz full-duplex a 0,05 $/minuto",
+        "Cognition SWE-2: 50,0% en FrontierCode 1.1 Main1 siendo un 64% mas barato",
+        "Seguimiento: Ceuta - Espana gasto 8 M EUR en una red de inteligencia que no funciono; cien personas siguen acampadas en el solar quemado",
+        "La huelga de Airbus queda en pausa por 67 votos y UGT, CGT y UTIL marchan de Getafe a Industria",
+        "Seguimiento: los huties toman la isla de Mayun en Bab el-Mandeb y Arabia Saudi cierra el oleoducto Este-Oeste",
+        "Xi, Putin y Modi en la 18a cumbre de los BRICS en Nueva Delhi",
+        "Dans: el dilema del prisionero aplicado a la pausa de la IA",
+        "David Hurtado: ChatGPT Work usa Computer Use sobre Edge en vez del conector de Outlook",
+        "Al dia: tarjetas revolving por encima del 22% TAE con la ley atascada (El Pais)",
+        "Al dia: el reglamento europeo de IA y las tareas de alto riesgo con multas millonarias (El Pais)",
+        "La palabra del dia: que es un indice bursatil (IBEX 35, S&P 500, MSCI World)"
       ],
-      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
-      "tldr_ai_email_fecha": "2026-07-29"
+      "tldr_ai_usado": {
+        "fecha": "2026-09-11",
+        "asunto": "Agents API, Cognition SWE-2, Muse Shared Agents",
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACKKNli8AAAA="
+      },
+      "tldr_usado": {
+        "fecha": "2026-09-11",
+        "asunto": "OpenAI Agents API, open model adoption, sharded Postgres"
+      },
+      "notas": "Domingo: sin Klosh, Guardian, MultiVersial ni TLDR nuevas (cadencia L-V). Bloque Mercados omitido: The Trader n172 ya se uso el 11/09. Bloque Finanzas personales omitido: Dinero Claro sin edicion desde el 20/08 (24 dias). Fuentes de economia del correo de datos: Cinco Dias CAIDA y rtve.es 0 titulares."
     }
   ]
 }
