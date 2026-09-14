@@ -2,6 +2,53 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-14",
+      "enviado_utc": "2026-09-14T06:05:09Z",
+      "envios": [
+        "2026-09-14T06:05:09Z (envio ordinario)",
+        "2026-09-14T06:16:55Z (copia duplicada entregada por el conector pese a una unica llamada de envio; movida a Newsletters en la fase 5)"
+      ],
+      "titulares": [
+        "El DOJ investiga si Nvidia disfrazo de licencia la compra de Groq (20.000 M$)",
+        "Amazon empieza a vender publicidad dentro de ChatGPT a traves de Amazon DSP",
+        "Bending Spoons compra Miro por 1.355 M$, un 90% por debajo de su valoracion de 2021",
+        "Un solo plan de vuelo militar tumba el control aereo britanico: +2.000 vuelos cancelados (NATS)",
+        "California prohibe las funciones adictivas a menores de 16 y obliga a los chatbots a identificarse",
+        "Seguimiento: OpenAI pregunta al Congreso si pactar el freno de la IA con sus rivales es legal",
+        "Anthropic negocia con Nvidia una OPV de hasta 100.000 M$ sobre ~2 billones de valoracion",
+        "OpenAI lanza ChatGPT for Financial Services",
+        "Universal Music licencia su catalogo a ElevenLabs para una plataforma de remezcla con IA",
+        "Seguimiento Ceuta: 864 migrantes trasladados a Los Rosales y plazas agotadas el mismo dia",
+        "La contratacion se dispara en Ceuta por la vigilancia privada (+18% en agosto)",
+        "Investigan como crimen machista la muerte de una mujer en San Sebastian de los Reyes",
+        "El bloque de izquierda gana en Suecia por uno o tres escanos segun la fuente",
+        "Dron ruso alcanza un tren a 2 km de la frontera polaca; posible objetivo: Boris Johnson y David Petraeus",
+        "Seguimiento: los huties completan la costa del mar Rojo (+500 soldados muertos, decenas de miles de desplazados)",
+        "Espana encabeza el esfuerzo europeo para comprar vivienda: indice 188,6 frente a 110 de la zona euro",
+        "Revolut supera los siete millones de clientes en Espana",
+        "Palabra del dia: deficit publico"
+      ],
+      "tldr_ai": {
+        "usado": false,
+        "motivo": "La edicion mas reciente (2026-09-11) ya se resumio entera en el briefing del 13/09: Agents API, SWE-2, GPT-Live-1 y la pausa del plan Pro."
+      },
+      "tldr_principal": {
+        "usado_parcialmente": true,
+        "fecha_edicion": "2026-09-11",
+        "motivo": "Su titular de portada (Agents API) ya se publico el 13/09; solo se uso lo restante, fechado."
+      },
+      "bloques_omitidos": [
+        "Mercados (The Trader): nº 172 del 10/09 ya usado en el briefing del 11/09; cadencia semanal de jueves.",
+        "Finanzas personales (Dinero Claro): 25 dias sin edicion desde el alta del 20/08.",
+        "David Hurtado: su ultimo correo es del domingo 13/09, no de hoy.",
+        "Entrenamiento (cliente): 2 de 4 sesiones desde el ultimo cobro, no toca cobrar."
+      ],
+      "incidencias": [
+        "Fuente de economia 'Europa Press - Finanzas' con 0 titulares (URL probablemente rota).",
+        "El termino 'tipo de interes real' figuraba como ya explicado, pero el 12/09 no salio briefing; se definio de pasada hoy."
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
