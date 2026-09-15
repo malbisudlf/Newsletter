@@ -2,6 +2,34 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
@@ -38,32 +66,43 @@
       "tldr_ai_email_fecha": null
     },
     {
-      "fecha": "2026-07-30",
-      "enviado_utc": "2026-07-30T06:10:00Z",
+      "fecha": "2026-09-15",
+      "enviado_utc": "2026-09-15T08:11:46Z",
       "titulares": [
-        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
-        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
-        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
-        "Amazon entra en satelite directo-a-dispositivo (D2D)",
-        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
-        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
-        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
-        "La guerra por los pesos abiertos se traslada al regulador",
-        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
-        "xAI lanza Build Mode para SuperGrok Heavy",
-        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
-        "Amazon consolidaria Nova en un unico modelo frontera",
-        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
-        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
-        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
-        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
-        "Los huties amenazan con imponer peajes en Bab el Mandeb",
-        "Japon: 18 muertos por el terremoto",
-        "Guyana: acusan de asesinato al capitan del ferry hundido",
-        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+        "Microsoft planea triplicar su capacidad de centros de datos hasta 38 GW en 2032 (Microsoft discute las cifras de Bloomberg sin dar las suyas)",
+        "Seguimiento Automattic: no cayo Mullenweg, cayo el consejo que intento apartarlo (33 h 20 min fuera; salen Davies, Missan, Schneider, Decker y Dunwoody)",
+        "Apple deja a Qualcomm casi fuera del iPhone con su modem propio C2; excepcion del 18 Pro Max en EE. UU.",
+        "Roblox Everywhere: juegos publicables como apps independientes y jugables en Chrome sin instalar",
+        "Seguimiento: Trump llama 'conspiracion enferma' a quien pide frenar la IA y el Nasdaq 100 cae un 1,7%",
+        "OpenAI descarta salir a bolsa en 2026 y SoftBank se endeuda otros 11.870 M$ (amortiza hoy 25.900 M$ del puente de 40.000 M$)",
+        "Cursor lanza Projects: agente coordinador sobre miles de subagentes; el +30% de PR son cifras propias sin auditar",
+        "Sakana Fugu Ultra v2: enrutador recursivo, 48,3 en Chartography sin modelo frontera propietario en su pool",
+        "Real-SWE: el mejor agente (Fable 5.1 via Claude Code, 38,8%) falla mas de 6 de cada 10 veces en codigo privado",
+        "Seguimiento: la JEC acata por 7-6 la suspension del voto de los nacionalizados por la 'ley de nietos'",
+        "Seguimiento: la Audiencia Nacional pide quedarse la causa contra el delegado del Gobierno en Ceuta (solo en Klosh)",
+        "Asesinada en Morelos Claudia Tacoronte, estudiante de la Universidad de Granada de 21 anos",
+        "Trump anuncia una tregua energetica Rusia-Ucrania que Kiev no confirma",
+        "Seguimiento: cazas de la OTAN derriban un dron sobre Lituania y Polonia levanta aviacion preventiva",
+        "Escocia, Gales e Irlanda del Norte firman en Cardiff un memorando pidiendo a Westminster que facilite el cambio constitucional",
+        "IPC de agosto confirmado en el 4,3%, maximo desde febrero de 2023; subyacente 2,9%",
+        "La gasolina es mas cara que el diesel por primera vez desde marzo (mecanismo de salvaguarda)",
+        "Palabra del dia: novacion de hipoteca"
       ],
-      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
-      "tldr_ai_email_fecha": "2026-07-29"
+      "tldr_ai": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACKPm-QoAAAA=",
+        "fecha": "2026-09-14",
+        "asunto": "Amodei slows frontier, ARC-AGI-4, Cursor Projects"
+      },
+      "tldr_principal": {
+        "fecha": "2026-09-14",
+        "asunto": "AI slowdown, Tesla Roadster v2, forward deployed engineers"
+      },
+      "incidencias": [
+        "Dinero Claro: sin edicion nueva desde el 2026-08-20 (26 dias). Bloque de Finanzas personales omitido.",
+        "David Hurtado: no llego hoy (cadencia irregular, no cuenta como fallo).",
+        "The Trader: la edicion mas reciente (n 172, 2026-09-10) ya se uso en el briefing del 11/09; bloque Mercados omitido por cadencia normal, sin incidencia.",
+        "Limpieza: movidos a Newsletters el briefing del 13/09 y 'InfoMensa N 567' (infomensa@mensa.es), newsletter sin regla de buzon propia."
+      ]
     }
   ]
 }
