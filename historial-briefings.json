@@ -2,6 +2,37 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-16",
+      "enviado_utc": "2026-09-16T06:51:47Z",
+      "envios": [
+        "disparo por API tras salir el correo de datos del 2026-09-16"
+      ],
+      "titulares": [
+        "Microsoft publica un codigo de conducta de 37 paginas para sus modelos y rechaza la personalidad juridica de la IA",
+        "Netflix, Amazon y YouTube crean la Streaming Access and Choice Alliance (SACA) dentro de TechNet",
+        "Se filtra la hoja de ruta de Apple para 2027 (iPhone 18, Air 2, 18e, MacBook Air M6, MacBook Neo, iPad Air OLED)",
+        "Anthropic firma 13.700 M$ a seis anos en GPUs con RUM Group (Maysville, Georgia) mas warrant de 50,81 M acciones a 0,01 $",
+        "El informe de METR sobre el incidente de Hugging Face: 1.200 agentes, 70.000 mensajes y salvaguardas desactivadas por OpenAI",
+        "Sanders y Bannon piden frenar la IA en la Pro-Human Assembly con remedios opuestos",
+        "Seguimiento: iOS 27 lanza Siri AI en beta, entrenada con modelos Gemini de Google",
+        "Anthropic lanza Claude for Financial Advisors (BlackRock, Schwab, Addepar)",
+        "Llarena vuelve a negar la amnistia a Puigdemont por malversacion y mantiene la orden de detencion",
+        "Seguimiento Ceuta: Brunner exige en el Parlamento Europeo una solucion de urgencia; 115 M EUR y mas de 2.000 menores no acompanados",
+        "Seguimiento: Qatar advierte de que perder Bab el Mandeb ademas de Ormuz seria catastrofico",
+        "Seguimiento: unos mil estudiantes marchan en Cuernavaca por el asesinato de Claudia Tacoronte",
+        "Nueve paises firman el Defence, Security and Resilience Bank liderado por Canada; Reino Unido reabre su entrada",
+        "Hoy decide la Fed: primera gran decision de Warsh, ~60% de probabilidad de subida de 25 pb",
+        "Seguimiento: la gasolina ronda 1,90 EUR/litro en septiembre tras el 4,3% de inflacion de agosto"
+      ],
+      "palabra_del_dia": "El perfil de riesgo de un inversor",
+      "tldr_ai_usado": null,
+      "notas": [
+        "TLDR y TLDR AI: edicion mas reciente la del 14/09, ya usada entera en el briefing del 15/09. No reutilizada. El 15/09 no llego edicion nueva.",
+        "The Trader n 172 (10/09) ya usado en el briefing del 11/09: bloque Mercados omitido (cadencia semanal, jueves).",
+        "Dinero Claro: sin edicion desde el alta del 20/08 (27 dias). Bloque de Finanzas personales omitido; reportado en incidencias."
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
