@@ -1,6 +1,43 @@
 {
-  "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
+  "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. El fichero se commitea al repositorio para que sobreviva entre ejecuciones (el contenedor es efimero: escribirlo sin commitear no persiste).",
   "briefings": [
+    {
+      "fecha": "2026-09-17",
+      "enviado_utc": "2026-09-17T07:05:32Z",
+      "titulares": [
+        "SpaceX intentara poner Starship en orbita por primera vez el 22 de septiembre, con 26 Starlink V3",
+        "Los centros de datos de AWS en Abu Dabi y Barein siguen fuera de servicio seis meses despues de los ataques iranies",
+        "Completan el mapa de un cerebro entero: 166.000 neuronas y 125 millones de sinapsis de una mosca macho (Janelia + Google, Cell)",
+        "Cloudflare separa indexacion en buscador y uso para entrenamiento con el ajuste 'Disallow AI Training'",
+        "Seguimiento: Zuckerberg rompe el frente del frenazo de la IA; Meta prepara el modelo 'Watermelon'",
+        "Seguimiento: OpenAI sondea una ronda privada a mas de 1,2 billones de dolares antes de la OPV",
+        "Anthropic abre su primera oficina en Espana (Madrid, Cristina Pitarch al frente)",
+        "Periodic Neon supera a GPT-6 Astra y Claude Fable 5.1 en analisis cientifico (FrontierXRD) con menor coste",
+        "TypeSafe lanza Jev y propone la categoria de modelos 'Sistema 1'",
+        "Meta One: suscripcion de IA de 2,99 $ a 499 $ al mes en Instagram, Facebook y WhatsApp",
+        "La Audiencia Nacional frena el campamento de migrantes del puerto de Ceuta tras el recurso del SUP",
+        "El Congreso aprueba la reforma de dependencia y discapacidad y tumba el decreto de regulacion de lobbies",
+        "El Ramon y Cajal rebajo la prioridad quirurgica de 57 pacientes para cuadrar su lista de espera",
+        "Seguimiento Yemen: los huties controlan Bab el Mandeb, el brent toca 108 $ y hay 100.000 desplazados nuevos",
+        "Von der Leyen propone un Consejo de Seguridad Europeo y ofrece a Canada ser el primer 'Estado asociado'",
+        "El primer estudio cientifico del colapso del glaciar en Nepal y el Tibet apunta al cambio climatico",
+        "Enrique Dans: 'La inteligencia artificial no hace peores peliculas. Los malos directores, si'",
+        "Seguimiento: la Fed sube tipos 25 pb hasta el 3,75%-4%, por unanimidad, y 16 de 18 esperan otra",
+        "Bruselas prepara un reglamento comunitario para poner limites al alquiler turistico",
+        "Palabra del dia: balanza comercial",
+        "Dinero Claro: invertir de golpe o poco a poco; la mejor estrategia es la que puedes sostener"
+      ],
+      "tldr_ai_usado": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIpg48SQAA",
+        "fecha": "2026-09-16",
+        "asunto": "Jev, Periodic Neon, Gemini 3.8 Live"
+      },
+      "notas": [
+        "Dinero Claro entrego su primera edicion real (16/09) tras 27 dias sin contenido desde el alta del 20/08; bloque de Finanzas personales reanudado.",
+        "The Trader: ultima edicion sigue siendo la n.172 del 10/09, ya usada el 11/09; bloque de Mercados omitido (7 dias, bajo el umbral de 8).",
+        "Fuentes de economia caidas en el correo de datos: feed de Cinco Dias (CAIDA) y rtve.es (0 titulares)."
+      ]
+    },
     {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
