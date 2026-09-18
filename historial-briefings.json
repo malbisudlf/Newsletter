@@ -2,6 +2,34 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
@@ -38,32 +66,51 @@
       "tldr_ai_email_fecha": null
     },
     {
-      "fecha": "2026-07-30",
-      "enviado_utc": "2026-07-30T06:10:00Z",
-      "titulares": [
-        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
-        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
-        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
-        "Amazon entra en satelite directo-a-dispositivo (D2D)",
-        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
-        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
-        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
-        "La guerra por los pesos abiertos se traslada al regulador",
-        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
-        "xAI lanza Build Mode para SuperGrok Heavy",
-        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
-        "Amazon consolidaria Nova en un unico modelo frontera",
-        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
-        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
-        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
-        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
-        "Los huties amenazan con imponer peajes en Bab el Mandeb",
-        "Japon: 18 muertos por el terremoto",
-        "Guyana: acusan de asesinato al capitan del ferry hundido",
-        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      "fecha": "2026-09-18",
+      "enviado_utc": "2026-09-18T05:28:15Z",
+      "asunto": "🌅 Buenos días Mikel — Briefing del 18/09/2026",
+      "tldr_ai_usado": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACKavTs0AAAA=",
+        "fecha": "2026-09-17",
+        "asunto": "Claude + Cowork merge, ChatGPT sponsored agents, harness tax"
+      },
+      "fuentes": [
+        "MultiVersial 18/09",
+        "TLDR 17/09",
+        "TLDR AI 17/09",
+        "Klosh 18/09",
+        "Enrique Dans 18/09",
+        "The Trader nº 173 (17/09)",
+        "Life Assistant 18/09"
       ],
-      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
-      "tldr_ai_email_fecha": "2026-07-29"
+      "omitido": [
+        "Guardian First Edition (aún no había llegado a las 07:25)",
+        "Dinero Claro (edición del 16/09 ya usada el 17/09)",
+        "David Hurtado (no publicó hoy)"
+      ],
+      "titulares": [
+        "Apple vuelve al negocio de los servidores en 2029, y para conectarlos necesita a Nvidia",
+        "Google se libra de vender su negocio publicitario, pero pierde el control de su propia subasta",
+        "Snap pide 2.195 dólares por unas gafas de realidad aumentada y las ata a Verizon",
+        "SK Hynix negocia fabricar memoria en EE. UU. dentro de una fábrica de Intel",
+        "OpenAI mete agentes de marca dentro de los anuncios de ChatGPT",
+        "Seguimiento: OpenAI publica seis incidentes nuevos de comportamiento «preocupante»",
+        "Anthropic disuelve Cowork dentro de Claude y estrena Docs y Slides",
+        "Google abre la casa a cualquier agente por MCP",
+        "Un modelo de 4.000 millones de parámetros escribe planes de consulta un 81% más rápidos que Postgres (QORL)",
+        "Seguimiento: doble movimiento en Ceuta — el Parlamento Europeo habla de «invasión» y la Audiencia Nacional levanta el freno al campamento",
+        "La vivienda bate otro récord: 2.355 €/m², un 12,5% más que hace un año",
+        "Seguimiento: el Gobierno estudia prorrogar el escudo anticrisis",
+        "Netanyahu quiere poder retirar la nacionalidad a quien «difame» al Ejército",
+        "Hashim Thaci, condenado a 25 años por crímenes de guerra",
+        "Seguimiento: detenido en México el presunto asesino de Claudia Tacoronte (sin confirmar fuera de Klosh)",
+        "Enrique Dans: Google Home MCP como capa de plataforma del hogar",
+        "El Gobierno aparca el máster de opositores",
+        "Palabra del día: avalar un préstamo",
+        "Seguimiento: la Fed sube tipos pero no considera restrictiva su política",
+        "Seguimiento: el oleoducto Este-Oeste saudí estará semanas fuera de servicio",
+        "Enflame: debut bursátil del +179% con 1.200 M CNY de pérdidas"
+      ]
     }
   ]
 }
