@@ -2,6 +2,51 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-20",
+      "enviado_utc": "2026-09-20T06:52:00Z",
+      "dia_semana": "domingo",
+      "titulares": [
+        "Tres investigadores entraron en el monorepo interno de OpenAI encadenando dos fallos, y lo hicieron con Claude",
+        "Huawei pone fecha a su alternativa a Nvidia: Ascend 960DT en el primer trimestre de 2027 y 960PR en el tercero",
+        "Crusoe levanta 3.900 millones a una valoracion de 30.900 y se pone a fabricar centros de datos que viajan en camion",
+        "Un robot de Figure hizo la cama en 30 casas en las que nunca habia estado (zero-shot 9% -> 56%)",
+        "Un directivo de Microsoft escribio en 2023 que el entrenamiento de modelos podia ser el mayor robo de trabajo de la historia (memo de Brent Hecht)",
+        "Anthropic dice que Claude ya dirige el 26% de su investigacion, frente a menos del 1% en febrero",
+        "Google convierte su agente CC en un agente familiar con cuenta propia para hasta seis personas",
+        "Bonsai 2 27B mete un modelo de 27.000 millones de parametros en pesos ternarios y conserva el 98,2% del rendimiento",
+        "Claude Code convierte Projects en una conversacion que reparte el trabajo en hilos paralelos en la nube",
+        "Seguimiento: el desalojo de las playas de Ceuta se deshizo en 24 horas (50 dias de crisis)",
+        "Berlin tumba el plan espanol para el presupuesto europeo 2028-2034",
+        "Rusia vota hoy el ultimo dia de las primeras elecciones a la Duma desde que empezo la guerra",
+        "Seguimiento: Carney acepta la oferta europea de Estado asociado y Trump amenaza con aranceles",
+        "En Gaza el reparto se hace en bicicleta porque el 74% de las carreteras esta destruido",
+        "Seguimiento: la brecha de inflacion con Europa ya va por el cuarto ano (4,5% armonizado vs 2,9% zona euro)",
+        "El miedo a la burbuja de la IA ya no va de valoraciones, va de los acuerdos circulares y de la deuda"
+      ],
+      "termino_economico": "externalidad",
+      "tldr_ai": {
+        "email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACKd1GvMAAAA=",
+        "fecha": "2026-09-18T14:03:21Z",
+        "asunto": "Claude Projects v2, Google family agent"
+      },
+      "tldr_principal": {
+        "fecha": "2026-09-18T10:40:16Z",
+        "asunto": "Hacking OpenAI, Claude leads R&D, Safari MCP"
+      },
+      "bloques_omitidos": [
+        "Mercados (The Trader n.173 ya usado en el briefing del 18/09)",
+        "Finanzas personales (Dinero Claro del 16/09 ya usado en el briefing del 17/09)",
+        "David Hurtado (no llego hoy)",
+        "Entregas (ninguna en 14 dias)"
+      ],
+      "incidencias": [
+        "No se envio briefing el 19/09 pese a existir el correo de datos de ese dia",
+        "MultiVersial no publico el viernes 19 (un dia laborable perdido)",
+        "Europa Press - Finanzas: 0 titulares en el correo de datos",
+        "InfoMensa n.570 aparecio en la bandeja de entrada en lugar de Newsletters"
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
