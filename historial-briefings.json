@@ -2,6 +2,35 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-26",
+      "enviado_utc": "2026-09-26T15:47:39Z",
+      "titulares": [
+        "Google prueba su primer centro de datos orbital: el satelite Suncatcher despega el 1 de octubre",
+        "Escasez global de CPU: ya no hay precios spot, hay que reservar con meses de antelacion",
+        "Waymo concentra el 80% de sus robotaxis en California y Texas, crecen los coches fabricados en China",
+        "Investigadores encuentran un metodo de computacion clasica que rompe RSA mucho mas rapido",
+        "Trump anuncia una AI Force y un zar de la IA, y descarta cualquier freno regulatorio",
+        "Sanders y Casar presentan la Ban Artificial Superintelligence Act, hasta 20 anos de carcel",
+        "OpenAI prepara un plan ChatGPT Pro Max a 500 $/mes antes de su DevDay",
+        "Meta (Muse Realtime Avatar) y Google (Gemini 3.8 Live) se disputan el avatar conversacional en tiempo real",
+        "DeepSeek dice haber doblado su facturacion anualizada a 1.000 M$ tras subir precios de API",
+        "Seguimiento: el desahucio de Maricarmen Abascal sigue moviendo la calle, manifestacion y peticion a Sanchez",
+        "Manifestacion en Madrid convocada por Sociedad Civil Espanola en apoyo a Ceuta, con PP y Vox",
+        "El PSOE vota sus candidaturas a las alcaldias de catorce ciudades para las municipales de 2027",
+        "Kiev sufre su peor racha de victimas civiles desde el inicio de la invasion rusa a gran escala",
+        "Copernicus confirma que agosto de 2026 ha sido el mes de agosto mas caluroso jamas registrado",
+        "Fiyi declara la emergencia nacional por un aumento disparado de infecciones por VIH",
+        "Dans: el BCE estrena Pontes, infraestructura blockchain de liquidacion mayorista",
+        "Al dia: el Gobierno estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+        "Palabra del dia: la facilidad de deposito del BCE"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACKwuCggAAAA=",
+      "tldr_ai_email_fecha": "2026-09-25",
+      "incidencias": [
+        "Dinero Claro sigue sin mandar edicion real (mas de 5 semanas desde el alta el 20/08); solo correos automaticos y promocionales de Pablo Gil bajo el mismo remitente que The Trader."
+      ]
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
