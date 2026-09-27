@@ -2,6 +2,31 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-09-27",
+      "enviado_utc": "2026-09-27T09:57:00Z",
+      "titulares": [
+        "Microsoft retira la marca 'Copilot+ PC' de los nuevos Surface (Pro 12\", Laptop 13\", Snapdragon X2 Plus)",
+        "El hub de IA de Google en India, permiso para 2,51 GW frente al 1 GW anunciado; sin audiencia publica",
+        "Bitget confirma el robo de 351,6 M$ por hackers norcoreanos",
+        "Tres vulnerabilidades en Salesforce Agentforce permitian secuestrar agentes de IA",
+        "Cognition (Devin) alcanza 1.000 M$ de ingresos anualizados, ronda de 2.000 M$ a 48.000 M$ de valoracion",
+        "xAI planea casi duplicar el computo de Colossus 2 (a 1,21 millones de chips Nvidia) antes de fin de ano",
+        "Alibaba lanza Qwen-Audio-3.1 y recorta hasta un 95% el precio de sus modelos de voz",
+        "Seguimiento vivienda: Moncloa ve 'muy probable' aprobar el decreto el martes tras la acampada en la Puerta del Sol",
+        "Suiza vota su referendum de neutralidad (bloquear cooperacion con la OTAN y sanciones unilaterales)",
+        "Seguimiento Iran: Aragchi dice que sigue sin respuesta oficial de EE. UU. sobre reabrir el estrecho de Ormuz",
+        "Dans: el agente Muse de Meta supera 500.000 usuarios; Amazon lo bloquea de sus compras",
+        "La cesta de la compra se encarece un 35% en cinco anos; el consumidor entra en 'modo control'",
+        "Palabra del dia: la prima de riesgo"
+      ],
+      "mercados_the_trader": "omitido - ultima edicion (nº174, 24/09) ya usada el 25/09; sin edicion nueva",
+      "finanzas_dinero_claro": "omitido - ultima edicion real (23/09, '¿Que hago si mi inversion empieza perdiendo dinero?') ya usada el 24/09; sin edicion nueva",
+      "tldr_email_id": null,
+      "tldr_email_fecha": "2026-09-25 (ya usada el 26/09, sin edicion nueva por fin de semana)",
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": "2026-09-25 (ya usada el 26/09, sin edicion nueva por fin de semana)"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
