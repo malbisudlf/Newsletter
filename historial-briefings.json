@@ -2,6 +2,132 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-10-07",
+      "enviado_utc": "2026-10-07T07:25:30Z",
+      "titulares": [
+        "Meta, TikTok y X recurren ante la justicia britanica las peticiones de datos de Ofcom (Online Safety Act)",
+        "TikTok lanza Shopping Assistant y Buy Direct (comercio agentico, en pruebas con anunciantes)",
+        "Apple admite apps optimizadas para iPhone Duo (Xcode 27.1 RC1; lanzamiento 23/10)",
+        "Vulnerabilidad macOS Screen Sharing CVE-2026-65400 (parcheada en agosto)",
+        "Meta y Microsoft recortan el uso interno de Claude",
+        "OpenAI negocia ronda de 30.000 M$ con fondos de EAU y BlackRock",
+        "OpenAI anade marcas de agua al texto (textGrain) en la UE",
+        "Reflection presenta Beam (501B MoE, pesos abiertos a finales de octubre)",
+        "Liquid AI d1 con vision",
+        "Llarena levanta las ordenes nacionales de detencion contra Puigdemont, Comin y Puig tras el aval del TC",
+        "Seguimiento: Gobierno reaprueba los decretos de vivienda con linea ICO de 10.000 M EUR; el primero tiene los votos del PNV",
+        "Ceuta: la jueza Tardon reclama las llamadas de Vivas a Moncloa; Pedraz pregunta a Anticorrupcion por imputar al PSOE (caso Leire)",
+        "Detenido por traicion August Hanning, exjefe del BND",
+        "Kenia notifica su primera muerte por ebola (virus Bundibugyo)",
+        "Nobel de Fisica 2026: Francis Halzen (IceCube)",
+        "Dans: usar la IA no significa quererla",
+        "La Inspeccion de Trabajo regularizo 47.000 falsos autonomos en 2025",
+        "Palabra del dia: monopolio y oligopolio"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACLNeWtgAAAA=",
+      "tldr_ai_email_fecha": "2026-10-06"
+    },
+    {
+      "fecha": "2026-10-06",
+      "titulares": [
+        "AUTOWARCOM del Pentagono",
+        "AT&T, T-Mobile y Verizon: empresa conjunta de cobertura satelital",
+        "John Ternus como jefe de diseno de Apple",
+        "Toshiba y los discos duros",
+        "OpenAI avisa a mas de 100 organizaciones por actividad no autorizada de agentes",
+        "Trump y el zar de la IA (Jay Clayton)",
+        "Anthropic: Claude Frontier Academy (100 M$)",
+        "Aleph Alpha Kolibri",
+        "Whistle",
+        "Decretos de vivienda reaprobados",
+        "Huelga general UGT/CCOO",
+        "Nobel de Medicina: optogenetica",
+        "Peste neumonica en Irkutsk",
+        "RAF Fairford",
+        "Banco de Francia y los tipos",
+        "BPCE compra el 7% de Sabadell",
+        "IRPF y sus tramos"
+      ],
+      "nota": "reconstruido el 2026-10-07 a partir del correo enviado"
+    },
+    {
+      "fecha": "2026-10-05",
+      "titulares": [
+        "Samsung sube 100 $ la gama Galaxy S26",
+        "Nuevo Mexico pide hasta 40.000 M$ a Meta",
+        "SpaceX AI negocio alquilar computo a Microsoft",
+        "Amazon y chips Nvidia Grace Blackwell",
+        "Broadcom prestara hasta 42.000 M$ a Anthropic",
+        "Jassy: la IA acelera AWS",
+        "ChatGPT probador virtual y Favoritos",
+        "DeepSeek V4.1-Flash",
+        "Sanchez disuelve las Cortes: elecciones el 29/11",
+        "Protestas por la vivienda",
+        "Temporal en Cataluna",
+        "Ceuta: desalojo de la playa del Trampolin",
+        "Flavio Bolsonaro gana la primera vuelta en Brasil",
+        "RAF Fairford",
+        "Dans: IA corporativa y quien lleva el timon",
+        "Contrato por escrito (RD 723/2026)",
+        "Plan de ahorro para la jubilacion: 1 de cada 4 hogares",
+        "Seguro de vida vinculado a la hipoteca"
+      ],
+      "nota": "reconstruido el 2026-10-07 a partir del correo enviado"
+    },
+    {
+      "fecha": "2026-10-04",
+      "titulares": [
+        "Dans: ignorancia como politica sanitaria (sarampion en EE. UU.)",
+        "Mutuas y bajas laborales",
+        "Bonos rentables, refugio dudoso",
+        "Balanza por cuenta corriente"
+      ],
+      "nota": "reconstruido el 2026-10-07 a partir del correo enviado"
+    },
+    {
+      "fecha": "2026-10-03",
+      "titulares": [
+        "Fervo Energy: primera central geotermica mejorada comercial",
+        "Starlink: pases por horas, dias y semanas",
+        "NASA PRIMA",
+        "OpenAI despide a tres investigadores de seguridad y aparca GPT-6.1 Astra",
+        "Broadcom reune unos 60.000 M$ para chips de Anthropic",
+        "Microsoft MAI-Transcribe-2-Streaming",
+        "Clef",
+        "Google AIM",
+        "El Congreso tumba los decretos de vivienda",
+        "Ceuta: exjefe de gabinete del delegado y las alertas del CNI",
+        "Tennessee suspende ejecuciones",
+        "Francia: protestas estudiantiles",
+        "Generalitat y copropiedad",
+        "Horizonte temporal de una inversion"
+      ],
+      "nota": "reconstruido el 2026-10-07 a partir del correo enviado"
+    },
+    {
+      "fecha": "2026-10-02",
+      "titulares": [
+        "Apple y el hogar inteligente (13/10)",
+        "Reddit cierra feeds RSS",
+        "Amazon: gafas inteligentes para repartidores",
+        "FTC investiga a OpenAI, Anthropic y METR",
+        "Meta clasifica centros de datos como modelos piloto",
+        "Gemini 4 Argon",
+        "Claude for Government (FedRAMP High)",
+        "DeepSeek TileLang",
+        "Decretos de vivienda en el Congreso",
+        "Banco de Espana: deficit de viviendas",
+        "Gaza",
+        "Ucrania: lista de sanciones",
+        "EE. UU. evita el cierre del Gobierno",
+        "Bancos y el lado oscuro de la IA",
+        "Clausula suelo",
+        "Invierno energetico en Europa",
+        "Tregua comercial EE. UU.-China"
+      ],
+      "nota": "reconstruido el 2026-10-07 a partir del correo enviado"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
