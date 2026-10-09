@@ -2,6 +2,34 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-07-30",
+      "enviado_utc": "2026-07-30T06:10:00Z",
+      "titulares": [
+        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
+        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
+        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
+        "Amazon entra en satelite directo-a-dispositivo (D2D)",
+        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
+        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
+        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
+        "La guerra por los pesos abiertos se traslada al regulador",
+        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
+        "xAI lanza Build Mode para SuperGrok Heavy",
+        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
+        "Amazon consolidaria Nova en un unico modelo frontera",
+        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
+        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
+        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
+        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
+        "Los huties amenazan con imponer peajes en Bab el Mandeb",
+        "Japon: 18 muertos por el terremoto",
+        "Guyana: acusan de asesinato al capitan del ferry hundido",
+        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+      ],
+      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
+      "tldr_ai_email_fecha": "2026-07-29"
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
@@ -38,32 +66,33 @@
       "tldr_ai_email_fecha": null
     },
     {
-      "fecha": "2026-07-30",
-      "enviado_utc": "2026-07-30T06:10:00Z",
+      "fecha": "2026-10-09",
+      "enviado_utc": "2026-10-09T06:2xZ",
       "titulares": [
-        "Nvidia avalaria hasta 250.000 M$ del centro de datos de OpenAI en Ohio",
-        "La IA empieza a romper criptografia real: Anthropic contra HAWK",
-        "Un agente de OpenAI ejecuto una intrusion completa contra Hugging Face",
-        "Amazon entra en satelite directo-a-dispositivo (D2D)",
-        "Washington: 300 M$ a interconexion de chips de IA y veto a humanoides chinos",
-        "Agenda corporativa: resultados de Apple, Amazon y Samsung; Amazon cierra Mechanical Turk",
-        "'Pacing the Frontier': mas de 1.100 empleados de OpenAI, Anthropic, Google y Meta firman",
-        "La guerra por los pesos abiertos se traslada al regulador",
-        "Kimi K3 (Moonshot): MoE de 2,8 billones de parametros con pesos abiertos",
-        "xAI lanza Build Mode para SuperGrok Heavy",
-        "Google endurece sus Managed Agents (Gemini 3.6 Flash, hooks, Distillation Service)",
-        "Amazon consolidaria Nova en un unico modelo frontera",
-        "El foco del fuego se traslada a Castilla y Leon (Zamora y Leon, 18 localidades evacuadas)",
-        "Caso Leire Diez: Pedraz cita como investigado a Leonardo Marcos",
-        "Ceuta al limite: mas de 1.500 migrantes en nueve dias",
-        "Barcelona: detenido por el asesinato de su pareja en Sant Marti",
-        "Los huties amenazan con imponer peajes en Bab el Mandeb",
-        "Japon: 18 muertos por el terremoto",
-        "Guyana: acusan de asesinato al capitan del ferry hundido",
-        "Dans: 'La apertura que Silicon Valley quiere cerrar'"
+        "Surface Laptop Ultra desde 2.599 $ con RTX Spark; Microsoft MXC disponible",
+        "Google abre a todos el verificador SynthID",
+        "Primeros relojes nucleares de torio en Viena y Pekín",
+        "Muere Margaret Hamilton a los 90",
+        "Deuda para chips de IA: Broadcom >50.000 M$ (OpenAI), SpaceX 40.000 M$ (Nvidia)",
+        "Seguimiento: resultados matemáticos de OpenAI, prueba de la Unique Games Conjecture sin entender",
+        "Claude Haiku 5.5",
+        "GPT-6 Intelligent UI para todos",
+        "Grok Bot usará Claude Opus 5.5, Midjourney y Suno",
+        "Seguimiento: Biedma declara en la Audiencia Nacional",
+        "Seguimiento: marcha de 20.000 en Madrid por Maricarmen Abascal",
+        "Ataque ruso a autobús en Kramatorsk: 30 muertos",
+        "Nuevos cargos de EE. UU. contra Maduro y Cilia Flores",
+        "Drones etíopes contra fuerzas eritreas en Tigray",
+        "Anne Carson, Nobel de Literatura 2026",
+        "Decreto de vivienda frena la venta de pisos de fondos",
+        "VPO: mejor semestre en 15 años",
+        "The Trader nº176: estímulo chino, Treasuries, salarios España",
+        "Dinero Claro 30/09: tolerancia al riesgo"
       ],
-      "tldr_ai_email_id": "AQMkADAwATNiZmYAZC1iNzlhLTVkMmUtMDACLTAwCgBGAAADRJrQZp4UiE2DEpCnemwl5gcAdHd5ScS6VE6RFEld6JFydQAIbB_d1wAAAHR3eUnEulROkRRJXeiRcnUACIXO6-UAAAA=",
-      "tldr_ai_email_fecha": "2026-07-29"
+      "tldr_ai": {
+        "subject": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
+        "fecha": "2026-10-08"
+      }
     }
   ]
 }
