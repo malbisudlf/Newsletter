@@ -2,6 +2,27 @@
   "_nota": "Historial de briefings diarios. Se conservan las 10 entradas mas recientes. Reconstruido el 2026-07-31 a partir de los correos realmente enviados, porque el fichero no se habia persistido nunca en el repositorio (el contenedor de ejecucion es efimero y se pierde entre ejecuciones).",
   "briefings": [
     {
+      "fecha": "2026-10-10",
+      "titulares": [
+        "SpaceX compra el espectro de 800 MHz de Grain Management",
+        "Apple presentaria hacia el 27/10 el MacBook Pro tactil y el iPad mini OLED",
+        "EE. UU. suspende del PERM a Microsoft, Adobe, Capgemini y cinco consultoras indias",
+        "OpenAI: ~50.000 M$ anualizados, 20.000 M$ menos de lo publicado",
+        "Anthropic lanza su Cyber Mission",
+        "GPT-6.1 Sol Ultrafast: 12/60 $ por millon de tokens",
+        "Google presenta Gemini Agent en vista previa privada",
+        "Navi Pillay, Nobel de la Paz 2026; nuevas sanciones de EE. UU. a la CPI",
+        "Enrique Dans: Cuando ya no queda tiempo para cerrar la puerta",
+        "Seguimiento: la huelga general nace del Sindicato de Inquilinas",
+        "Cinco Dias: la renta fija vuelve a compensar el riesgo",
+        "Palabra del dia: coberturas y exclusiones de una poliza"
+      ],
+      "tldr_ai": {
+        "asunto": "GPT-6.1 Ultrafast, Gemini universal agent, speculative decoding",
+        "fecha": "2026-10-09T14:04:34Z"
+      }
+    },
+    {
       "fecha": "2026-07-31",
       "enviado_utc": "2026-07-31T06:22:14Z",
       "envios": [
