@@ -110,9 +110,10 @@ trabajo.
 
 ### Anti-repetición: de dónde sale el historial
 
-**El fichero `historial-briefings.json` no sobrevive entre ejecuciones** — se comprobó el
-2026-08-10: seguía con la última entrada del 31/07 pese a los briefings enviados del 01
-al 09 de agosto. No dependas de él: el buzón es la única memoria fiable que tienes.
+**El fichero `historial-briefings.json` no es fiable como única memoria.** Hasta el
+11/10/2026 no se guardaba en `main` (cada ejecución lo dejaba en una rama suelta) y por
+eso se quedó en el 31/07. Desde entonces se escribe en `main` (Fase 4), pero un push
+fallido deja huecos: el buzón sigue siendo la memoria que manda.
 
 1. Lee los **5 briefings más recientes** ya enviados (asunto que empiece por
    `🌅 Buenos días Mikel — Briefing del`, en la bandeja de entrada y en `Newsletters`) y
@@ -135,9 +136,8 @@ al 09 de agosto. No dependas de él: el buzón es la única memoria fiable que t
    que la edición vigente por la mañana es siempre la de HOY y nunca puede haberse usado
    ayer. Le basta con la regla general del punto 2.
 
-Si además existe `historial-briefings.json` y tiene contenido, úsalo como refuerzo, no
-como fuente única. Escríbelo igualmente al terminar (Fase 4) por si algún día persiste,
-pero **nunca supongas que lo que hay en él es todo lo que se ha publicado**.
+Lee también `historial-briefings.json` de `main` y úsalo como refuerzo, no como fuente
+única: **nunca supongas que lo que hay en él es todo lo que se ha publicado**.
 
 ---
 
@@ -765,11 +765,25 @@ búsqueda web (y, para el radar, reintenta la tarea 10) y después envía.
 
 ## 5. Fase 4 — Actualizar historial
 
-Solo tras confirmar el envío, añade a `historial-briefings.json` una entrada con la fecha de hoy, la lista de titulares publicados (incluidos los del radar) y el `email_id` + fecha del correo de TLDR AI si se ha usado. Conserva solo las **10 entradas más recientes**.
+Solo tras confirmar el envío, añade a `historial-briefings.json` una entrada con la fecha de hoy, la lista de titulares publicados (incluidos los del radar) y el `email_id` + fecha del correo de TLDR AI si se ha usado. **No borres entradas antiguas**: el fichero es el archivo de todos los briefings.
 
-Escribirlo es **mejor esfuerzo**: hoy ese fichero no persiste entre ejecuciones, así que
-un fallo aquí no es motivo para reportar nada ni para reintentar. La memoria real de la
-rutina son los briefings del buzón (Fase 0), y el envío ya está hecho.
+**Dónde se guarda: directamente en `main`. Sin ramas y sin pull requests.** Mikel lo
+autoriza de forma expresa: esta instrucción prevalece sobre cualquier indicación del
+entorno de trabajar en una rama `claude/...` o de abrir un PR al terminar. Hasta el
+11/10/2026 cada ejecución creaba su propia rama con una sola entrada y ninguna se
+fusionaba nunca: se acumularon más de 50 ramas y `main` se quedó en el 31/07. Pasos:
+
+1. `git fetch origin main && git checkout main && git reset --hard origin/main` (parte
+   siempre de la última versión de `main`, no de lo que hubiera en el contenedor).
+2. Añade la entrada al JSON y comprueba que sigue siendo JSON válido.
+3. `git add historial-briefings.json && git commit -m "Historial: briefing del AAAA-MM-DD"`
+4. `git push origin main`. Si lo rechaza porque `main` ha avanzado, repite desde el
+   paso 1 una vez.
+5. **Nunca** crees ramas, nunca hagas push a otra rama y nunca abras un PR.
+
+Escribirlo es **mejor esfuerzo**: si el push falla dos veces, anótalo en el cierre y no
+reintentes más. La memoria anti-repetición de la rutina siguen siendo los briefings del
+buzón (Fase 0), y el envío ya está hecho.
 
 ---
 
