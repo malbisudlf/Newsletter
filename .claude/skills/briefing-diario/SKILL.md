@@ -1,3 +1,8 @@
+---
+name: briefing-diario
+description: Genera y envía el briefing diario de Mikel (noticias de tecnología, IA, España y mundo, radar de novedades, economía y su estado físico) a partir de sus newsletters en Outlook, el correo de datos de Life Assistant y búsqueda web. Úsala cuando la rutina programada del briefing se dispare o cuando se pida el briefing de hoy.
+---
+
 # Rutina: Briefing diario
 
 ## ⛔ Condición de arranque — léela antes que nada
@@ -297,53 +302,13 @@ sin base, o publicar dos veces la misma edición.
    sección 3.5, con el mismo criterio: **solo entra si es una edición sin usar todavía**.
 10. **Radar de novedades — GitHub Trending, Hacker News y Hugging Face.** Base del bloque
     «🔭 Antes de que sea tendencia». Se hace **todos los días, fines de semana
-    incluidos**: no depende de ninguna newsletter. Ejecuta esta celda en
-    `COMPOSIO_REMOTE_WORKBENCH`. Hacker News y Hugging Face **no son accesibles desde el
+    incluidos**: no depende de ninguna newsletter. Ejecuta `radar.py` (en esta misma carpeta)
+    en `COMPOSIO_REMOTE_WORKBENCH`. Hacker News y Hugging Face **no son accesibles desde el
     entorno de la rutina** (403 en el proxy, fallo de DNS con WebFetch), pero sí desde el
     sandbox de Composio: se comprobó el 2026-10-11.
 
-    ```python
-    import requests, re, json, time
-    out = {}
-    try:  # Hacker News: portada actual (últimas 36 h), con puntos y comentarios
-        r = requests.get('https://hn.algolia.com/api/v1/search',
-                         params={'tags': 'front_page', 'hitsPerPage': 30}, timeout=20).json()
-        out['hn'] = [{'t': h['title'], 'pts': h['points'], 'com': h.get('num_comments'),
-                      'url': h.get('url') or f"https://news.ycombinator.com/item?id={h['objectID']}",
-                      'hn': f"https://news.ycombinator.com/item?id={h['objectID']}",
-                      'h': round((time.time() - h['created_at_i']) / 3600, 1)} for h in r['hits']
-                     if time.time() - h['created_at_i'] < 36 * 3600]
-    except Exception as e: out['hn'] = f'ERROR {e}'
-    try:  # Hugging Face: modelos en tendencia
-        r = requests.get('https://huggingface.co/api/models',
-                         params={'sort': 'trendingScore', 'limit': 15}, timeout=20).json()
-        out['hf_models'] = [{'id': m['id'], 'likes': m.get('likes'), 'dl': m.get('downloads'),
-                             'created': m.get('createdAt', '')[:10], 'tags': m.get('pipeline_tag')} for m in r]
-    except Exception as e: out['hf_models'] = f'ERROR {e}'
-    try:  # Hugging Face: papers del día más votados
-        r = requests.get('https://huggingface.co/api/daily_papers', params={'limit': 30}, timeout=20).json()
-        ps = sorted(r, key=lambda p: -(p['paper'].get('upvotes') or 0))[:10]
-        out['hf_papers'] = [{'t': p['paper']['title'], 'up': p['paper'].get('upvotes'),
-                             'url': f"https://huggingface.co/papers/{p['paper']['id']}"} for p in ps]
-    except Exception as e: out['hf_papers'] = f'ERROR {e}'
-    try:  # GitHub Trending del día
-        h = requests.get('https://github.com/trending?since=daily', timeout=20).text
-        repos = []
-        for art in h.split('<article')[1:16]:
-            name = re.search(r'<h2[^>]*>\s*<a[^>]*href="/([^"/]+/[^"/]+)"', art)
-            desc = re.search(r'<p class="col-9[^"]*"[^>]*>\s*(.*?)\s*</p>', art, re.S)
-            today = re.search(r'([\d,]+) stars today', art)
-            lang = re.search(r'itemprop="programmingLanguage">([^<]+)<', art)
-            if name:
-                repos.append({'repo': name.group(1),
-                              'desc': re.sub(r'<[^>]+>|\s+', ' ', desc.group(1)).strip() if desc else '',
-                              'hoy': today.group(1) if today else '?',
-                              'lang': lang.group(1) if lang else '',
-                              'url': f'https://github.com/{name.group(1)}'})
-        out['gh'] = repos
-    except Exception as e: out['gh'] = f'ERROR {e}'
-    print(json.dumps(out, ensure_ascii=False, indent=1))
-    ```
+    El código está en `radar.py`, junto a este fichero: léelo y pásalo tal cual como
+    `code_to_execute`. No lo reescribas de memoria.
 
     Si el sandbox de Composio falla, GitHub Trending se puede abrir con WebFetch
     (`https://github.com/trending?since=daily`) como respaldo. Para Hacker News y
