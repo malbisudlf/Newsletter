@@ -1642,6 +1642,39 @@
         "La palabra del día: el SMI"
       ],
       "tldr_ai": null
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulares": [
+        "Ciberataque a los frigoríficos (Danfoss) de supermercados de Francia, Bélgica y Países Bajos",
+        "Envíos de PC caen un 20 % en el T3 y Apple recorta pedidos del iPhone 18 Pro",
+        "Intel presenta la GPU D270 (Crescent Island) con hasta 480 GB LPDDR5X",
+        "Let's Encrypt pasa a certificados de 64 días",
+        "FMI: un crash de las acciones de IA, riesgo para la estabilidad financiera",
+        "Amazon negocia comprar Decart por unos 7.000 M$",
+        "Seguimiento: informe de Anthropic sobre acciones no intencionadas de Claude",
+        "Meta lanza Muse Wonder y Muse Wonder Full",
+        "Z.ai presenta GLM-Legal",
+        "Seguimiento: Cloudflare Clef-omni y pplx-decider-v1.1",
+        "Radar: Codex CLI instala un demonio persistente que se actualiza solo",
+        "Radar: concepto «modelos más grandes que tu RAM» (Janas, AirLLM)",
+        "Radar: paper «AI Models Can Provably Hide Arbitrary Capabilities»",
+        "Radar: cathrynlavery/diagram-design",
+        "Sánchez reconoce la entrada de buques de guerra marroquíes en aguas de Ceuta",
+        "Seguimiento: el Supremo mantiene suspendido el voto de 163.000 nacionalizados por la ley de nietos",
+        "Frente Amplio propone a Ada Colau; Podemos apoya a Rufián en Cataluña",
+        "Seguimiento: Rusia ataca seis instalaciones energéticas pese a la tregua de Trump",
+        "Netanyahu ordena procesar a los entrevistados del documental NAZA",
+        "Reino Unido atribuye al IRGC las amenazas a RAF Fairford",
+        "Enrique Dans: Tu IA corporativa necesita un cuadro de mando",
+        "FMI: PIB de España al 2,5 % e inflación al 3,7 %",
+        "La CNMC vigilará el precio de los alimentos",
+        "La palabra del día: inflación"
+      ],
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-12 «Gemini 4 Carbon, Nvidia weighs Reflection acquihire, decision model race»",
+        "fecha": "2026-10-12"
+      }
     }
   ]
 }
