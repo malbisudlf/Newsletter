@@ -1675,6 +1675,39 @@
         "email_id": "TLDR AI 2026-10-12 «Gemini 4 Carbon, Nvidia weighs Reflection acquihire, decision model race»",
         "fecha": "2026-10-12"
       }
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulares": [
+        "Envíos mundiales de móviles caen un 20 % en el T3 (Counterpoint); Apple, récord del 22 %",
+        "Microsoft presenta Maia 300 (TSMC N2P, inferencia, despliegue en 2027)",
+        "Detienen a un ingeniero de OpenAI por poner micrófonos en la sala de la dirección",
+        "Anthropic: los modelos pequeños podrían autorreplicarse en aparatos IoT en meses",
+        "Tencent emite unos 5.000 M$ en bonos para chips de IA",
+        "Seguimiento: Gemini 4 Argon, disponible para todos los que pagan a 2/10 $",
+        "Seguimiento: Apple presenta HomeView con Siri AI; no se venderá en la UE",
+        "Radar: Anthropic sustituye Git por Scion (control de versiones propio)",
+        "Radar: fallo de seguridad de tipos de 11 años en el borrow checker de Rust (issue #164250)",
+        "Radar: mksglu/context-mode",
+        "Radar: GLM-5.3-Highspeed a ~490 tokens/s en ZCode",
+        "Los Reyes visitan Ceuta",
+        "Imputado el exjuez Sáenz de Tejada por el plan contra la jueza Biedma",
+        "Dimiten 12 concejales de Algeciras contra el alcalde Landaluce",
+        "El papa León XIV tiene cáncer de pulmón",
+        "Ataque con drones a dos cargueros frente a Bulgaria; 11 desaparecidos",
+        "Registro federal en casa de Ilhan Omar",
+        "Enrique Dans: La IA crea empleo, pero ¿de qué tipo?",
+        "Seguimiento: UGT y CCOO piden subir el SMI un 7 % en 2027",
+        "La palabra del día: el rating crediticio"
+      ],
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-13 «Muse Wonder, Maia 300, AI self-replication»",
+        "fecha": "2026-10-13"
+      },
+      "tldr": {
+        "email_id": "TLDR 2026-10-13 «Meta Wonder, X's resurgence, why WebMCP matters»",
+        "fecha": "2026-10-13"
+      }
     }
   ]
 }
