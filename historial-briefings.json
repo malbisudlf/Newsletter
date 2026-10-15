@@ -1708,6 +1708,46 @@
         "email_id": "TLDR 2026-10-13 «Meta Wonder, X's resurgence, why WebMCP matters»",
         "fecha": "2026-10-13"
       }
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulares": [
+        "Bumble se vende por 1.300 M$ a Ithaca Holdings",
+        "Nvidia publica como código abierto la plataforma completa de Run:ai",
+        "Google AI Studio: apps Android hechas con IA a una biblioteca personal en Play Store",
+        "Science Corp implanta PRIMA en el primer paciente con Stargardt",
+        "Character.AI en capítulo 11; Disney ofrece 20 M$ por parte de sus activos",
+        "CSO Online: los 'hackeos' de agentes de IA son fallos de contención de los laboratorios",
+        "MultiVersial: OpenAI y Anthropic contabilizan ingresos de distintas formas (bruto vs neto)",
+        "Liquid AI publica LFM2.5-24B-A2B",
+        "Physical Intelligence abre en beta la Pi API",
+        "Radar: OpenCode 2.0",
+        "Radar: concepto 'harness' (experimento en martinfowler.com, GPT-6 Luna 3/10 vs 10/10)",
+        "Radar: debpalash/VoiceStudio",
+        "Radar: ifixai-ai/iFixAi",
+        "EE. UU. (FMC) propone tasa de 200.000 $ por viaje a buques con bandera española",
+        "El Tribunal de Cuentas absuelve a Puigdemont y 34 excargos (amnistía)",
+        "Huelga indefinida de la educación pública madrileña: 44,6 % vs 70 %, cinco detenidos",
+        "Ucrania pierde Starlink/Starshield en terminales a más de 160 km/h",
+        "Israel bloquea la base de la Junta de Paz de Trump en Gaza (Guardian)",
+        "Un juez frena las sanciones de Trump a dos ONG que colaboran con la CPI",
+        "Enrique Dans: Atacando la cadena alimentaria",
+        "IPC de septiembre: 4,9 %",
+        "Palabra del día: la vida laboral y los años cotizados",
+        "Dinero Claro: ¿Cuándo debería vender una inversión?"
+      ],
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-14 «OpenAI dev arrested, Pi API, OpenCode 2.0»",
+        "fecha": "2026-10-14"
+      },
+      "tldr": {
+        "email_id": "TLDR 2026-10-14 «Gemini 4, OpenAI spy, Anthropic replaces git»",
+        "fecha": "2026-10-14"
+      },
+      "dinero_claro": {
+        "email_id": "Dinero Claro 2026-10-14 «¿Cuándo debería vender una inversión?»",
+        "fecha": "2026-10-14"
+      }
     }
   ]
 }
