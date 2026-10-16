@@ -1748,6 +1748,47 @@
         "email_id": "Dinero Claro 2026-10-14 «¿Cuándo debería vender una inversión?»",
         "fecha": "2026-10-14"
       }
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulares": [
+        "Citizen Lab: AdFection, spyware de Candiru vía anuncios (45 dispositivos de Al Jazeera)",
+        "ASML: récord Q3 y no cubrirá la demanda de 2027-2028; UE-China negocian canje de sanciones por un proveedor de ASML",
+        "Apple cierra por encima de 5 billones de dólares",
+        "Meta: términos comerciales del 30/10 permiten rastrear webs de cuentas de empresa",
+        "Anthropic: 16.800 M$ en Q3 (+45 %), rentable ajustado; Ramp AI Index 43,8 % vs 40,6 %",
+        "CoreWeave cae un 15,5 % y sus bonos rinden cerca del 15 %",
+        "Ocho estados demandan a OpenAI por daños de ChatGPT a menores",
+        "Meta publica Muse Spark Open (816B-A42B, pesos abiertos)",
+        "Krea 3, modelo de edición de imagen",
+        "YouTube Music etiqueta canciones hechas con IA",
+        "Radar: concepto ingeniería inversa masiva con IA (Schaller/GNOME, REA, decompilación de juegos)",
+        "Radar: Goodfire 'Neural networks are clean' (Nick Cammarata)",
+        "Radar: Jev 1.14 y el experimento del dilema del tranvía (modelos de decisión)",
+        "Radar: xerj-org/xerj",
+        "La JEC abre expediente sancionador a Sánchez por la rueda de prensa del 6/10",
+        "Sánchez garantiza revalorizar las pensiones con el IPC aunque esté en funciones",
+        "Seguimiento: la izquierda del PSOE apura coaliciones del 29-N",
+        "Seguimiento: Ucrania reanuda los ataques a refinerías rusas",
+        "EE. UU.: cartas con sustancias sospechosas a senadores y oficinas electorales",
+        "Hutíes dicen atacar Aramco; Irán, que un portacontenedores se hunde en Ormuz",
+        "Trabajo prepara una subida del SMI en torno al 5 %",
+        "Llamadas comerciales con prefijo 400 desde el 17/10",
+        "Palabra del día: valor temporal del dinero",
+        "The Trader 177: diésel ruso (GL 135) y AIE 20 M de barriles; estafas 442.000 M$ (Bloomberg); alquiler regulado en Washington DC"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-15 «Inside GTA, Anthropic revenue jump, agentic verification»",
+        "fecha": "2026-10-15"
+      },
+      "the_trader": {
+        "email_id": "The Trader nº 177",
+        "fecha": "2026-10-15"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial «Cuando nunca es suficiente»",
+        "fecha": "2026-10-16"
+      }
     }
   ]
 }
