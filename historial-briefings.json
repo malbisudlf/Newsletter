@@ -1789,6 +1789,56 @@
         "email_id": "MultiVersial «Cuando nunca es suficiente»",
         "fecha": "2026-10-16"
       }
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulares": [
+        "El iPhone Duo, el primer plegable de Apple, se agota en horas y las entregas ya se van a enero.",
+        "PostgreSQL 19 se retrasa porque la revisión de código con IA encuentra más fallos de los que da tiempo a arreglar.",
+        "Google reduce 40 veces los errores de un paso clave para la computación cuántica útil.",
+        "Tesla enseña el nuevo Roadster casi una década tarde, y sigue sin precio.",
+        "Anthropic publica cómo ha cambiado el empleo dentro de la empresa: los fichajes junior técnicos caen del 27 % al 9 %.",
+        "Anthropic ofrecería a Blackstone más de un 10 % de rentabilidad para financiar la compra de TPU de Google.",
+        "Washington empieza a mover la regulación de la IA, y Anthropic quiere escribir su parte.",
+        "Microsoft termina MAI-Base-2: 2,8 billones de parámetros (80.000 M activos), su modelo base más grande.",
+        "Nvidia lanza Nemotron 3.5 Super VL, un modelo abierto para agentes que entiende imágenes, documentos y vídeo.",
+        "Black Forest Labs publica FLUX 3 Image Klein: 5.600 M de parámetros, 4K nativo y edición con hasta 10 imágenes de referencia.",
+        "Radar: Claude resuelve el misterio de las «semillas» de las curvas ECDSA de la NSA: salían del generador aleatorio de C, iniciado con la hora.",
+        "Radar: Concepto que se repite: los directorios de «skills» y plugins para agentes de código.",
+        "Radar: Mercor: el 90 % de las horas de trabajo en EE. UU. se dedican a tareas que los benchmarks de IA apenas miden.",
+        "Radar: OpenGCUA: un intento de abrir entero el «stack» de los agentes que usan el ordenador.",
+        "🔁 Se cierra el registro de coaliciones del 29-N y la izquierda del PSOE va partida.",
+        "La dana «Adam» trae este fin de semana lluvias fuertes al Mediterráneo y Baleares, con riesgo de inundaciones.",
+        "🔁 La jueza Biedma denuncia que el exjuez Sáenz de Tejada la siguió en coche después de declarar en la Audiencia Nacional.",
+        "🔁 Starlink en Ucrania: según The Telegraph, fue Musk quien propuso a Trump frenar Starshield.",
+        "La cumbre europea choca con un recorte de 141.000 M€ en el próximo presupuesto.",
+        "EE. UU.: Trump aparca retransmitir en directo el fusilamiento del autor de la matanza de Fort Hood.",
+        "«El regreso de los pingüinos».",
+        "Una app personal hecha con Copilot Cowork en 20 minutos.",
+        "Las empresas del Ibex fueron las que más empleo crearon en 2025 entre las grandes cotizadas europeas."
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-16 «Tesla Roadster, Muse Spark Open, internal vibe coding»",
+        "fecha": "2026-10-16"
+      },
+      "tldr_ai": [
+        {
+          "email_id": "TLDR AI 2026-10-15 «Jev 1.14, Grok Voice 3, RSI» (llegó el 16/10)",
+          "fecha": "2026-10-15"
+        },
+        {
+          "email_id": "TLDR AI 2026-10-16 «Muse Spark Open, Microsoft’s 3T param model, d1-ultra»",
+          "fecha": "2026-10-16"
+        }
+      ],
+      "klosh": {
+        "email_id": "Klosh 2026-10-16 «La Junta Electoral abre expediente sancionador a Sánchez…»",
+        "fecha": "2026-10-16"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-16 «The end of an empire?»",
+        "fecha": "2026-10-16"
+      }
     }
   ]
 }
