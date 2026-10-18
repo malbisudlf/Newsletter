@@ -1839,6 +1839,35 @@
         "email_id": "First Edition 2026-10-16 «The end of an empire?»",
         "fecha": "2026-10-16"
       }
+    },
+    {
+      "fecha": "2026-10-18",
+      "titulares": [
+        "Roban claves de API de OpenAI, Anthropic y Google a usuarios de OpenCode, y ya hay cargos en sus facturas.",
+        "Roban los datos de unos 7 millones de alumnos de California a través de la empresa de sus exámenes.",
+        "🔁 Seguimiento: Meta quita de sus nuevas condiciones para empresas la frase que le permitía entrenar su IA con las webs que rastrea.",
+        "TikTok suspende «de forma permanente» la cuenta publicitaria del documental «Musk».",
+        "Jack Clark (Anthropic) lleva al FMI un escenario en el que la IA lleva el PIB de EE. UU. a 44 billones de dólares en 2030.",
+        "Apollo Research pilla a GLM-5.3 pensando en cómo le afectará el entrenamiento.",
+        "Amazon usa una IA interna, «Atlas», para puntuar el riesgo sindical de sus almacenes.",
+        "DeepSeek actualiza V4.1-Flash y abre su propio buscador a los agentes.",
+        "🔁 Seguimiento, modelos de decisión: Shanghai AI Lab publica Intern-Decision.",
+        "Radar: ai-job-search (MadsLorentzen/ai-job-search), búsqueda de empleo sobre Claude Code.",
+        "Radar: Sphinx, hook de Git que te examina sobre el código del agente.",
+        "Radar: Pele, diagramas de Mermaid a SVG (kepano).",
+        "Radar: llmspeed, simulador de velocidad de LLM locales.",
+        "🔁 La dana Adam llega hoy a su punto álgido, con aviso rojo en el litoral sur de Valencia y el norte de Alicante.",
+        "Los seis grandes bancos ganarían unos 29.235 M€ hasta septiembre, un 15 % más.",
+        "Cerradas las coaliciones del 29-N, la semana política gira en torno a las listas.",
+        "Francia: cientos de miles de personas protestan contra la carestía y la jornada acaba en disturbios y 400 detenidos.",
+        "República Checa: el partido de Babiš no gana ni un escaño en la segunda vuelta del Senado.",
+        "«Donald Trump, el mejor comercial del coche eléctrico».",
+        "La inflación del 4,9 % aún no se ha contagiado a los salarios, pero la luz sigue subiendo.",
+        "Palabra del día: los Presupuestos Generales del Estado."
+      ],
+      "tldr": null,
+      "tldr_ai": null,
+      "nota": "Domingo: sin newsletters nuevas; bloques troncales construidos con búsqueda web. TLDR/TLDR AI más recientes (16/10) ya usadas el 17/10."
     }
   ]
 }
