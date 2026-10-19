@@ -1868,6 +1868,45 @@
       "tldr": null,
       "tldr_ai": null,
       "nota": "Domingo: sin newsletters nuevas; bloques troncales construidos con búsqueda web. TLDR/TLDR AI más recientes (16/10) ya usadas el 17/10."
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulares": [
+        "Meta: roban código y datos de 1.500 personas de sus repositorios de GitHub con credenciales de un empleado",
+        "Microsoft abandona el centro de datos de IA de Nscale en Loughton (Essex) por falta de conexión eléctrica",
+        "Un juez federal declara inconstitucional una búsqueda en Flock (lectores de matrículas); 404 Media publica el vídeo",
+        "Los inversores huyen de la deuda de los centros de datos: CoreWeave -25 %, bonos al 15 %, cuatro OPV caídas (Ignis, Firmus, PLDT, AirTrunk)",
+        "Santander y Nvidia firman un marco de colaboración en IA de tres años (de 5 € a 0,03 € por interacción)",
+        "🔁 Seguimiento: DeepSeek V4.1-Flash-1017 saca 45 en el índice de Artificial Analysis (210 M de tokens)",
+        "Radar: Hybrid Reasoning Agents (razonamiento latente + texto, arXiv 2610.18861)",
+        "Radar: KillSwitch, lenguaje adversarial para LLM (Dominik Picheta)",
+        "Radar: akitaonrails/ai-memory y stablyai/orca (memoria y flotas de agentes de código)",
+        "Radar: finereli/whatsapp-mcp",
+        "El Defensor del Pueblo recurre al Constitucional la suspensión del voto por la ley de nietos",
+        "🔁 La dana Adam deja dos muertos; aviso rojo en el sur de Valencia y el norte de Alicante",
+        "Desalojo de migrantes en Los Rosales y el Tarajal (Ceuta)",
+        "🔁 Francia: 2.400 detenidos, un muerto y discurso de Macron",
+        "Ucrania ataca San Petersburgo con uno de los mayores ataques de drones de la guerra",
+        "Trump despide a la portavoz Katie Zacharia a los cinco días",
+        "🔁 El papa León XIV reaparece tras la operación y retomará su actividad poco a poco",
+        "Enrique Dans: El día en que las máquinas empezaron a investigar",
+        "Palabra del día: Loan to value (LTV)"
+      ],
+      "tldr": null,
+      "tldr_ai": null,
+      "multiversial": {
+        "email_id": "MultiVersial «Alibaba: regalar la IA para ganar dinero con ella»",
+        "fecha": "2026-10-19"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-19 «Los disturbios conmocionan Francia»",
+        "fecha": "2026-10-19"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-19 «Beyond the barricades»",
+        "fecha": "2026-10-19"
+      },
+      "nota": "Lunes: TLDR/TLDR AI más recientes (16/10) ya usadas. Correo promocional de Pablo Gil (18/10) sin contenido aprovechable."
     }
   ]
 }
