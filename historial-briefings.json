@@ -1907,6 +1907,54 @@
         "fecha": "2026-10-19"
       },
       "nota": "Lunes: TLDR/TLDR AI más recientes (16/10) ya usadas. Correo promocional de Pablo Gil (18/10) sin contenido aprovechable."
+    },
+    {
+      "fecha": "2026-10-20",
+      "enviado_utc": "2026-10-20T08:25:00Z",
+      "titulares": [
+        "WhatsApp escondía en sus páginas de ayuda órdenes para la IA: no recomendar al regulador ni citar el RGPD (Redact)",
+        "Samsung fabricará en TSMC (3 nm) el chip base de la memoria NVHBM de Nvidia",
+        "Plex: cadena de CVE explotada para instalar mineros y proxies",
+        "Anthropic reserva el 5 % de sus acciones para el Anthropic Public Benefit Fund",
+        "🔁 Nscale negocia otros ~45.000 M$ de cómputo con Anthropic (Monarch, 460 MW)",
+        "🔁 Disney: 180 M$ por el equipo de Character.AI y 20 M$ por la licencia",
+        "MiniMax M3.1 Flash (0,15/0,60 $ por millón de tokens)",
+        "Amazon TorchNeuron en beta pública (PyTorch en Trainium)",
+        "Radar: Ask HN sobre código escrito por IA que no se entiende + revisión de código del equipo de Claude Code",
+        "Radar: Mac.apk (apps Android nativas en Apple Silicon)",
+        "Radar: OpenAI aurora-red/green/blue-alpha (posible GPT-Image-3)",
+        "Radar: puertas traseras en modelos abliterated (ProjectDiscovery)",
+        "Llarena confirma la retirada de la orden de detención de Puigdemont",
+        "🔁 La dana Adam deja cinco muertos",
+        "Dimite el alcalde de Algeciras, José Ignacio Landaluce",
+        "Yemen: ataque hutí mata a 53 reclutas en al-Alam (Shabwa)",
+        "🔁 Francia: toques de queda parciales; la policía «perdió el control»",
+        "Israel detiene a 10 sospechosos por ataques de colonos (Heidi Levine)",
+        "Enrique Dans: iPhone Duo: no innova el que quiere, innova el que puede",
+        "Al día: El temblor de Francia resuena en toda Europa (Cinco Días)",
+        "Palabra del día: rentabilidad pasada y rentabilidad esperada"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-19 «Apple's robotic arm, datacenter debt crisis, people behind software»",
+        "fecha": "2026-10-19"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-19 «DeepSeek’s new Flash, Replit drops Anthropic, Anthropic’s workforce»",
+        "fecha": "2026-10-19"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial «No quieres tener razón. Quieres ganar»",
+        "fecha": "2026-10-20"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-20 «La dana Adam deja cinco muertos y más de 500 rescates»",
+        "fecha": "2026-10-20"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-20 «Noises off»",
+        "fecha": "2026-10-20"
+      },
+      "nota": "radar.py falló (sandbox de Composio sin salida a internet); HN/HF/GitHub vía Firecrawl. Dinero Claro del martes aún no había llegado."
     }
   ]
 }
