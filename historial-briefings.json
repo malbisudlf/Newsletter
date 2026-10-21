@@ -1955,6 +1955,58 @@
         "fecha": "2026-10-20"
       },
       "nota": "radar.py falló (sandbox de Composio sin salida a internet); HN/HF/GitHub vía Firecrawl. Dinero Claro del martes aún no había llegado."
+    },
+    {
+      "fecha": "2026-10-21",
+      "enviado_utc": "2026-10-21T07:35:00Z",
+      "titulares": [
+        "eMudhra: comprometidas las claves de ocho CA intermedias (emSign Root TLS CA - G3)",
+        "Caída de Google Cloud en Europa tumba Revolut, HSBC, Lloyds y Bank of Scotland (20/10)",
+        "Waymo: préstamo de 5.000 M$ sin aval de Alphabet; 20.000 robotaxis a finales de 2027",
+        "Telefónica, DT, Orange y Vodafone: carta de intenciones para pujar juntas por espectro MSS (direct-to-device)",
+        "OpenAI busca ~30.000 M$ a >1,4 billones antes de la OPV de Anthropic (Reuters)",
+        "DHS ordena retirar DeepSeek de las agencias federales civiles de EE. UU.",
+        "SemiAnalysis: +50 GW de centros de datos en 2027; Meta detalla Prometheus",
+        "Mercury 3 (Inception Labs): LLM de difusión a 1.068 tokens/s",
+        "Mistral Voxtral 3 (STT, TTS y SDK de agentes de voz)",
+        "Cloudflare Clairic (modelo de extracción) y recorte del 68 % en su revisión de código con IA",
+        "Radar: DeepInfer, motor de inferencia de DeepSeek (HN 2.115 pts)",
+        "Radar: tsrs, port de TypeScript a Rust de Cloudflare",
+        "Radar: cloudflare/security-audit-skill (+1.712 estrellas)",
+        "Radar: concepto «harness evolution» (CoEvo-RSI, HarnessRL, Harness-Delta Attribution)",
+        "🔁 El Supremo aplica la amnistía a Junqueras, Romeva, Turull y Bassa",
+        "Feijóo confirma negociaciones con Vox para el Senado",
+        "Real decreto-ley: viudedad para parejas no inscritas, CUME hasta 26 años, anticipo de alimentos 100→300 €",
+        "🔁 Dana Adam: siete muertos y zona catastrófica",
+        "Alberta rechaza (~76 %) abrir el proceso de independencia",
+        "EE. UU. reanuda la inteligencia sobre misiles a Ucrania; Witkoff ve a Putin",
+        "🔁 RAF Typhoon para defender Arabia Saudí de los hutíes",
+        "Enrique Dans: El agente llama a la puerta… ¿lo dejamos entrar?",
+        "David Hurtado: la nube soberana de Microsoft (Data Guardian, Production Touch Ledger, HSM externo)",
+        "Al día: la brecha entre salarios y precios; 6 de cada 10 convenios sin cláusula de revisión (El País)",
+        "Palabra del día: productividad"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-20 «Touchscreen MacBook Pro, Waymo to 5x fleet, inference cost cuts»",
+        "fecha": "2026-10-20"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-20 «Mercury 3, MiniMax Flash 3.1, Exa 3»",
+        "fecha": "2026-10-20"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial «Cuando publicar los sueldos consiguió que aumentaran»",
+        "fecha": "2026-10-21"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-21 «El Supremo amnistía a Junqueras, Turull y Bassa»",
+        "fecha": "2026-10-21"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-21 «This is not a drill»",
+        "fecha": "2026-10-21"
+      },
+      "nota": "radar.py volvió a fallar (sandbox de Composio sin salida, SSL); HN/HF/GitHub vía Firecrawl. Pablo Gil del 20/10 era promo, no Dinero Claro."
     }
   ]
 }
