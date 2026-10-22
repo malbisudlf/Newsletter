@@ -2007,6 +2007,52 @@
         "fecha": "2026-10-21"
       },
       "nota": "radar.py volvió a fallar (sandbox de Composio sin salida, SSL); HN/HF/GitHub vía Firecrawl. Pablo Gil del 20/10 era promo, no Dinero Claro."
+    },
+    {
+      "fecha": "2026-10-22",
+      "enviado_utc": "2026-10-22T05:05:00Z",
+      "titulares": [
+        "PHP: parches de CVE-2026-109618/109619 (8.5.12, 8.4.27, 8.3.36, 8.2.35); OpenAI «Patch the Planet» (GPT-5.6 Sol, Wiz, Daybreak 1.000 M$)",
+        "LiteLLM 1.107.0 en PyPI con ladrón de credenciales + Railway: acceso a variables de entorno de clientes",
+        "Meta condenada a 25.000 M$ en Nuevo México (Cambridge Analytica)",
+        "Tesla y SpaceX forman comités para estudiar una fusión; SpaceX Q3 14.580 M$, IA 7.560 M$",
+        "DuckDB 2.0 LTS «Cinnamon Teal»",
+        "Borrador S-1 de Anthropic: pérdida de 80.700 M$ en el 1S (72.000 M$ contables), cómputo 9.000 M$, 518.000 M$ comprometidos",
+        "Claude diseña minibinders contra neurotoxinas de escorpión (318.484 diseños, 211 probados, 17 válidos)",
+        "METR revisa el informe de riesgos de desalineación de Anthropic",
+        "TorchTPU: PyTorch nativo en TPU (Google y Meta)",
+        "Modelos de OpenAI en Google Cloud (Model Garden, Marketplace)",
+        "Radar: Flint (RecursiveSI/flint), MoE 39,8B/2,5B activos para agentes de código",
+        "Radar: concepto «durable harness» (Vercel durable-harness, Ramp Laminar, Omnara)",
+        "Radar: graphify (Graphify-Labs/graphify) y headroom (headroomlabs-ai/headroom)",
+        "Radar: ponytail (DietrichGebert/ponytail)",
+        "Milei llama «impresentable dictador» a Sánchez en Madrid",
+        "🔁 El TC inadmite por prematuro el recurso del Defensor del Pueblo sobre la «ley de nietos»",
+        "Feijóo promete Ley del Suelo, antiokupas y propiedad horizontal en 100 días",
+        "Apagón de 55 minutos en Ceuta por un cero eléctrico en la subestación Algeciras",
+        "🔁 Rusia acepta reanudar negociaciones a tres con EE. UU. y Ucrania; liberado Stephen Hubbard",
+        "Informe del PNUMA: +2,6 °C con promesas; EE. UU., 70 % del aumento de emisiones de 2025",
+        "Al día: déficit de 750.000 viviendas y capacidad del sector (Cinco Días / El País)",
+        "Palabra del día: comisión de mantenimiento de una cuenta",
+        "Dinero Claro: decidir con un plan, no con las emociones"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-21 «Anthropic S-1 leaks, Tesla SpaceX merger talks, increase your slope»",
+        "fecha": "2026-10-21"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-21 «DeepSeek DeepInfer, PyTorch on TPUs, Ramp’s agent framework»",
+        "fecha": "2026-10-21"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial «OpenAI y Anthropic: el problema de medir los ingresos de la IA como si fueran software»",
+        "fecha": "2026-10-22"
+      },
+      "dinero_claro": {
+        "email_id": "Dinero Claro «Lo que he aprendido después de 40 años viendo cómo la gente gana y pierde dinero»",
+        "fecha": "2026-10-21"
+      },
+      "nota": "Disparado por API a las 06:50 (Madrid), antes de que llegaran Klosh, Guardian y Dans: España y Mundo construidas con web (Europa Press, RTVE, AP). The Trader (jueves) aún no había llegado. radar.py falló (SSL en sandbox); radar vía Firecrawl."
     }
   ]
 }
