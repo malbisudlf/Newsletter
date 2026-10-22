@@ -277,13 +277,21 @@ sin base, o publicar dos veces la misma edición.
 5. bis. **Web — España y Resto del mundo.** Si Klosh o Guardian no han llegado (todos los
    fines de semana), busca en web lo que falte para cubrir el mínimo de cada bloque.
 6. **Life Assistant.** El correo que ya localizaste en la Fase 0: léelo entero ahora.
-   - Formato: texto plano, con secciones marcadas por `##` — `AGENDA DE HOY`, `CLASES DE HOY`, `ENTREGAS`, `CLIMA`, `UBICACIÓN`, `SALUD`, `ENTRENAMIENTO PERSONAL`, `ECONOMÍA — TITULARES`, `TÉRMINO ECONÓMICO DEL DÍA`.
+   - Formato: texto plano, con secciones marcadas por `##` — `AGENDA DE HOY`, `CLASES DE HOY`, `ENTREGAS`, `CLIMA`, `UBICACIÓN`, `SALUD`, `ENTRENAMIENTO PERSONAL`, `ECONOMÍA — TITULARES`, `FINANCIAL TIMES — TITULARES`, `TÉRMINO ECONÓMICO DEL DÍA`.
    - **`ECONOMÍA — TITULARES`** trae titulares de economía en crudo, cada uno con su
      medio, su hora, un extracto y el enlace. Vienen ya acotados a las últimas horas y
      **sin los que salieron en el correo anterior**: no hace falta que compruebes
      repeticiones contra el historial, de eso se encarga el backend. Debajo van las
      fuentes con cuántos titulares aportó cada una; si alguna sale con `0 titulares` o
      `CAÍDA`, anótalo en incidencias — es una URL rota, no un día tranquilo.
+   - **`FINANCIAL TIMES — TITULARES`** tiene la misma forma que la anterior (titular,
+     sección del FT, hora, entradilla, enlace, fuentes con su recuento) pero en inglés, y
+     también llega ya sin los del correo anterior. **Mikel tiene acceso completo al FT con
+     la cuenta de la universidad**: los enlaces abren el artículo entero, así que no lo
+     trates como contenido de pago ni te limites a la entradilla por eso. Si puedes
+     abrir el enlace con tus herramientas, úsalo para dar contexto; si te sale el muro de
+     pago (tú no tienes su sesión), trabaja con titular y entradilla y enlaza igual. Una
+     fuente con `CAÍDA` o `0 titulares` va a incidencias, igual que en economía.
    - **`TÉRMINO ECONÓMICO DEL DÍA`** trae UNA palabra (interés compuesto, euríbor,
      base de cotización...) y, entre paréntesis, los dos términos de los días
      anteriores. Viene sin definición a propósito: la explicación la escribes tú.
@@ -651,6 +659,19 @@ anterior. La sección solo se omite entera si tampoco llegó el correo de Life A
   titular. Enlaza el medio. Si esa mañana no hay nada que le toque de verdad, omite el
   bloque en vez de rellenarlo con macroeconomía de otro país.
 - (1-2 viñetas como mucho)
+
+**📰 Financial Times** (de `## FINANCIAL TIMES — TITULARES` del correo de Life Assistant)
+
+- Elige **dos o tres** piezas del FT que expliquen lo que mueve el mundo hoy: bancos
+  centrales, bonos y divisas, mercados, grandes empresas, energía, Europa y geopolítica
+  con impacto económico. Aquí sí cabe lo internacional — es justo el hueco que no cubre
+  «Al día». Dos o tres frases cada una, **en español**, con la lectura de fondo (qué
+  pasa, por qué importa, qué vigilar) y no la traducción del titular. Enlaza el artículo
+  del FT: Mikel lo abre entero con la cuenta de la universidad.
+- No repitas un hecho que ya cuentes en «Al día», en Mercados o en Actualidad General:
+  si coincide, quédate con la versión del FT solo si aporta más contexto, y quítalo del
+  otro bloque.
+- (2-3 viñetas como mucho; omite el bloque si la sección no vino o vino vacía)
 
 **💡 La palabra del día** (de `## TÉRMINO ECONÓMICO DEL DÍA`)
 
