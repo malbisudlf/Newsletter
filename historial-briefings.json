@@ -2053,6 +2053,54 @@
         "fecha": "2026-10-21"
       },
       "nota": "Disparado por API a las 06:50 (Madrid), antes de que llegaran Klosh, Guardian y Dans: España y Mundo construidas con web (Europa Press, RTVE, AP). The Trader (jueves) aún no había llegado. radar.py falló (SSL en sandbox); radar vía Firecrawl."
+    },
+    {
+      "fecha": "2026-10-23",
+      "enviado_utc": "2026-10-23T04:40:00Z",
+      "titulares": [
+        "🔁 PHP: gobiernos europeos desconectan webs; 1,5 M de 2,6 M hosts sin parche; explotación detectada el 17/10 (Reuters)",
+        "Quad9 sale de Francia el 24/11 por la sentencia de bloqueo DNS a favor de beIN",
+        "Meta 3T: 64.601 M$ (+26 %), beneficio operativo -37 % por cargo judicial de 9.890 M$",
+        "Tesla arranca producción de Optimus en Fremont; beneficio -43 % (787 M$); FSD sin supervisión al 2T 2027",
+        "Bruselas abre expediente DSA a Booking.com (alojamientos falsos, phishing, anuncios sin etiquetar)",
+        "🔁 eMudhra abandona el negocio de certificados SSL/TLS",
+        "Anthropic + Theorem: verificación formal en RISC-V de 239 puntos de entrada en 123 librerías de OSS-Fuzz",
+        "🔁 OpenAI rebaja su valoración objetivo a 1,25 billones $ (FT)",
+        "Claude Duet: agente proactivo de Anthropic (research preview, Pro/Max EE. UU.)",
+        "API de Claude versión 2026-10-21 (primera desde 2023; quita temperature/top_p/top_k)",
+        "Radar: concepto «mods» de Claude Code (Latent Space)",
+        "Radar: MOSS-Image (OpenMOSS), texto-a-imagen 5B con layouts JSON",
+        "Radar: Opposable / GUI-Owl 1.5, agente Android en el dispositivo",
+        "Radar: Humming, kernels de inferencia cuantizada (Ant Group + vLLM)",
+        "Cara a cara Sánchez–Feijóo el 16-N; choque por el debate a cuatro en RTVE",
+        "España e Italia levantan los controles fronterizos de la crisis de Ceuta",
+        "Jueza de Madrid anula el desalojo de una vivienda pública de la AVS en Leganés",
+        "Irán dice que siete petroleros fueron alcanzados en Ormuz",
+        "🔁 Rusia lanza 21 misiles balísticos sobre Kyiv tras aceptar negociar",
+        "Al día: oleada de reclamaciones a bancos por ciberestafas tras la sentencia del TJUE (Cinco Días)",
+        "FT: el Tesoro de EE. UU. propone vetar más inversión en tecnología china",
+        "FT: American Airlines, billetes sin vuelta a precios previos a la guerra con Irán",
+        "FT: la confianza del consumidor británico cae como no lo hacía desde la COVID",
+        "Palabra del día: tipo marginal y tipo efectivo",
+        "Mercados (The Trader nº178): inflación EE. UU. 3,7 % / eurozona 3,8 %; coste de la IA -47 % por trimestre; humanoides, 97 % de los envíos son chinos"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-22 «Anthropic's AI agent, Elon's merger, internet security meltdown»",
+        "fecha": "2026-10-22"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-22 «Claude Duet, Anthropic API changes, Recursive’s local model»",
+        "fecha": "2026-10-22"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial «Los centros de datos son el eslabón débil de la cadena de la IA»",
+        "fecha": "2026-10-23"
+      },
+      "the_trader": {
+        "email_id": "Newsletter The trader nº 178",
+        "fecha": "2026-10-22"
+      },
+      "nota": "Disparado por API a las 06:19 (Madrid), antes de Klosh, Guardian y Dans: España y Mundo construidas con web. radar.py falló (SSL en el sandbox); radar vía Firecrawl."
     }
   ]
 }
