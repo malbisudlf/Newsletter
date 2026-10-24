@@ -2101,6 +2101,51 @@
         "fecha": "2026-10-22"
       },
       "nota": "Disparado por API a las 06:19 (Madrid), antes de Klosh, Guardian y Dans: España y Mundo construidas con web. radar.py falló (SSL en el sandbox); radar vía Firecrawl."
+    },
+    {
+      "fecha": "2026-10-24",
+      "enviado_utc": "2026-10-24T07:40:00Z",
+      "tldr": {
+        "email_id": "TLDR 2026-10-23 «OpenAI Signal leaks, Alexa Tablet, formal software verification»",
+        "fecha": "2026-10-23"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-23 «OpenAI nears $1.25T, 1Password for Agents, Gemini 3.5 Pro postmortem»",
+        "fecha": "2026-10-23"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-23 «Cayetana Álvarez de Toledo y Borja Sémper serán números dos y tres del PP»",
+        "fecha": "2026-10-23"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-23 «Serbia's youth revolution»",
+        "fecha": "2026-10-23"
+      },
+      "nota": "Sábado. Disparado por API a las 09:22 (Madrid). Klosh y Guardian del viernes, sin usar porque el briefing del 23/10 salió antes. radar.py falló (SSL en el sandbox); radar vía Firecrawl.",
+      "titulares": [
+        "OpenSSL 4.1.0 (DTLS 1.3, GREASE, IKEv2 KDF)",
+        "Spyware para iPhone desde 6.600 webs legítimas y un anuncio de Instagram (DeadTag, Scott Helme)",
+        "Moderna/Merck: vacuna de ARNm reduce 42 % recaída o muerte en melanoma (ESMO)",
+        "METR y Redwood: fallos en la monitorización de agentes internos de OpenAI",
+        "Anthropic dona Agent Skills a la Agentic AI Foundation",
+        "1Password for Agents",
+        "Perplexity JOLT (autodestilación profesor-alumno)",
+        "Radar: NVIDIA OpenShell",
+        "Radar: WorldTUI, modelo de 360M que simula una terminal",
+        "Radar: Fable 5.1 esconde mensajes en imágenes SVG (LessWrong)",
+        "Radar: HTML-in-Canvas origin trial en Chrome",
+        "Entra en vigor la reforma de la Ley de Dependencia",
+        "Álvarez de Toledo y Sémper, números dos y tres del PP por Madrid",
+        "Leonor y el Rey en los Premios Princesa de Asturias",
+        "Cambio de hora y manifestación por las pensiones (24/10)",
+        "Serbia vota el domingo: Lista Estudiantil contra Vučić",
+        "🔁 Francia despliega 70.000 policías para las protestas del sábado",
+        "Terremoto de magnitud 7 en el Tíbet (16 muertos)",
+        "Enrique Dans: Los agentes personales de IA y la nueva apropiación de nuestros datos",
+        "Al día: ¿Vuelven las preferentes? / Quién presidirá el BCE",
+        "FT: Francia se rebela, la tormenta está por llegar; presupuesto británico y bonos; Cboe y los ETF",
+        "Palabra del día: economía sumergida"
+      ]
     }
   ]
 }
