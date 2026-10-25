@@ -2146,6 +2146,36 @@
         "FT: Francia se rebela, la tormenta está por llegar; presupuesto británico y bonos; Cboe y los ETF",
         "Palabra del día: economía sumergida"
       ]
+    },
+    {
+      "fecha": "2026-10-25",
+      "enviado_utc": "2026-10-25T08:45:00Z",
+      "nota": "Domingo. Disparado por API tras el correo de datos de las 09:06 (Madrid). Sin MultiVersial/Klosh/Guardian; TLDR/TLDR AI del 23/10 ya usadas el 24/10: 1, 2, España y Mundo construidas con web. radar.py falló (SSL en el sandbox); radar vía Firecrawl. Europa Press - Finanzas con 0 titulares.",
+      "titulares": [
+        "Node2Shell/HTTP2Shell: CVE-2026-111497 en el decodificador Brotli (Node, Bun, Envoy, Python)",
+        "Quest Diagnostics confirma acceso a registros de pacientes (Quanum LSM)",
+        "BlackX: bootkit UEFI de APT41 con Baton Drop (Kaspersky)",
+        "Google: datos de Gmail, Drive y Fotos para anuncios si se conectan a Personal Intelligence",
+        "OpenAI deja de entrenar con internet en vivo (fuga del 20/09)",
+        "Estudio Convovo: Grok 4.7 recomienda republicanos (92 %), GPT-6.1 Sol demócratas (97 %)",
+        "Kimi K3.1 Pro y K3.1 Pro Highspeed (Moonshot, 23/10, vía LLM Gateway)",
+        "Cerebras sirve Kimi K3 a 1.000–2.000 tokens/s en 59 obleas WSE-3T",
+        "Radar: GVS5H (slee-persis), orquestación por ficheros; Qwen3.8-27B iguala a Fable 5 (HN 118 pts)",
+        "Radar: concepto «anti-AI-slop» — pbakaus/impeccable y Nutlope/hallmark",
+        "Radar: makecindy/cindy, agente abierto escritorio/móvil",
+        "Radar: WeVisOne-VL (paper HF, 239 votos)",
+        "Disturbios en plaza Catalunya: un centenar de detenidos",
+        "El Rey, operado de cataratas en Oviedo",
+        "Comín vuelve a Cataluña a pie por la amnistía",
+        "Brasil: segunda vuelta Lula vs Flávio Bolsonaro (25/10)",
+        "Israel arrasa Ein Deir Baha (Hebrón): 1.500 expulsados",
+        "Jordania: 9 muertos en un funeral en una iglesia de Karak",
+        "Kim Jong-un cruza a China por el nuevo puente del Yalu",
+        "Enrique Dans: La IA empresarial necesita aprender de la empresa (TuringDream/Tau)",
+        "Al día: modelo vasco de vivienda (500 pisos comprados a un fondo); huelga de inquilinos 11-N",
+        "FT: lujo europeo -250.000 M€; mar Negro ruta más mortífera; Mercuria vs Baltic Exchange",
+        "Palabra del día: SEPA y transferencias inmediatas"
+      ]
     }
   ]
 }
