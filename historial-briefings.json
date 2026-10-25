@@ -2149,7 +2149,7 @@
     },
     {
       "fecha": "2026-10-25",
-      "enviado_utc": "2026-10-25T08:45:00Z",
+      "enviado_utc": "2026-10-25T08:19:00Z",
       "nota": "Domingo. Disparado por API tras el correo de datos de las 09:06 (Madrid). Sin MultiVersial/Klosh/Guardian; TLDR/TLDR AI del 23/10 ya usadas el 24/10: 1, 2, España y Mundo construidas con web. radar.py falló (SSL en el sandbox); radar vía Firecrawl. Europa Press - Finanzas con 0 titulares.",
       "titulares": [
         "Node2Shell/HTTP2Shell: CVE-2026-111497 en el decodificador Brotli (Node, Bun, Envoy, Python)",
