@@ -2176,6 +2176,49 @@
         "FT: lujo europeo -250.000 M€; mar Negro ruta más mortífera; Mercuria vs Baltic Exchange",
         "Palabra del día: SEPA y transferencias inmediatas"
       ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "enviado_utc": "2026-10-26T07:50:00Z",
+      "multiversial": {
+        "email_id": "MultiVersial 2026-10-26 «El coche que vuela y la fusión que viene»",
+        "fecha": "2026-10-26"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-26 «Lula gana las elecciones en Brasil y logra su cuarto mandato»",
+        "fecha": "2026-10-26"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-26 «Brazil keeps left»",
+        "fecha": "2026-10-26"
+      },
+      "nota": "Lunes. Disparado por API tras el correo de datos de las 08:32 (Madrid). TLDR/TLDR AI del 23/10 ya usadas: Nuevos lanzamientos solo con web. radar.py falló (SSL en el sandbox); radar vía Firecrawl. Europa Press - Finanzas con 0 titulares. Pablo Gil «Alerta para la clase media» (25/10): promo, sin usar.",
+      "titulares": [
+        "🔁 Cloudflare WAF de emergencia para CVE-2026-111497 (25/10) y nuevo RCE de PHP CVE-2026-115560",
+        "Meta: 825.000 M$ en compromisos futuros (355.700 M$ arrendamientos fuera de balance)",
+        "SpaceX busca 80.000 emplazamientos para un cuarto operador móvil en EE. UU.",
+        "Palantir: Maven (OTAN) sin interruptor remoto",
+        "Instacart explora su venta; Uber se retira",
+        "Barclays recorta 5.000 empleos por IA; Slok (Apollo): IA sin retorno fuera de tech",
+        "Bancos de EE. UU. detectan agentes de IA no autorizados en cuentas (Axios)",
+        "MiniMax M3.1 Flash: pesos abiertos (428B/23B activos, 1M contexto)",
+        "Nanbeige4.3-33B, modelo profesor para agentes",
+        "Radar: CNN de 2015 supera a GPT-6 Astra y Fable 5.1 en cáncer de piel (Lynch Lab)",
+        "Radar: concepto «context engineering» (Drew Breunig, AGNTCon)",
+        "Radar: debpalash/VoiceStudio, alternativa local a ElevenLabs",
+        "Radar: JetBrains/thinkrail, IDE ligero para agentes (pi)",
+        "🔁 Barcelona: 128 detenidos (72 menores) y 14 mossos heridos",
+        "Dimite Francisco Martín, delegado del Gobierno en Madrid",
+        "30.000 personas en Madrid por Ceuta (Mujeres Caballas)",
+        "🔁 Ley de nietos: incidente de nulidad ante el Supremo (despacho Garzón)",
+        "Lula gana la segunda vuelta (51,79 %); Flávio Bolsonaro no reconoce",
+        "🔁 Serbia: la Lista de los Estudiantes gana; Vučić se retira",
+        "María Corina Machado regresa a Venezuela",
+        "Enrique Dans: Cuando la IA dirige la empresa, ¿qué es el liderazgo?",
+        "Al día: pensiones privadas estancadas (EPSV vascas); BCE y Fed se reúnen con repunte inflacionista",
+        "FT: Brent a 114 $ y Singapur almacena crudo saudí; Fed subidas trimestrales; Alemania compra el misil ucraniano Bars",
+        "Palabra del día: impuesto de sucesiones y donaciones"
+      ]
     }
   ]
 }
