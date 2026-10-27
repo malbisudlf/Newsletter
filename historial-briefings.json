@@ -2219,6 +2219,55 @@
         "FT: Brent a 114 $ y Singapur almacena crudo saudí; Fed subidas trimestrales; Alemania compra el misil ucraniano Bars",
         "Palabra del día: impuesto de sucesiones y donaciones"
       ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "enviado_utc": "2026-10-27T09:08:00Z",
+      "tldr": {
+        "email_id": "TLDR 2026-10-26 «iPhone Duo, SpaceX military access, ambitious software»",
+        "fecha": "2026-10-26"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-26 «Apple's 20B model, Kimi K3.1 Pro, Block Dessa, frontier training security»",
+        "fecha": "2026-10-26"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial 2026-10-27 «El verdadero premio de Musk: controlar Tesla como controla SpaceX»",
+        "fecha": "2026-10-27"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-27 «PP y Vox pactan sus candidaturas al Senado»",
+        "fecha": "2026-10-27"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-27 «Cocaine nation»",
+        "fecha": "2026-10-27"
+      },
+      "nota": "Martes. Disparado por API tras el correo de datos de las 10:00 (Madrid). radar.py falló (SSL en el sandbox); radar vía Firecrawl. Dinero Claro del martes aún no había llegado (último, 21/10, ya usado). The Trader nº178 ya usado.",
+      "titulares": [
+        "Microsoft ofrece bajas voluntarias a ~60.000 empleados (un cuarto de la plantilla)",
+        "Cloudflare: GLM-5.3 en Workers AI expuso caché KV de otras sesiones en 155 respuestas (SGLang)",
+        "Apple: nuevo iPad mini (A20 Pro, OLED) y MacBook Pro táctil el 28/10",
+        "El ejército de EE. UU. da a SpaceX acceso a datos de seguimiento espacial",
+        "🔁 Anthropic publica su S-1: Nasdaq «ANT», 16.290 M$ 1S, margen bruto 85 %, NRR ~900 %",
+        "SpaceX cierra 40.000 M$ de deuda para GPU; Musk augura quiebras de neoclouds",
+        "GPT-6.1 Terra (OpenAI): 1 $/5 $ por M tokens",
+        "Apple Core Advanced: modelo de 20B en el dispositivo con 2 GB de RAM",
+        "Radar: OpenAI dice refutar la ETH y probar Yang–Mills/QCD (openai/math)",
+        "Radar: Dessa (Block), modelo conversacional entrenado solo con audio",
+        "Radar: Type Server Protocol de Microsoft (Pylance)",
+        "Radar: nightly-labs/openbot, espacio local para compañeros de IA",
+        "PP y Vox pactan las listas al Senado en 23 provincias",
+        "Ceuta: el teniente coronel Miguel Lobo asume haber abierto la valla",
+        "Bilbao: disturbios contra el acto de Vito Quiles (14–19 detenidos)",
+        "Israel vota: Netanyahu frente a Eisenkot",
+        "Tregua humanitaria en Oleshki",
+        "Enrique Dans: Cuando mejorar tu televisión consiste en quitarle cosas",
+        "David Hurtado: creación y verificación con evals a escala",
+        "Al día: EPA 3T paro 10,18 %; gasto en pensiones récord 14.540 M€",
+        "FT: desplome del real y del Bovespa tras Lula; BoJ subidas trimestrales; HSBC cae pese a +32,5 %",
+        "Palabra del día: nuda propiedad y usufructo"
+      ]
     }
   ]
 }
