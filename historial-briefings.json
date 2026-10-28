@@ -2268,6 +2268,56 @@
         "FT: desplome del real y del Bovespa tras Lula; BoJ subidas trimestrales; HSBC cae pese a +32,5 %",
         "Palabra del día: nuda propiedad y usufructo"
       ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "enviado_utc": "2026-10-28T06:58:00Z",
+      "tldr": {
+        "email_id": "TLDR 2026-10-27 «Anthropic IPO, OpenAI disproves ETH, end of the internet»",
+        "fecha": "2026-10-27"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-27 «GPT-6.1 Terra, Anthropic IPO filing, agent native git»",
+        "fecha": "2026-10-27"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial 2026-10-28 «Tesla + SpaceX: cuatro preguntas para saber si la fusión tiene sentido»",
+        "fecha": "2026-10-28"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-28 «Netanyahu gana en Israel según los sondeos, pero no logra la mayoría»",
+        "fecha": "2026-10-28"
+      },
+      "nota": "Miércoles. Disparado por API tras el correo de datos de las 07:41 (Madrid). radar.py funcionó en el sandbox (HN, HF y GitHub OK). Guardian First Edition no había llegado al redactar. Pablo Gil 27/10 «No se contrata el seguro...»: promo, sin usar. Dinero Claro del 27/10 no llegó (último, 21/10, ya usado). The Trader nº178 ya usado.",
+      "titulares": [
+        "CVE-2026-97631: RCE pre-arranque en el PXE de EDK II (UEFI), Matrosov/Holmes, embargo roto por AMI",
+        "Tailscale SSH («Tailworm»): escalada de privilegios, parche y TS_SSH_DISABLE_FORWARDING",
+        "🔁 Apple MacBook Pro 14\" e iMac con M6; grietas en la pantalla interior del iPhone Duo",
+        "Sentencia secreta del tribunal FISA sobre la Sección 702 (Wyden y Schiff)",
+        "🔁 DoorDash negocia comprar Instacart por ~17.000 M$",
+        "Meta: hasta 95.000 M$ en acciones para IA; Broadcom: 63.000 M$ en leasing de chips para Anthropic",
+        "Cohere: Qwen3.8-Flash-Next intentó subir un fichero a un bucket de Alibaba Cloud en Pekín",
+        "Anthropic: Claude en desarrollo de fármacos (6 socios, compra de Mithril Medicine)",
+        "Genie 4 (DeepMind): modelo de mundo con audio nativo",
+        "Artificial Analysis Intelligence Index v5: Opus 5.5 58, GPT-6 Astra 57, GPT-6.1 Sol 55",
+        "Brazos robóticos: capacidad de los modelos duplicándose cada 54 días",
+        "Radar: CFSG formalizada en Lean (Axiom Math, 43,1 M líneas)",
+        "Radar: RecursiveSI/flint, MoE 39,8B/2,5B activos para agentes de código",
+        "Radar: Survival LLM, asistente offline con biblioteca de emergencias",
+        "Radar: baidu/Unlimited-OCR-2 (SR-SWA)",
+        "Jueza Tardón da 15 días para desclasificar los informes del CNI sobre Ceuta",
+        "Mbappé y el meme de Mao: CCTV suspende LaLiga",
+        "Tractorada en Madrid (Asaja, COAG, Unión de Uniones)",
+        "Comuns retiran candidaturas al Senado en Girona, Lleida y Tarragona en favor del PSC",
+        "Vila-Matas, Premio Nacional de las Letras 2026",
+        "🔁 Israel: empate de bloques, partidos árabes bisagra, participación 77 %",
+        "🔁 Flávio Bolsonaro se va a EE. UU. tras incumplir la entrega de pasaportes",
+        "Bruselas propone Frontex de 30.000 agentes y centro de retornos",
+        "Enrique Dans: Meta, el cáncer de la democracia",
+        "Al día: Santander 11.176 M€ (12.405 con Polonia); empleo masculino supera el pico de 2007",
+        "FT: BoE subirá tipos en noviembre; Presupuestos de Healey; ETF con perps sobre Anthropic y OpenAI",
+        "Palabra del día: traspaso de fondos sin tributar (diferimiento fiscal)"
+      ]
     }
   ]
 }
