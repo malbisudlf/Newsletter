@@ -2318,6 +2318,66 @@
         "FT: BoE subirá tipos en noviembre; Presupuestos de Healey; ETF con perps sobre Anthropic y OpenAI",
         "Palabra del día: traspaso de fondos sin tributar (diferimiento fiscal)"
       ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "enviado_utc": "2026-10-29T07:24:22Z",
+      "titulares": [
+        "Las herramientas de desarrollo de macOS (git, curl, python3) siguen confiando en certificados comprometidos de eMudhra; macOS 27.2 revierte el apaño",
+        "Alpine Linux reconstruye su GitLab tras intentos de explotar CVE-2026-97229 (CVSS 10)",
+        "Script antibots de servicepipe.tech con textos sobre armas biológicas para activar salvaguardas de IA",
+        "Apple: asistente de IA y MCP en Pages, Keynote y Numbers",
+        "Memorando de Amazon contra el «tokenmaxxing»",
+        "Oracle ofrecerá TPU de Google, Jalapeño de OpenAI y Cerebras; OpenAI comprará TPU de Google",
+        "🔁 Nvidia invierte 3.000 M$ en la ampliación de capital de Meta (demanda 5x)",
+        "Anthropic: descuento del 40 % a la Administración de EE. UU. vía GSA",
+        "Gemini 4 Carbon: n.º 1 en AA Index v5 (59), acceso restringido a ciberdefensores, 2/10 $",
+        "Liquid AI LFM3 (pesos abiertos, ~2B, 256K)",
+        "🔁 Claude refuta la ETH con formalización en Lean (anthropics/formal-math)",
+        "Radar: Qwenputer, CPU RISC-V dentro de Qwen 3.5 4B",
+        "Radar: Claude Code agent_summary = 16,4 % del gasto (gist Flamerix)",
+        "Radar: DAYJOB: Tax (Surge AI), mejor agente 10,8 %",
+        "Radar: Tencent Hy-SimulMT, traducción simultánea zh-en",
+        "Accidente de Urda (Toledo): 68 muertos, AVE contra Iryo",
+        "Tres días de luto, precampaña suspendida y cargas ante el Ministerio de Transportes",
+        "Begoña Gómez denuncia al PP por vídeo con IA",
+        "🔁 Ley de nietos: solo 901 de 163.355 podrán votar el 29N",
+        "🔁 Israel: 53-48-19 con el 91 % escrutado; Golan abre contactos",
+        "La UE retira la oferta de «miembro asociado» a Canadá",
+        "Putin elogia a Musk; Rassvet (26 satélites) y restricción de Starshield",
+        "Midterms: Obama en Georgia con Ossoff",
+        "Enrique Dans: La burbuja pincha, la inteligencia artificial se queda",
+        "David Hurtado: comercio agéntico (Wharton, 26.000 pruebas)",
+        "Al día: BBVA 9.066 M€ y Sabadell 1.376 M€; pensión de viudedad para parejas no formalizadas con hijos",
+        "FT: Nasdaq a la baja tras Alphabet (-10 %) y Microsoft; la Fed mantiene 3,75-4 %; Israel y el riesgo de ataque a Irán",
+        "Palabra del día: el convenio colectivo",
+        "Finanzas personales (Dinero Claro 28/10): ganar más no es vivir mejor"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-28 «M6 MacBook Pro, Amazon anti-tokenmaxxing, advice for junior SWEs»",
+        "fecha": "2026-10-28"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-28 «Genie 4 worlds, Frontier Code 2, AI drug discovery»",
+        "fecha": "2026-10-28"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial 2026-10-29 «Tesla + SpaceX: los dos obstáculos que Musk tiene que superar»",
+        "fecha": "2026-10-29"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-29 «Al menos 68 muertos en la segunda tragedia ferroviaria en 9 meses en España»",
+        "fecha": "2026-10-29"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-29 «Budget: bold or blah?»",
+        "fecha": "2026-10-29"
+      },
+      "dinero_claro": {
+        "email_id": "Dinero Claro 2026-10-28 «Ganar más dinero no significa vivir mejor»",
+        "fecha": "2026-10-28"
+      },
+      "nota": "Jueves. Trigger de horario (08:13 Madrid), correo de datos de las 07:58. radar.py: HN falló por KeyError 'points' (oferta de empleo sin puntos), relanzado con .get; GitHub y HF OK. The Trader del jueves aún no había llegado. Guardian del 28/10 sin usar (llegó tras el briefing de ayer)."
     }
   ]
 }
