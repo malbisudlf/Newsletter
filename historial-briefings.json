@@ -2378,6 +2378,63 @@
         "fecha": "2026-10-28"
       },
       "nota": "Jueves. Trigger de horario (08:13 Madrid), correo de datos de las 07:58. radar.py: HN falló por KeyError 'points' (oferta de empleo sin puntos), relanzado con .get; GitHub y HF OK. The Trader del jueves aún no había llegado. Guardian del 28/10 sin usar (llegó tras el briefing de ayer)."
+    },
+    {
+      "fecha": "2026-10-30",
+      "enviado_utc": "2026-10-30T09:07:34Z",
+      "titulares": [
+        "Binance: robo de 6.300 M$ (portátil de un ingeniero comprometido; atribuido a TraderTraitor/Corea del Norte)",
+        "🔁 Alphabet: flujo de caja libre -9.070 M$ con capex de 51.360 M$; Microsoft genera 18.600 M$ con Azure +48 %",
+        "PDF cifrado AES-256 roto sin contraseña: MuPDF solo usaba 9 bits de aleatoriedad (V12)",
+        "Dropbox despide al 9 % (~200) y se va su CTO",
+        "DoJ examina la compra de Hugging Face por Nvidia (12.930 M$)",
+        "OpenAI, ~10.000 M$ y casi el 11 % de los ingresos de Microsoft",
+        "Anthropic lanza informes de gasto/productividad en IA para empresas",
+        "Mistral Large 4 «Le Chonk» publica pesos (1T-A52B)",
+        "NVIDIA Nemotron 3.5 Transcribe + Granary v2",
+        "Microsoft Copilot harness en Foundry y GitHub Copilot Fusion",
+        "Radar: tinyworldformer (world model en Raspberry Pi Pico 2 W) + doomformer",
+        "Radar: concepto «LLM Voice» (Martin Fowler)",
+        "Radar: YC Labs, 50 agentes GPT-6.1 Sol en Minecraft (minecraft-agent-harness)",
+        "Radar: Simantic (YC F26), simulación de firmware para agentes",
+        "🔁 Urda: 69 muertos, AVE a 160-200 km/h, protocolo equivocado en Atocha tras caída del LZB",
+        "Sánchez respalda a Puente; querella de Vox; expediente JEC por vídeo del Guernica",
+        "Detenidos dos menores por los canales Blocus (Lleida y Valencia)",
+        "🔁 Israel resultado final: 53 / 48 / 19 escaños palestinos; Netanyahu habla de fraude sin pruebas",
+        "Venezuela: Delcy Rodríguez promete elecciones sin fecha",
+        "EE. UU.: investigación penal en California por supuestos votantes no ciudadanos",
+        "Dans: Tokenmaxxing",
+        "IPC octubre 4,9 % (subyacente 3,1 %) y BCE mantiene tipos en 2,5 %",
+        "PIB España 3T +0,6 %",
+        "FT: desplome tecnológico tras Amazon; Francia -0,1 % en 3T; carrera por suceder a Lagarde",
+        "Palabra del día: inflación subyacente",
+        "The Trader nº 179: años de salario para comprar vivienda; diferencial CCC; oro ~4.000 $"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-29 «Touchscreen MacBook Pro, Gemini 4 Carbon, Slack Code API»",
+        "fecha": "2026-10-29"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-29 «Gemini 4 Carbon, Nemotron Transcribe, benchmarker’s dilemma»",
+        "fecha": "2026-10-29"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial 2026-10-30 «Tesla + SpaceX: atrapado entre China y Estados Unidos»",
+        "fecha": "2026-10-30"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-10-30 «El AVE de Urda chocó a entre 160 y 200 kilómetros por hora»",
+        "fecha": "2026-10-30"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-10-30 «Israel's election dilemma»",
+        "fecha": "2026-10-30"
+      },
+      "the_trader": {
+        "email_id": "The Trader nº 179",
+        "fecha": "2026-10-29"
+      },
+      "nota": "Viernes. Disparado por API tras el correo de datos (09:00 UTC). radar.py: HN volvió a fallar por KeyError 'points' (segundo día seguido), relanzado con .get; GitHub y HF OK. Sueño de anoche sin sincronizar. Movido a Newsletters el briefing del 28/10."
     }
   ]
 }
