@@ -2435,6 +2435,52 @@
         "fecha": "2026-10-29"
       },
       "nota": "Viernes. Disparado por API tras el correo de datos (09:00 UTC). radar.py: HN volvió a fallar por KeyError 'points' (segundo día seguido), relanzado con .get; GitHub y HF OK. Sueño de anoche sin sincronizar. Movido a Newsletters el briefing del 28/10."
+    },
+    {
+      "fecha": "2026-11-01",
+      "enviado_utc": "2026-11-01T13:18:07Z",
+      "titulares": [
+        "Linux CVE-2026-98432: use-after-free TCP IPv4 (CVSS 9.8), Ubuntu y RHEL sin parche; PoC de Claude con root vía MPTCP",
+        "Intel cae ~28 % (peor día desde 1974): previsión 4T 15.000-16.000 M$, -12.000 M$ a la participación del Gobierno",
+        "Parameter Labs: robo de cuentas de ChatGPT con un enlace compartido (corregido 26/10, P1)",
+        "Northflank hackeada: abuso de claves de API de IA de clientes",
+        "🔁 DoorDash compra Instacart por 17.000 M$ (65 $/acción)",
+        "Reddit irá a «solo con sesión iniciada» (pruebas 4T fuera de EE. UU.)",
+        "OpenAI rebaja su ronda a 20.000 M$ con valoración de 1,25 billones (FT)",
+        "Policy token común en robots.txt: OpenAI, Google, Microsoft y Anthropic (IETF, Kevin Kelley)",
+        "Epoch AI: modelos abiertos convierten parches en exploits antes de que lleguen (GLM 5.3 / Firefox)",
+        "Google Suncatcher: primera respuesta de Gemma 4 en una TPU en órbita",
+        "Anthropic: Max 20x pasa a Ultra, sin límite de 5 horas para cuentas verificadas",
+        "OpenAI Model Spec con cinco valores",
+        "SenseNova-Loop-9B-Preview (transformer en bucle, Apache 2.0)",
+        "Radar: Memdoor team-solve, 5 Qwen3.8-27B 9,8/10 vs Fable 5 8,0 en LCB Hard",
+        "Radar: pingdotgg/t3code, panel de control de agentes (+3.100 estrellas en un día)",
+        "Radar: Pika H3 Flex, vídeo abierto 4K con 12 referencias",
+        "Radar: Raindrop, liderazgo en enjambres de agentes según el orden en el prompt",
+        "🔁 Urda: 56 de 69 víctimas identificadas; Puente comparece el martes",
+        "🔁 Blocus: Halloween sin incidentes, 2.264 identificados, detenido presunto coordinador",
+        "29N: sorteos de mesas (~550.000) y promedio RTVE PP 31,5 / PSOE 26,8 / Vox 19,1",
+        "Irán: Jamenei ordena respuesta «geográficamente ilimitada» tras minas en Ormuz; negociadores en Doha",
+        "Gaza: 8 muertos, 5 policías, en ataques israelíes (1/11)",
+        "Francia: 320.000 manifestantes por el coste de la vida, tercer fin de semana",
+        "Enrique Dans: Inaugurar es fácil. Mantener es gobernar",
+        "Al día: la banca cobra hasta 276 €/año al cliente poco vinculado",
+        "FT: Alemania incumple su objetivo de almacenamiento de gas; petroleras no invierten en refino; bonos en pausa ante las midterms",
+        "Palabra del día: la base reguladora de la jubilación"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-10-30 «DoorDash buys Instacart, Reddit requires login, making agents faster»",
+        "fecha": "2026-10-30"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-10-30 «Mistral Large 4 OSS, agent swarm behavior, Sam Altman interview»",
+        "fecha": "2026-10-30"
+      },
+      "dans": {
+        "email_id": "Enrique Dans 2026-11-01 «Inaugurar es fácil. Mantener es gobernar»",
+        "fecha": "2026-11-01"
+      },
+      "nota": "Domingo. Ejecutado a las 14:07 (Madrid); correo de datos de las 10:00. España y Resto del mundo construidas solo con búsqueda web (Firecrawl vía Composio; WebSearch estándar devolvía resultados antiguos). radar.py lanzado con h.get('points') de entrada (KeyError, tercer día). No hubo briefing el 31/10 pese a correo de datos. Europa Press - Finanzas con 0 titulares. Movido a Newsletters el briefing del 29/10."
     }
   ]
 }
