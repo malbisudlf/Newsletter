@@ -2481,6 +2481,38 @@
         "fecha": "2026-11-01"
       },
       "nota": "Domingo. Ejecutado a las 14:07 (Madrid); correo de datos de las 10:00. España y Resto del mundo construidas solo con búsqueda web (Firecrawl vía Composio; WebSearch estándar devolvía resultados antiguos). radar.py lanzado con h.get('points') de entrada (KeyError, tercer día). No hubo briefing el 31/10 pese a correo de datos. Europa Press - Finanzas con 0 titulares. Movido a Newsletters el briefing del 29/10."
+    },
+    {
+      "fecha": "2026-11-02",
+      "enviado_utc": "2026-11-02T09:55:00Z",
+      "titulares": [
+        "Trigger.dev hackeada: acceso a variables de entorno de un subconjunto de organizaciones (01/11)",
+        "🔁 FBI atribuye a Corea del Norte (TraderTraitor) el robo de 6.300 M$ a Binance; Binance repone el 90 %",
+        "Extensión Claude Code 2.1.313 manipulada en el marketplace de Cursor: puerta trasera SSH (hasta 5.000 usuarios)",
+        "Apple presenta resultados, primeros con John Ternus como CEO; foco en coste de memoria",
+        "Anthropic venderá hasta 3.500 M$ (552.900 M¥) de su OPV a inversores japoneses; acciones de voto múltiple",
+        "ADNOC firma con OpenAI y G42: primera petrolera con OpenAI Frontier (ADIPEC)",
+        "Suleyman (Microsoft AI): construir solo IA no consciente y sin derechos",
+        "Meituan LongCat-2.5: 1,6 billones de parámetros, ~48.000 M activos, agentes de código largos",
+        "Claude se niega a recrear juegos existentes; quejas de falsos positivos",
+        "Radar: LeCun y Balestriero, Platonic Representation Theorem con JEPAs (arXiv 2610.39302)",
+        "Radar: Calegari en el blog de Tao, «Mathematics has changed. Let's act like it» (700 papers de OpenAI)",
+        "Radar: claude-mem, memoria persistente para agentes (+1.526 estrellas/día)",
+        "Radar: Lightpanda, navegador sin interfaz en Zig para agentes",
+        "🔁 Urda: real decreto de ayudas y comparecencia de Puente el martes 03/11",
+        "Renfe: límite de 40 km/h si cae el LZB",
+        "Primeras encuestas tras Urda: PP cerca de 140 escaños, bloque de derecha 196-208",
+        "Bulgaria: Iotova gana la segunda vuelta (57,58 %)",
+        "🔁 Ormuz: la Guardia Revolucionaria dice que dos petroleros más explotaron por minas",
+        "Legislativas de EE. UU.: NYT/Siena da ventaja a los demócratas en el Senado",
+        "Commonwealth en Antigua: Burnham abre la puerta a una disculpa por la esclavitud, sin reparaciones",
+        "Dans: Nadella y el modelo como componente no fiable (assume breach)",
+        "Al día: euro digital, topes del monedero y comisiones",
+        "FT: se frena la venta de tecnológicas tras el peor mes del Nasdaq; gasolina en máximos con Trump; exportaciones químicas chinas",
+        "Palabra del día: coste de oportunidad"
+      ],
+      "tldr_ai": null,
+      "nota": "TLDR/TLDR AI del 30/10 ya usadas el 01/11; MultiVersial y Klosh sin edición de hoy a las 09:20"
     }
   ]
 }
