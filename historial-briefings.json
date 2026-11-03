@@ -2513,6 +2513,64 @@
       ],
       "tldr_ai": null,
       "nota": "TLDR/TLDR AI del 30/10 ya usadas el 01/11; MultiVersial y Klosh sin edición de hoy a las 09:20"
+    },
+    {
+      "fecha": "2026-11-03",
+      "enviado_utc": "2026-11-03T08:45:00Z",
+      "titulares": [
+        "Segunda oleada de ciberataques a frigoríficos de supermercados en 7 países (Delhaize, Sabcobel, modo descongelación)",
+        "🔁 Ubuntu/RHEL siguen sin parche para CVE-2026-98432 casi tres semanas después",
+        "Postgres 19 se retrasa por el aluvión de informes de bugs con IA (Robert Haas)",
+        "Cisco: tokens ilimitados para reescribir el 98 % del código heredado en 24 meses",
+        "Anthropic S-1 enmendado: 33.240 M$ en 9 meses, Q3 ~17.000 M$ (+47 % trimestral), pérdida Q3 23.290 M$",
+        "11 formas de esquivar el Auto-review de Codex (ERA/Apollo, LessWrong)",
+        "GPT-Rosalind-6 (pesos de GPT-6 Astra, acceso Research, High bio/chem)",
+        "Claude Mythos 5.5 aparece en la web de Anthropic sin anuncio",
+        "DeepSeek dsh-superagent (MIT, prototipo para DeepSeek Harness)",
+        "Radar: Weight-space programming (MIT CSAIL, Astra edita pesos de Qwen3.5-0.8B, MATH-500 7,9→48,1 %)",
+        "Radar: vercel-labs/agent-desktop + papers de computer-use agents (CoworkOS, CUA-Master, NorthCUA)",
+        "Radar: Agentic Backdoors via Pretraining Poisoning (arXiv 2610.37741)",
+        "Radar: Subvocal (YC F26), gafas de habla silenciosa",
+        "🔁 Urda: 69 víctimas identificadas; Puente comparece hoy 17:00 en la Diputación Permanente",
+        "Desalojo de la acampada de Sol (Acampada 26S)",
+        "EE. UU. ataca la isla iraní de Qeshm en vísperas de las midterms",
+        "Tropas europeas de paz en Ucrania podrán devolver el fuego (sin depender de Starlink)",
+        "🔁 Midterms: EE. UU. vota hoy",
+        "Dans: La inteligencia artificial necesita algo más que cheques",
+        "David Hurtado: publicidad en asistentes de IA (experimento 61,2 % patrocinados con persuasión)",
+        "Al día: luz +2.000 M€/año si cae el decreto de centros de datos; agente inmobiliario cobrando por enseñar piso",
+        "FT: RBA sube al 4,85 %; China congela salidas a bolsa; CDS de las tecnológicas y deuda de la IA",
+        "Palabra del día: la liquidez de una inversión"
+      ],
+      "tldr": {
+        "email_id": "TLDR 2026-11-02 «OpenAI funding issues, Cisco rewrites code, hiring junior devs»",
+        "fecha": "2026-11-02"
+      },
+      "tldr_ai": {
+        "email_id": "TLDR AI 2026-11-02 «DeepSeek super agent, GPT-6 Rosalind, Google orbital compute»",
+        "fecha": "2026-11-02"
+      },
+      "multiversial": {
+        "email_id": "MultiVersial 2026-11-03 «A veces no preguntamos para saber la respuesta»",
+        "fecha": "2026-11-03"
+      },
+      "klosh": {
+        "email_id": "Klosh 2026-11-03 «Identificadas las 69 víctimas mortales del accidente de Urda»",
+        "fecha": "2026-11-03"
+      },
+      "guardian": {
+        "email_id": "First Edition 2026-11-03 «Mahmood's migration shake-up»",
+        "fecha": "2026-11-03"
+      },
+      "dans": {
+        "email_id": "Enrique Dans 2026-11-03 «La inteligencia artificial necesita algo más que cheques»",
+        "fecha": "2026-11-03"
+      },
+      "hurtado": {
+        "email_id": "David Hurtado 2026-11-03 «Publicidad en asistentes de IA»",
+        "fecha": "2026-11-03"
+      },
+      "nota": "Martes. Disparado por API tras el correo de datos (08:25 UTC). radar.py OK (HN con h.get('points'), HF y GitHub OK). Dinero Claro del martes aún no había llegado. Pablo Gil 02/11 «Te lo cuento a ti primero»: promo SEMINARIOS, sin usar. The Trader nº179 ya usado. Búsqueda web vía Firecrawl (Composio)."
     }
   ]
 }
