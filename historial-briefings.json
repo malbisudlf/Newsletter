@@ -2571,6 +2571,63 @@
         "fecha": "2026-11-03"
       },
       "nota": "Martes. Disparado por API tras el correo de datos (08:25 UTC). radar.py OK (HN con h.get('points'), HF y GitHub OK). Dinero Claro del martes aún no había llegado. Pablo Gil 02/11 «Te lo cuento a ti primero»: promo SEMINARIOS, sin usar. The Trader nº179 ya usado. Búsqueda web vía Firecrawl (Composio)."
+    },
+    {
+      "fecha": "2026-11-04",
+      "enviado_utc": "2026-11-04T08:20:00Z",
+      "titulares": [
+        "Postman instala sin permiso plugins/CLI en Codex, Claude Code, Cursor y Copilot (issue #14370, 1.205 pts HN)",
+        "🔁 Apple Q4 FY26: 114.500 M$ (+12 %), iPhone +17 %, Mac +24 %, China por debajo de lo esperado",
+        "Marvell compra Lumentum en acciones (~115.000 M$ valor empresa; WSJ: 80.000 M$)",
+        "SpaceX negocia con EchoStar comprar Boost Mobile o usar su red",
+        "SUSE despide al 10 % (~190 de 1.900) citando IA y automatización",
+        "Anthropic: S-1 avisa de posible RSI; inversores empujan la OPV a 1,5-1,6 billones",
+        "🔁 Oracle coloca 20.000 M$ (10 acciones + 10 bonos 7-8,65 %) y Alphabet 6.000 M€ en bonos",
+        "Claude Message Threads en beta pública (-35 % TTFT en 500K-1M tokens)",
+        "GPT-6.2 Astra aparece en el uso de Codex (TestingCatalog, sin confirmar)",
+        "ChatGPT fusiona las pestañas Chat y Work",
+        "Radar: 🔁 crítica al weight-space programming (Honnibal 962 pts, Willison con Qwen 3.8 27B 589 pts)",
+        "Radar: concepto Code Mode / programmatic tool calling (Phil Schmid, Framer Harness 2)",
+        "Radar: JustVugg/colibri, motor de inferencia MoE GPU/RAM/NVMe",
+        "Radar: Stringman, robot de cables open source de 795 $ (546 pts HN)",
+        "Óscar Puente dimite como ministro de Transportes y deja la política",
+        "Doble firma en centros de control de Adif; huelga de Adif el 17N",
+        "Muere Jesús de Miguel (CD Tenerife) tras choque con el portero del Andorra",
+        "Cristina Fernández Cubas, Premio Cervantes 2026",
+        "Midterms: los demócratas ganan Senado (≥53) y Cámara",
+        "Trump anuncia el fin de los 4.000 M$ anuales de ayuda militar a Israel",
+        "Brasil (presidencia COP30) publica hoja de ruta voluntaria para salir de los fósiles",
+        "Dans: la seguridad de una IA no puede depender de que obedezca",
+        "Al día: expertos piden SMI +4,9 % en 2027 (1.281 €)",
+        "FT: gobernadores demócratas ganan prometiendo frenar centros de datos",
+        "FT: concentración del mercado (en qué está concentrado)",
+        "Palabra del día: política monetaria y política fiscal"
+      ],
+      "tldr_ai": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIxXCOkwAA",
+        "fecha": "2026-11-03"
+      },
+      "tldr": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIxXA8fwAA",
+        "fecha": "2026-11-03"
+      },
+      "multiversial": {
+        "asunto": "La tecnología (y la IA) tiene tres relojes; si se desincronizan, se hincha la burbuja",
+        "fecha": "2026-11-04"
+      },
+      "klosh": {
+        "asunto": "Óscar Puente dimite como ministro de Transportes y renuncia a las elecciones del 29N",
+        "fecha": "2026-11-04"
+      },
+      "guardian": {
+        "asunto": "Blue wave hits | First Edition",
+        "fecha": "2026-11-04"
+      },
+      "dans": {
+        "asunto": "La seguridad de una inteligencia artificial no puede depender de que tenga a bien obedecer",
+        "fecha": "2026-11-04"
+      },
+      "nota": "Miércoles. Disparado por API tras el correo de datos (08:01 UTC). radar.py con h.get('points') (oferta de empleo en HN). Sin The Trader nuevo (nº179 ya usado) ni Dinero Claro nuevo (correo de Pablo Gil del 03/11: promo del directo del 9/11). Búsqueda web vía Firecrawl (Composio)."
     }
   ]
 }
