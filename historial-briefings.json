@@ -2628,6 +2628,61 @@
         "fecha": "2026-11-04"
       },
       "nota": "Miércoles. Disparado por API tras el correo de datos (08:01 UTC). radar.py con h.get('points') (oferta de empleo en HN). Sin The Trader nuevo (nº179 ya usado) ni Dinero Claro nuevo (correo de Pablo Gil del 03/11: promo del directo del 9/11). Búsqueda web vía Firecrawl (Composio)."
+    },
+    {
+      "fecha": "2026-11-05",
+      "enviado_utc": "2026-11-05T09:10:00Z",
+      "titulares": [
+        "Proxies residenciales en la red de la Casa Blanca (Layer3: 236 salidas, 6 IPs, 28 servicios; Krebs/Infatica)",
+        "OpenAI: pipeline cyber con 948 exploits LPE de Linux por 1,2 M$ (2.308 candidatos, 1.724 reproducidos)",
+        "Siri AI abierta a desarrolladores (App Intents, betas 27.3, sin UE)",
+        "Google: IA apagada por defecto en cuentas escolares desde 2027, pero rechazarla implica perder Search",
+        "ChatGPT 1.200 M usuarios semanales, búsqueda ~20 % de Google, 250 M en voz",
+        "Revolut recorta ~90 % el coste de IA para programar autoalojando GLM en 56 B200",
+        "Meta coloca 15.000 M$ en bonos (primera emisión en euros) y Salesforce compra Cresta (2.700 M$ según The Information)",
+        "Kimi K3.1 Pro publica pesos (2,8T/104B activos, licencia propia)",
+        "OpenAI Images 2.6 (GIFs, Flare/Sunburst, 50 % más rápido)",
+        "Gemini Notebook API en vista previa (REST + MCP)",
+        "Radar: Git para agentes (OpenAI compra Pierre, Conductor se une a Meta, worktrunk)",
+        "Radar: Ripple-65B Preview (Ricursive, TerminalBench 2.1 80,52)",
+        "Radar: concepto inferencia demostrable (Anthropic, zkSNARK)",
+        "🔁 Cuerpo asume Transportes y sale el presidente de Adif (Marco de la Peña)",
+        "Cumbre Iberoamericana en Madrid sin Lula ni Sheinbaum; Zelenski por sorpresa",
+        "Estudio UB: 10,2 % de hombres admite violencia sexual contra menores",
+        "Huelga general en Francia (5/11)",
+        "Zaporiyia: 37 muertos en ataque ruso a escuela subterránea",
+        "🔁 Republicanos culpan a la guerra de Irán; Hegseth señalado",
+        "Al día: 🔁 SMI 2027 +5,3 % hasta 1.286 €",
+        "FT: petróleo bajo 100 $; tecnológicas asiáticas caen por freno a centros de datos; Francia pide más gravamen a la moda ultrarrápida (+ tasa UE 2 €)",
+        "Palabra del día: la tasación de una vivienda",
+        "Dinero Claro: El peligro de acostumbrarte a vivir cada vez más caro"
+      ],
+      "tldr": {
+        "asunto": "Siri AI dev preview, ChatGPT races Google, engineering is changing",
+        "fecha": "2026-11-04"
+      },
+      "tldr_ai": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIxjQZYQAA",
+        "asunto": "Siri AI developer, Gemini Notebook API, provable inference",
+        "fecha": "2026-11-04"
+      },
+      "multiversial": {
+        "asunto": "La mejor forma de convencer es no convencer",
+        "fecha": "2026-11-05"
+      },
+      "klosh": {
+        "asunto": "Carlos Cuerpo asume Transportes",
+        "fecha": "2026-11-05"
+      },
+      "guardian": {
+        "asunto": "Ask an economist anything | First Edition",
+        "fecha": "2026-11-05"
+      },
+      "dinero_claro": {
+        "asunto": "El peligro de acostumbrarte a vivir cada vez más caro",
+        "fecha": "2026-11-04"
+      },
+      "nota": "Jueves. Disparado por API tras el correo de datos (09:00 UTC). radar.py: GitHub Trending vacío (504 en sandbox), recuperado con WebFetch; HN y HF OK. openai.com leído vía Firecrawl. Sin Enrique Dans hoy. The Trader aún no había llegado. Pablo Gil 04/11 «Misma información, dos historias diferentes»: promo SEMINARIOS, descartado."
     }
   ]
 }
