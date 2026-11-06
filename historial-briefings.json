@@ -2683,6 +2683,55 @@
         "fecha": "2026-11-04"
       },
       "nota": "Jueves. Disparado por API tras el correo de datos (09:00 UTC). radar.py: GitHub Trending vacío (504 en sandbox), recuperado con WebFetch; HN y HF OK. openai.com leído vía Firecrawl. Sin Enrique Dans hoy. The Trader aún no había llegado. Pablo Gil 04/11 «Misma información, dos historias diferentes»: promo SEMINARIOS, descartado."
+    },
+    {
+      "fecha": "2026-11-06",
+      "enviado_utc": "2026-11-06T05:35Z",
+      "titulares": [
+        "sshole: musl crypt() devuelve '*' con contraseñas >256 bytes y casa con el '*' de root en Alpine (sshd sin PAM; 2.471 pts HN)",
+        "Paint RCE CVE-2026-83844 (CVSS 8,1): el parche 11.2609.401.0 no llega por la Store",
+        "Claude Code mete el email en el User-Agent (issue #107757, 762 pts HN)",
+        "SpaceX elige a Qualcomm para red 5G Starlink Mobile en 2027; objetivo de 13 GW de centros de datos (SemiAnalysis)",
+        "Anthropic paga por primera vez a un medio: AP (resultados electorales)",
+        "Apple recorta presupuestos internos de IA (300→200 $/día, hasta 100 y 25 $); SaaStr: el top 1 % de gastadores en IA se estanca en el 3T",
+        "Village LLM Atlas: modelos abiertos, mejor compra en solo el 3 % de presupuestos (41 % en junio)",
+        "Inkling 2 Small (Thinking Machines, 594B/17B, pesos cerrados, AA 31)",
+        "Cognition SWE-2 Flash sobre Inkling-Small (TB 4.0 20 %)",
+        "Tencent Hy4 (visión + computer use, pesos pendientes)",
+        "ERNIE 5.5 Flash Base (280B/14B, 33,5T tokens, checkpoint base)",
+        "Radar: Axiom formaliza el Stacks Project en Lean (~16 M líneas)",
+        "Radar: Pangram Image 1.0 (detector de imagen/vídeo IA con mapa de calor)",
+        "Radar: NVIDIA/auto-ontology (+2.679 estrellas/día)",
+        "Radar: concepto skills de agentes como formato compartido (mattpocock/skills, google/skills, scenario-labs/skills)",
+        "Caso Koldo: nueva pieza secreta, UCO detiene a 6 (Corvillo, Andrea de la Torre); Sánchez niega vínculos",
+        "Gobierno formaliza la candidatura de Hernández de Cos al BCE (Eurogrupo 9/11)",
+        "Canarias: 901 migrantes en ~24 h",
+        "🔁 Ormuz: cinco petroleros y un remolcador en llamas por minas",
+        "Segunda oleada de falsas amenazas de bomba en ~30 vuelos europeos",
+        "Dimite Santiago Peña (Paraguay) tras el colapso del banco Ueno",
+        "Al día: deducción IRPF para el SMI hasta 1.030 €; BdE: déficit de 750.000 viviendas = 11 % del PIB",
+        "FT: 🔁 Wall Street pierde 3,2 billones $ (Nasdaq 100 −6,4 %), Nikkei <60.000; la apuesta por la IA necesita más dinero; Blackstone BXPE duplica el lock-up",
+        "Palabra del día: TIR (tasa interna de retorno)",
+        "The Trader nº180: euforia post-midterms, economía en K, 86,5 % de subestaciones sin capacidad"
+      ],
+      "tldr": {
+        "asunto": "ChatGPT GIFs, Apple cuts AI budget, rebuilding X.com",
+        "fecha": "2026-11-05"
+      },
+      "tldr_ai": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIxjWBpQAA",
+        "asunto": "GPT-Image-2.6, Meta buys Conductor, Cognition SWE-2 Flash",
+        "fecha": "2026-11-05"
+      },
+      "multiversial": {
+        "asunto": "La victoria demócrata amenaza frenar la IA… y las grandes tecnológicas lo celebran",
+        "fecha": "2026-11-06"
+      },
+      "the_trader": {
+        "asunto": "Newsletter The trader nº 180",
+        "fecha": "2026-11-05"
+      },
+      "nota": "Viernes. Disparado por API tras el correo de datos (05:11 UTC), antes de que llegaran Klosh, Guardian y Dans: España y Resto del mundo solo con búsqueda web (Firecrawl vía Composio). radar.py: HN KeyError 'points' otra vez, relanzado con h.get; HF y GitHub OK. Pablo Gil 05/11 «Qué hacer cuando no sabes qué hacer»: promo del directo del 9/11 + SEMINARIOS, descartado. Varios ítems de TLDR AI 05/11 ya usados el 05/11 (Images 2.6, Ripple, 948 Linux, Pierre/Conductor, Kimi K3.1): omitidos."
     }
   ]
 }
