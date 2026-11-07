@@ -2732,6 +2732,41 @@
         "fecha": "2026-11-05"
       },
       "nota": "Viernes. Disparado por API tras el correo de datos (05:11 UTC), antes de que llegaran Klosh, Guardian y Dans: España y Resto del mundo solo con búsqueda web (Firecrawl vía Composio). radar.py: HN KeyError 'points' otra vez, relanzado con h.get; HF y GitHub OK. Pablo Gil 05/11 «Qué hacer cuando no sabes qué hacer»: promo del directo del 9/11 + SEMINARIOS, descartado. Varios ítems de TLDR AI 05/11 ya usados el 05/11 (Images 2.6, Ripple, 948 Linux, Pierre/Conductor, Kimi K3.1): omitidos."
+    },
+    {
+      "fecha": "2026-11-07",
+      "enviado_utc": "2026-11-07T08:30:00Z",
+      "titulares": [
+        "Tesla dejará de fabricar el Cybertruck a mediados de 2027",
+        "Escape de microVM Firecracker con ejecución como root en el host (PwnEscape parte 2)",
+        "GitHub rehace su almacenamiento Git: 5.000 agentes concurrentes, 7.200 pushes/s",
+        "Seguimiento: FT dice que la inteligencia de EE. UU. cree que Jensen Huang tuvo relación sentimental con presunta espía china",
+        "Blue Origin: motor Northstar a 1/4 del coste del BE-4",
+        "Seguimiento: METR concluye que Anthropic investiga en IA al doble de velocidad",
+        "Seguimiento: inversores escépticos con la valoración de 1,5 billones de la OPV de Anthropic; Google compra el terreno de Crusoe en Wyoming",
+        "Gemini Omni 1.2 Flash: vídeo de 15 s y un 30 % más barato",
+        "Claude estrena Personal Finance (beta EE. UU.)",
+        "Corrección: Inkling 2 Small tendrá pesos Apache 2.0 la semana próxima",
+        "Radar: libghostty 1.0",
+        "Radar: concepto 'dreaming' en memoria de agentes (Anthropic, EvoMemState)",
+        "Radar: cascada Jev + Opus de Hightouch (precisión de Opus a 1/4 del coste)",
+        "Radar: devvm.dev, una VM por proyecto para agentes",
+        "Seguimiento: Semaf mantiene la huelga de Renfe del 10 y 12 de noviembre",
+        "Borrasca Bruna desde el sábado 7",
+        "Precampaña 29N: debates sin cerrar",
+        "Trump nombra a Stephen Miller jefe de gabinete",
+        "Elecciones en Nueva Zelanda: recuento inicial favorece a Luxon",
+        "Seguimiento: inteligencia europea investiga origen ruso de las falsas amenazas de bomba",
+        "Al día: la población activa española envejece más rápido que la europea",
+        "Al día: CCAA prevén rebajas fiscales de 2.300 M€ hasta 2031",
+        "FT: cómo saltó por los aires la apuesta de Wall Street por la IA",
+        "FT: ¿Por qué EE. UU. odia la IA?",
+        "FT: Rusia exporta arrabio por el Ártico",
+        "Palabra del día: la EPA y el paro registrado"
+      ],
+      "tldr_ai_email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIx3uhFAAA",
+      "tldr_ai_fecha": "2026-11-06",
+      "tldr_fecha": "2026-11-06"
     }
   ]
 }
