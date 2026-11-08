@@ -2767,6 +2767,37 @@
       "tldr_ai_email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIx3uhFAAA",
       "tldr_ai_fecha": "2026-11-06",
       "tldr_fecha": "2026-11-06"
+    },
+    {
+      "fecha": "2026-11-08",
+      "enviado_utc": "2026-11-08T09:40:00Z",
+      "titulares": [
+        "Chainalysis: atacantes con credenciales y tokens en vigor de todos sus clientes",
+        "EE. UU. aprobó vender H200 de Nvidia a New Matrix, una oficina vacía en China (NYT)",
+        "Crusoe vende a Google su proyecto de Wyoming; Google invertirá 17.000 M$ (repetido del 07/11 por error)",
+        "Datos personales de Tajani publicados en la dark web; Meloni culpa a hackers prorrusos",
+        "OpenAI levanta 11.000 M$ a 1,25 billones; la ronda apunta a ~20.000 M$ frente a los 30.000 buscados",
+        "Microsoft disuelve AI Frontiers (MSR) dentro de Microsoft AI (post de John Langford)",
+        "'AI clog': organismos públicos británicos saturados de quejas generadas con IA",
+        "Nous Research publica Arete-27B (Qwen3.8-27B con SFT antipropaganda, Apache 2.0)",
+        "Meta lanza Spaces para su agente Muse",
+        "Radar: 'Don't Ask Again' de Claude Code y 1.122 ficheros con secretos en GitHub (Apiiro)",
+        "Radar: cloudflare/security-audit-skill; ola de repos de skills en Trending",
+        "Radar: concepto 'benchmaxxing' (MaxxBench sobre DeepSWE)",
+        "Radar: grafo de conocimiento personal de Apple en macOS (knowledgeconstructiond)",
+        "Huelga general del 11N por vivienda y salarios",
+        "Seguimiento: la Fiscalía Europea investiga Adif y AESF tras Urda",
+        "Último fin de semana de precampaña; Feijóo: coalición con Vox 'no depende de mí'",
+        "Seguimiento: Bruna, Gran Canaria suspende toda actividad",
+        "Atentado en la plaza mayor de Cracovia: seis muertos y 16 heridos",
+        "Herzog encarga a Gadi Eisenkot formar Gobierno en Israel",
+        "Yemen: los hutíes denuncian 33 muertos en un bombardeo saudí",
+        "Seguimiento: elecciones de Nueva Zelanda demasiado igualadas",
+        "Al día: vivienda, salarios +30 % frente a alquiler +87 % (2015-2025)",
+        "FT: Apple se ahorra 2.700 M$ con Singapur; cripto ante investigaciones demócratas; dependencia tecnológica europea",
+        "Término: descubierto en cuenta"
+      ],
+      "tldr_ai": null
     }
   ]
 }
