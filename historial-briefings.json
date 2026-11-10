@@ -2828,6 +2828,45 @@
         "Término: retención a cuenta en la nómina"
       ],
       "tldr_ai": null
+    },
+    {
+      "fecha": "2026-11-10",
+      "enviado_utc": "2026-11-10T07:40:00Z",
+      "titulares": [
+        "Seguimiento Nvidia: Trump confirma que el FBI investiga a Jensen Huang y le respalda",
+        "Gemini manda a revisores humanos fragmentos de Drive y Gmail",
+        "Google presenta TPU 8tx (inferencia confidencial) y TPU 8i Max",
+        "Fox cierra la compra de Roku por 22.000 M$",
+        "John Ternus presiona a Federighi para convertir Siri en agente",
+        "PSI demuestra con IA la conjetura de Aaronson-Ambainis (verificada en Lean)",
+        "Seguimiento: Anthropic, cerca del umbral de progreso acelerado por IA (S-1, Ajeya Cotra/METR)",
+        "EE. UU.: servicios profesionales +70.000 empleos en octubre",
+        "Anthropic lanza Claude Fable 5.2 y Mythos 5.2",
+        "Meta presenta Muse Ember",
+        "Muse estrena voz en tiempo real y avatares",
+        "Radar: e-means de Meta FAIR (k-means 10x más rápido, en Faiss)",
+        "Radar: Seguimiento modelos de decisión - Amazon sustituye Sonnet 4.6 por Strands Decider",
+        "Radar: Ace de GitHub Next",
+        "Radar: Exact de Expo (UI multiplataforma para agentes)",
+        "Seguimiento: huelga de maquinistas de Renfe hoy y huelga general el 11-N",
+        "El Supremo deja votar a los hijos de nacionalizados por la ley de nietos",
+        "El Gobierno plantea suspender TikTok por abuso sexual infantil (Maldita.es)",
+        "Seguimiento: la Academia de Televisión organizará los debates",
+        "Emisiones fósiles se estancan en 2026 (-0,4 %), Global Carbon Budget en la COP31",
+        "Seguimiento: arrancan las conversaciones de Abu Dabi; EE. UU. propone arquitectura de seguridad Rusia-Europa",
+        "Francia apunta a Irán por el sabotaje de 700 supermercados; rescate por el túnel del Brennero",
+        "Enrique Dans: dejar de tratar a los agentes como empleados digitales",
+        "Huelga general 11-N: derechos y descuento en nómina",
+        "España sube la presión fiscal al 38,1 % del PIB",
+        "FT: superávit comercial de China supera el billón de dólares",
+        "FT: los inversores huyen a valores defensivos por miedo al fin del rally de la IA",
+        "FT: Ana Botín será la última de su familia al frente del Santander",
+        "Palabra del día: el fondo de emergencia"
+      ],
+      "tldr_ai": {
+        "asunto": "AI R&D accelerates, OpenAI at $1.25T, GitHub's multiplayer harness",
+        "fecha": "2026-11-09T15:20:57Z"
+      }
     }
   ]
 }
