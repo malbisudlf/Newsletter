@@ -2867,6 +2867,45 @@
         "asunto": "AI R&D accelerates, OpenAI at $1.25T, GitHub's multiplayer harness",
         "fecha": "2026-11-09T15:20:57Z"
       }
+    },
+    {
+      "fecha": "2026-11-11",
+      "enviado_utc": "2026-11-11T08:58:00Z",
+      "titulares": [
+        "Seguimiento Nvidia: primera demanda colectiva (Rosen Law Firm) por ocultar el caso Alice Huang/Megaspeed",
+        "SpaceX planea 24.000 M$ en Starbase: supercomputador con central de gas propia (~750 MW)",
+        "Instagram extiende a todo el mundo su IA de estimación de edad",
+        "Bruselas presenta la Digital Fairness Act: desactivar diseño adictivo y chatbots-relación",
+        "Fireworks AI: el incidente de octubre fue LLMjacking",
+        "Anthropic compra 1,7 GW de turbinas de gas Caterpillar por 3.400 M$",
+        "Seguimiento: los bancos de Anthropic quieren subir la valoración de la OPV a 1,5 billones",
+        "Trump en 60 Minutes: aceptaría límites a la IA y dice que amenazó con cárcel a un directivo",
+        "Anthropic lanza Claude Whiteboards, Claude Sheets (beta) y Claude Data",
+        "DeepMind AlphaProof Code verifica formalmente libsignal",
+        "NVIDIA GR00T 2, modelos mundo-acción para robots",
+        "Radar: VulnCheck - Glasswing, 37.966 hallazgos y 217 arreglos",
+        "Radar: Apple Harbor, Macs como servidor de IA local (filtración)",
+        "Radar: Modern Web Guidance (Chrome/Edge/Firefox/MDN) y Storybook 11 beta, skills para agentes",
+        "Radar: ha-mcp, Home Assistant con Claude/ChatGPT",
+        "Seguimiento: arranca la huelga general del 11-N; Semaf aplaza la huelga del 12 al 23",
+        "Canarias: casi 7.500 llegadas en diez días y plan de refuerzo del Estado",
+        "Núcleo Nacional: neonazis se entrenaron en Ucrania para un alzamiento armado",
+        "Oviedo: muere un policía por una bomba tras un tiroteo",
+        "Borrascas Charles y Bruna: aviso rojo en Cáceres, Ávila y La Palma",
+        "Seguimiento: Abu Dabi termina sin acuerdo; EE. UU. quiere incluir a Europa",
+        "Detenido en Inglaterra un soldado de EE. UU. de la OTAN por presunto espionaje para Rusia",
+        "Los republicanos frenan el impeachment de Hegseth",
+        "Enrique Dans: Trump contra la eólica",
+        "Sueldos de convenio +3 % frente a inflación del 4,9 %",
+        "FT: Singapur, bisagra del comercio de chips de IA con China",
+        "FT: Europa compite peor con China (dumping)",
+        "FT: los operadores del petróleo apuestan por la paz",
+        "Palabra del día: domiciliación y devolución de un recibo"
+      ],
+      "tldr_ai": {
+        "fecha": "2026-11-10",
+        "asunto": "Claude Fable 5.2 ✨, Meta Ember 🤖, Google’s new TPUs ⚡"
+      }
     }
   ]
 }
