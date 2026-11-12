@@ -2906,6 +2906,42 @@
         "fecha": "2026-11-10",
         "asunto": "Claude Fable 5.2 ✨, Meta Ember 🤖, Google’s new TPUs ⚡"
       }
+    },
+    {
+      "fecha": "2026-11-12",
+      "enviado_utc": "2026-11-12T07:10:00Z",
+      "tldr_ai": {
+        "fecha": "2026-11-11",
+        "asunto": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIyjfCIQAA"
+      },
+      "tldr_fecha": "2026-11-11",
+      "dinero_claro": "Comprar a plazos: cuando el futuro paga tus caprichos de hoy (2026-11-11)",
+      "titulares": [
+        "Seguimiento Nvidia: WSJ, el consejo prepara la salida de Jensen Huang; investigación de Joon H. Kim; 50.000 chips Megaspeed omitidos (Bloomberg)",
+        "Apache HTTP Server CVE-2026-119618 (RCE en mod_http2, 2.4.55-2.4.70)",
+        "Ring Drone Cam y Rover Cam",
+        "Más de 35.000 apps de Grok Build públicas por enlace",
+        "OpenAI Q3: ~10.000 M$ y margen -109%; Goldman proyecta 600.000 M$ para Anthropic en 2030",
+        "Seguimiento: Anthropic fija rango de OPV 70-78 $, 825 M acciones, ANT",
+        "United Airlines prohíbe a agentes de IA reservar vuelos; OpenAI compra Odessia",
+        "Gemini 4 Carbon y /swarm en Antigravity",
+        "Gemini Decisions API",
+        "MAI-Transcribe-2",
+        "Radar: MACaQ de Huawei (cuantizador abierto)",
+        "Radar: aws/aws-emulator",
+        "Radar: Yogurt (FrigadeHQ), notas de reunión locales",
+        "Radar: shadcn/improve, el modelo caro planifica y el barato ejecuta",
+        "Seguimiento: balance de la huelga general del 11-N",
+        "Seguimiento TikTok: Fiscalía investiga, AEPD bloqueará contenidos",
+        "Falsas amenazas de bomba en colegios europeos (6.300 en Italia)",
+        "PNUMA: el mundo va hacia +2,6 °C (COP31)",
+        "Enrique Dans: de conectar personas a enfrentar sociedades",
+        "Al día: prórroga de alquileres, Consumo estima 4.341 € por hogar; votación en la Diputación Permanente",
+        "FT: Francia apoya a Hernández de Cos para el BCE; UE y RU aplazan arancel del 10 % a eléctricos; diésel ruso se duplica",
+        "Palabra del día: ganancia y pérdida patrimonial",
+        "Finanzas personales: comprar a plazos (Dinero Claro)"
+      ]
     }
   ]
 }
