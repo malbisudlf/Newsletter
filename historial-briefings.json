@@ -2976,6 +2976,36 @@
         "Palabra del día: aportar cada mes pase lo que pase (DCA)",
         "Mercados (The Trader 181): desapalancamiento del 5/11; IPC EE. UU. octubre; fin del GNL ruso y TTF"
       ]
+    },
+    {
+      "fecha": "2026-11-15",
+      "enviado_utc": "2026-11-15T09:20:00Z",
+      "titulares": [
+        "Project Zero adopta Full X: divulgación a 90 días, 60 en 2027 y 30 en 2028 por la IA",
+        "Sigue adelante la demanda por cártel de DRAM contra Samsung, SK Hynix y Micron",
+        "Starship vuelo 15: primera captura de la nave con la torre; el Super Heavy explota",
+        "Apps de Lovable exponen pasaportes y más de 200.000 mensajes (Crissy Field, 24.664 proyectos)",
+        "Cuatro ONG demandan a cinco laboratorios para congelar la IA de frontera",
+        "Seguimiento Nvidia: AMD +13 % en la semana, Ives recorta a 225 $ y prevé 10-20 % de centros sin construir",
+        "OpenAI lanza ChatGPT Wallet (pagos de agentes con tokens Amex/Mastercard/Visa)",
+        "Google /teamwork en Antigravity (multiagente con verificación cruzada)",
+        "Radar: Edge0-145B-NVFP4 en una RTX 5090",
+        "Radar: Plannotator y Tencent LoopForge (humano en el circuito de agentes)",
+        "Radar: chrome-devtools-mcp y Turbo-Browser-MCP",
+        "Radar: Kiri, runtime de contenedores en Rust",
+        "Seguimiento 29N: Sánchez presenta el programa del PSOE en Alcorcón",
+        "Seguimiento Canarias: más de 80 cayucos en La Restinga en noviembre",
+        "La vivienda pública, el 3,5 % del parque",
+        "Ataque iraní con drones contra un radar de EE. UU. en Bahréin; CENTCOM desmiente el del 13/11",
+        "APEC Shenzhen 18-19/11: posible reunión Trump-Xi-Putin",
+        "Enrique Dans: la nube era el ordenador de otro y se ha colgado",
+        "David Hurtado: el software para personas no debería ser determinista",
+        "Al día: víctimas de fraude bancario sin reembolso; el núcleo del coste de la vida",
+        "FT: constructoras de centros de datos pierden 4,2 billones; la EBA se aleja del EDIS; mercado laboral congelado",
+        "Palabra del día: devengos y deducciones de una nómina"
+      ],
+      "tldr_ai": null,
+      "nota": "Domingo: secciones 1, 2, España y Mundo solo con búsqueda web; TLDR/TLDR AI ya usadas el 14/11. No hubo briefing el 13/11."
     }
   ]
 }
