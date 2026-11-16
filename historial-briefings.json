@@ -3006,6 +3006,37 @@
       ],
       "tldr_ai": null,
       "nota": "Domingo: secciones 1, 2, España y Mundo solo con búsqueda web; TLDR/TLDR AI ya usadas el 14/11. No hubo briefing el 13/11."
+    },
+    {
+      "fecha": "2026-11-16",
+      "enviado_utc": "2026-11-16T09:35:00Z",
+      "tldr_ai": null,
+      "nota": "TLDR más reciente 12/11 (ya usada, >3 días); TLDR AI 13/11 ya usada. IA General y Lanzamientos solo web.",
+      "titulares": [
+        "Seguimiento Nvidia: Huang negocia su vuelta (FT); Congreso quiere endurecer exportación de chips",
+        "Secuestro de enlaces antiguos de Bitly (Burger King, Gates, FBI, Trump)",
+        "uBlock Origin: XSS universal encontrado con GPT-5.6 Sol",
+        "Seguimiento Microsoft 365: 15 heridos por cloro en Phantasialand",
+        "Tor 0.4.9.17, parche de urgencia contra DDoS",
+        "Seguimiento Anthropic: OPV ~6 veces sobresuscrita",
+        "Sierra Poppy 1.0 (Personal Agent Protocol), Shopify y Muse",
+        "Qwen4-Max (propietario, 43 en Artificial Analysis)",
+        "Apple Health AI Usage Study con OpenEvidence",
+        "Radar: NVIDIA SkillEvaluator y google-labs-code/stitch-skills",
+        "Radar: dream-num/univer",
+        "Radar: Haru-4B (voz full-duplex)",
+        "Radar: ag-ui-protocol/ag-ui",
+        "Seguimiento Canarias: récord de 1.580 llegadas en un día",
+        "Campaña 29N: agresión al candidato del PP en Hernani; Lula en Moncloa",
+        "Yolanda Díaz retira su candidatura a la OIT",
+        "Estonia cierra su frontera con Rusia el 1/12",
+        "Ébola en RDC supera 5.400 muertes",
+        "COP31: última semana, electrificación 35 % en 2035",
+        "Cumbre UE-Reino Unido del viernes",
+        "Enrique Dans: el momento PageRank de la IA empresarial",
+        "FT: préstamo UE de 45.000 M€ a Ucrania; SRT de bancos europeos; el mundo largo en EE. UU.",
+        "Palabra del día: IPC"
+      ]
     }
   ]
 }
