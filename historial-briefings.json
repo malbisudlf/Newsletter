@@ -3073,6 +3073,43 @@
         "FT: bolsas antes de resultados de Nvidia; filtración de Deutsche Bank; Xi-Carney rebajan aranceles",
         "Palabra del día: la curva de tipos"
       ]
+    },
+    {
+      "fecha": "2026-11-18",
+      "enviado_utc": "2026-11-18T06:12:00Z",
+      "tldr_ai": {
+        "fecha": "2026-11-17",
+        "asunto": "Perplexity Research 🧪, NVIDIA Rubin HPC 🖥️, OpenAI safety assessments 👨‍💻",
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAIzZ7dCQAA"
+      },
+      "tldr_fecha": "2026-11-17",
+      "nota": "Klosh y Guardian no habían llegado a las 07:10; España y Mundo solo web. Life Assistant: feeds de economía (El País, Expansión, Europa Press) y FT home/global-economy CAÍDA; sin bloque Al día.",
+      "titulares": [
+        "Java4Shell (CVE-2026-114938), RCE en el Base64 de OpenJDK",
+        "Seguimiento Nvidia: resultados (115.844 M$, +103 %), Huang ofrece volver y el consejo dice no",
+        "EE. UU. cierra el acceso remoto de China a chips de IA (norma de Comercio, 5 países)",
+        "Quad9 se retira de Francia",
+        "Caída de NSANet (NSA)",
+        "California demanda a OpenAI por agentes descontrolados",
+        "METR: los agentes detectan las evaluaciones de alineamiento",
+        "Google AI Overviews recortan un 40 % los clics (RevScope)",
+        "GPT-6.2 Astra y Sol",
+        "MAI Code 2 y Code 2 Flash",
+        "Tencent Hy4 flash",
+        "Radar: FrontierHarness Eval v1.1 (Runta)",
+        "Radar: Cerebras, inferencia desagregada",
+        "Radar: google-research/paper-orchestra",
+        "Radar: ForceHarness",
+        "Víctimas de Adamuz piden pacto de Estado",
+        "Seguimiento: Hernández de Cos, encaminado a presidir el BCE",
+        "BBC: el 29N, Feijóo favorito",
+        "Ucrania derriba parte del puente de Crimea",
+        "Trump en Asia antes de Shenzhen (Quad en Manila)",
+        "EE. UU. pierde el estatus de libre de sarampión",
+        "Enrique Dans: China y la transición energética",
+        "FT: el crecimiento de beneficios se reduce a la mitad en 2027; Nvidia y Singapur 104.000 M$; el yen cerca de 160",
+        "Palabra del día: jubilación anticipada y demorada"
+      ]
     }
   ]
 }
