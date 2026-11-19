@@ -3110,6 +3110,45 @@
         "FT: el crecimiento de beneficios se reduce a la mitad en 2027; Nvidia y Singapur 104.000 M$; el yen cerca de 160",
         "Palabra del día: jubilación anticipada y demorada"
       ]
+    },
+    {
+      "fecha": "2026-11-19",
+      "enviado_utc": "2026-11-19T07:20:00Z",
+      "titulares": [
+        "Dos RCE críticas sin autenticación en NGINX (CVE-2026-123633 y CVE-2026-123007)",
+        "Seguimiento ola de caídas: Apple cae y el DNI descarta ciberataque",
+        "California prohíbe a Waymo las autopistas; Waymo las suspende en todo EE. UU.",
+        "Google firma >500 M$ en geotermia profunda con Quaise (50 MW, Oregón)",
+        "Word, Excel y PowerPoint, disponibles dentro de Copilot (Ignite)",
+        "Anthropic capta ~81.000 M$ en la mayor OPV de la historia y avisa del umbral de automejora recursiva",
+        "Seguimiento Nvidia: abandona China (H200), comité de seguridad nacional, SEC y comparecencia de Huang el 1/12",
+        "KPMG: 100 agentes de IA preguntan mejor que auditores humanos (Project Exponential)",
+        "Palo Alto Networks compra Applied Compute por 4.500 M$",
+        "Google lanza Gemini 4 Neon",
+        "Genie 4 disponible para Google AI Ultra",
+        "Replit Missions: enjambres de agentes con presupuesto",
+        "La app de Gemini llama, reserva y paga facturas",
+        "Radar: Horizon, agente con Opus 5.5 que publica 38 modelos en Hugging Face",
+        "Radar: DaisyRose-27B (RadixArk) duplica Terminal-Bench 4.1",
+        "Radar: last30days-skill (1.059 estrellas en un día)",
+        "Radar: Seguimiento NVIDIA SkillEvaluator",
+        "Congreso convalida el título de familia monoparental (824 M€) y 7.240 M€ para dependencia",
+        "Caso Leire: PSOE entrega documentación de abogados, pieza secreta; Tribunal de Cuentas investiga a David Sánchez",
+        "Nacimientos suben un 1,2% en 2025, saldo vegetativo negativo por noveno año",
+        "Cara a cara Sánchez-Feijóo hoy a las 22:00",
+        "Seguimiento APEC: primera trilateral Trump-Xi-Putin en Shenzhen",
+        "Irán ataca Kuwait y Baréin tras bombardeo de EE. UU. en Qeshm; petrolero de ADNOC alcanzado en Ormuz",
+        "Dans: 'Nuestra inteligencia artificial es peligrosísima: compra nuestras acciones'",
+        "Al día: Amazon, Temu y AliExpress +11% por el arancel europeo; vivienda, punto débil del crecimiento",
+        "FT: AIE, mercado sin Ormuz; el oro pierde brillo; robots por falta de mano de obra en EE. UU.",
+        "Palabra del día: hipoteca a tipo fijo, variable y mixta",
+        "Dinero Claro: cuánto cuesta realmente tener un coche"
+      ],
+      "tldr_ai_email_id": null,
+      "tldr_ai_email_fecha": "2026-11-18",
+      "tldr_email_fecha": "2026-11-18",
+      "dinero_claro_fecha": "2026-11-18",
+      "_nota": "Correo de datos de Life Assistant encontrado en Correo no deseado. Guardian no había llegado al redactar."
     }
   ]
 }
