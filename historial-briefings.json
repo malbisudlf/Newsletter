@@ -3149,6 +3149,47 @@
       "tldr_email_fecha": "2026-11-18",
       "dinero_claro_fecha": "2026-11-18",
       "_nota": "Correo de datos de Life Assistant encontrado en Correo no deseado. Guardian no había llegado al redactar."
+    },
+    {
+      "fecha": "2026-11-20",
+      "enviado_utc": "2026-11-20T09:25:00Z",
+      "titulares": [
+        "OpenSSL: desbordamiento crítico en EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "Synology: fallo 9.8 en la API OAuth de DSM/BeeStation (CVE-2026-120382)",
+        "Reino Unido, obligado a reconocer la orden secreta de cifrado contra Apple",
+        "Seguimiento ola de caídas: la Casa Blanca releva a su jefe de ciberseguridad (Kirsten Davies)",
+        "Meta congela las acciones clase C sin voto; Proyecto Gryffindor de Instagram",
+        "Tesla prepara un Model Y sin volante para 6-7 pasajeros",
+        "Seguimiento Anthropic: +17 % en su debut (97,17 $), tecnológicas a la baja; cómputo x4 al año (Epoch)",
+        "EE. UU. estudia obligar a declarar el uso de IA china; China y la destilación como estrategia industrial",
+        "Claude resuelve dos problemas abiertos de física de agujeros negros",
+        "OpenAI diseña chips con sus modelos (Jalapeño -10/13 %, AMD -14 %)",
+        "Gemini 4 Carbon, lento en benchmark privado de Kernel",
+        "Radar: Apple FastFrames (vídeo a latencia interactiva)",
+        "Radar: concepto software agent-native (CLI-Anything, cursor/plugins, superpowers)",
+        "Radar: PostgreSQL 19 con REPACK CONCURRENTLY",
+        "Radar: Perplexity Context API",
+        "Debate Sánchez-Feijóo: 10,15 M de espectadores",
+        "Puigdemont en El Mundo: 'nos decían a todo que sí'",
+        "Desconvocada la huelga de maquinistas del 23/11",
+        "ANPE: denuncias de profesores +20 %",
+        "CIJ: Birmania responsable de genocidio contra los rohinyás",
+        "Seguimiento Shenzhen: declaración de paz Trump-Xi-Putin sin Ucrania ni Irán",
+        "Dans: Digital Fairness Act, 'Manipularte seguirá siendo legal'",
+        "Al día: ventajas fiscales del alquiler para rentas altas",
+        "FT: tecnológicas caen pese a Anthropic; reset UK-UE; COP31 sin fósiles",
+        "Palabra del día: riesgo divisa",
+        "Mercados (The Trader 182): Nvidia cae pese a resultados; deuda de la IA y CoreWeave; ETF con exposición a Anthropic"
+      ],
+      "tldr_ai": {
+        "fecha": "2026-11-19",
+        "asunto": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI0AxVUAAA"
+      },
+      "tldr_fecha": "2026-11-19",
+      "the_trader_fecha": "2026-11-19",
+      "the_trader_num": 182,
+      "nota": "Correo de Life Assistant llegó a las 10:00 (Madrid); briefing lanzado por API."
     }
   ]
 }
