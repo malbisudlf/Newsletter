@@ -3190,6 +3190,44 @@
       "the_trader_fecha": "2026-11-19",
       "the_trader_num": 182,
       "nota": "Correo de Life Assistant llegó a las 10:00 (Madrid); briefing lanzado por API."
+    },
+    {
+      "fecha": "2026-11-21",
+      "enviado_utc": "2026-11-21T08:26:20Z",
+      "titulares": [
+        "2 M de canarios: los routers de IA filtran prompts; tres proveedores comprometidos (HD Moore)",
+        "Seguimiento Nvidia: California cita a Nvidia por exportaciones a China (Megaspeed)",
+        "Apple prepara un agente autónomo; aviso en macOS 27.3 contra agentes de terceros",
+        "Meta revisa su objetivo de cero emisiones netas 2030",
+        "GTA VI: 3.790 M$ el primer día",
+        "Alpöge (Anthropic) afirma demostrar la hipótesis de Riemann generalizada con Claude (Lean)",
+        "Seguimiento Anthropic: Nasdaq borra lo ganado en 2026; Anthropic -9 % a 88,30 $",
+        "Trump amenaza con prohibir centros de datos de IA fuera de EE. UU.",
+        "Inkling 2 Mini (Thinking Machines), 26,4B looped MoE",
+        "Gemini computer use en Mac",
+        "Cloudflare abre los pesos de Clairic y Clairic-flash",
+        "Radar: Language Models Can Rewrite Their Own Weights (arXiv 2611.21885)",
+        "Radar: concepto tablero de coordinación de agentes (Vercel Board, Replit swarms)",
+        "Radar: DreamCoder (Mastering Emacs)",
+        "Radar: Winedroid",
+        "40dB: Feijóo gana el debate pero PP-PSOE a 0,7 puntos",
+        "Supremo: 163.000 nacionalizados por la ley de nietos no votarán el 29-N",
+        "España libera bajo fianza a Fergie Chambers",
+        "Mayor ataque ruso del año (110 misiles, 400 drones); Zelenski llama asesino a Putin",
+        "Seguimiento COP31: bloqueo por los fósiles",
+        "Dinamarca acusa a Rusia de planear asesinar a Kyivstoner; expulsa al agregado",
+        "Dans: GTA VI y el alumno que se fue a Vice City",
+        "Al día: dinero negro en la compraventa de pisos",
+        "FT: Ormuz frágil; guerra de chips en la cadena de suministro; Bank of Mum and Dad",
+        "Palabra del día: expansión cuantitativa (QE)"
+      ],
+      "tldr_ai": {
+        "fecha": "2026-11-20",
+        "asunto": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+        "email_id": null
+      },
+      "tldr_fecha": "2026-11-20",
+      "nota": "Sábado: España y Mundo solo web. COMPOSIO_SEARCH retirado (410); búsqueda con WebSearch y RSS."
     }
   ]
 }
