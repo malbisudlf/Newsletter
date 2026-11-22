@@ -3228,6 +3228,37 @@
       },
       "tldr_fecha": "2026-11-20",
       "nota": "Sábado: España y Mundo solo web. COMPOSIO_SEARCH retirado (410); búsqueda con WebSearch y RSS."
+    },
+    {
+      "fecha": "2026-11-22",
+      "enviado_utc": "2026-11-22T09:40:00Z",
+      "tldr_ai": null,
+      "tldr_fecha": null,
+      "nota": "Domingo: 1, 2, España y Mundo solo web (TLDR/TLDR AI del 20/11 ya usadas el 21/11). HN falló en radar.py por KeyError 'points' (relanzado con .get). Fuente nueva en Newsletters: 'Life Assistant — informe semanal'. WebFetch sin DNS; páginas leídas desde el sandbox de Composio.",
+      "titulares": [
+        "Microsoft: brecha en Entra Connect Health (23/07–19/11), correos de administradores expuestos",
+        "El FBI investiga un hackeo del NCIC",
+        "GPGME 2.3.1 (CVE-2026-129975, double free) y Upload2Shell en Ghostscript (CVE-2026-125396)",
+        "Signal bloquea capturas en Android e iOS por los agentes de IA del sistema",
+        "Bending Spoons compra Mailchimp por 3.680 M$",
+        "Seguimiento: la comunidad Lean certifica la prueba de Riemann de Alpöge",
+        "Seguimiento routers: OpenRouter expulsa a 3 proveedores y retira 125 endpoints ZDR",
+        "Superhuman Go proactivo y SDK con 20 agentes",
+        "Meta Muse Charm a 300 $ (The Information)",
+        "Radar: harness-hub/Qwen3.8-27B-pi-adapted (adaptadores de arnés)",
+        "Radar: Haru-4B full-duplex (higurashi-ai)",
+        "Radar: skills de agentes como formato (google-labs-code/stitch-skills, diagram-design, app-store-compliance)",
+        "Sánchez promete prorrogar el impuesto a la banca en 2027 para vivienda",
+        "Voto útil: Feijóo pide concentrar el voto, Abascal exige respeto",
+        "Voto CERA en consulados del 21 al 26; Argentina >500.000 inscritos",
+        "Armas autónomas: dos años más de conversaciones sin reglas vinculantes (CCW)",
+        "Seguimiento COP31: borrador final sin 'combustibles fósiles'",
+        "Trump amenaza a Irán por un supuesto complot de bomba sucia",
+        "Dans: el cielo nocturno convertido en infraestructura (satélites)",
+        "Al día: Revolut y neobancos, fallos antiblanqueo",
+        "FT: servidores de IA +45 %; Feijóo gobernaría con Vox; deuda argentina y Milei",
+        "Palabra del día: gastos de comprar una casa (ITP, AJD, notaría, registro)"
+      ]
     }
   ]
 }
