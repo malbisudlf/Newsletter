@@ -3259,6 +3259,41 @@
         "FT: servidores de IA +45 %; Feijóo gobernaría con Vox; deuda argentina y Milei",
         "Palabra del día: gastos de comprar una casa (ITP, AJD, notaría, registro)"
       ]
+    },
+    {
+      "fecha": "2026-11-23",
+      "enviado_utc": "2026-11-23T06:45:53Z",
+      "tldr_ai": null,
+      "tldr_fecha": null,
+      "nota": "Lunes: TLDR/TLDR AI del 20/11 ya usadas; Nuevos lanzamientos con web. Guardian no había llegado al cerrar. Fuente no contemplada: Pablo Gil (promo vídeo dominical, nada usado). Europa Press - Finanzas 0 titulares. COMPOSIO_SEARCH retirado (410); búsqueda con WebSearch.",
+      "titulares": [
+        "Seguimiento Dragos: Together AI, prompts robados por credencial filtrada por un agente (xorl)",
+        "Apiiro: Claude Code filtró 1.122+1.160 secretos vía settings.local.json",
+        "GL.iNet: malware en routers/KVM vía su nube de gestión remota",
+        "Seguimiento Nvidia: SEC revisa su contabilidad; TSMC y Samsung frenan envíos a China (≤16 nm)",
+        "Amazon negocia comprar Decart por hasta 7.500 M$",
+        "Google Suncatcher: satélites TPU con New Glenn en 2029",
+        "Pachocki (OpenAI) publica curva de perplejidad y la propone como estándar de seguridad",
+        "Arizona investiga penalmente a OpenAI y otras por agentes en bancos",
+        "Agentes de programación completan <10 % de tareas en empresa simulada",
+        "Seguimiento Riemann: manuscrito de Masullo (940 págs.) frente a 17M líneas de Lean de Alpöge",
+        "GPT-Live-1.1 en la API con modo standby a 0,02 $/min",
+        "MiniMax: criptoanálisis automático (94 claves TII McEliece, HAWK-256, COLM)",
+        "Radar: modelos en bucle — SenseNova-Loop-9B y paper cmHC",
+        "Radar: Clover-35B-A3B, LLM de difusión MoE (73,6 SWE-bench V)",
+        "Radar: elementalsouls/Claude-BugHunter (1.716 estrellas/día)",
+        "Última semana de campaña: veda de encuestas; GAD3/Sigma Dos/DYM/CIS",
+        "El Hierro: 425 migrantes en un día, >10.000 en noviembre",
+        "Sánchez requiere a Madrid retirar instrucciones de neutralidad docente",
+        "Seguimiento COP31: cierra sin acuerdo, primera vez desde 2009",
+        "Dron marítimo alcanza barco ruso en Bengasi",
+        "Polonia halla restos de Kh-101 en tres puntos",
+        "ICE: detención de padre e hija en el aeropuerto de Seattle",
+        "Dans: la unidad de la IA empresarial no debe ser el agente",
+        "Al día: Ryanair anticipa billetes hasta +20 % (queroseno); inflación vs salarios",
+        "FT: reguladores asiáticos sostienen bolsas; economía circular de Nvidia; balance de la Fed",
+        "Palabra del día: rentabilidad anualizada (CAGR)"
+      ]
     }
   ]
 }
