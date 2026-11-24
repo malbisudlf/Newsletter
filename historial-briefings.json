@@ -3297,13 +3297,13 @@
     },
     {
       "fecha": "2026-11-24",
-      "enviado_utc": "2026-11-24T05:35:00Z",
+      "enviado_utc": "2026-11-24T05:15:43Z",
       "tldr_ai": {
         "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI0hHDQgAA",
         "fecha": "2026-11-23"
       },
       "tldr_fecha": "2026-11-23",
-      "nota": "Martes, cerrado ~06:30: Klosh, Guardian y Dans aún no habían llegado; España y Mundo con web. MultiVersial del 24/11 usada. TLDR y TLDR AI del 23/11 usadas. Dinero Claro (martes) aún no había llegado: bloque omitido. HN falló una vez por KeyError 'points' (radar.py usa h['points']; conviene h.get).",
+      "nota": "Martes, cerrado ~06:15: Klosh, Guardian y Dans aún no habían llegado; España y Mundo con web. MultiVersial del 24/11 usada. TLDR y TLDR AI del 23/11 usadas. Dinero Claro (martes) aún no había llegado: bloque omitido. HN falló una vez por KeyError 'points' (radar.py usa h['points']; conviene h.get).",
       "titulares": [
         "Seguimiento Nvidia: el consejo readmite a Jensen Huang, acción +31 %, Trump dice que lo convenció",
         "EE. UU. pondrá a Megaspeed y Speedmatrix en la lista de entidades",
