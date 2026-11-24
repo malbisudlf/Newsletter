@@ -3294,6 +3294,42 @@
         "FT: reguladores asiáticos sostienen bolsas; economía circular de Nvidia; balance de la Fed",
         "Palabra del día: rentabilidad anualizada (CAGR)"
       ]
+    },
+    {
+      "fecha": "2026-11-24",
+      "enviado_utc": "2026-11-24T05:35:00Z",
+      "tldr_ai": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI0hHDQgAA",
+        "fecha": "2026-11-23"
+      },
+      "tldr_fecha": "2026-11-23",
+      "nota": "Martes, cerrado ~06:30: Klosh, Guardian y Dans aún no habían llegado; España y Mundo con web. MultiVersial del 24/11 usada. TLDR y TLDR AI del 23/11 usadas. Dinero Claro (martes) aún no había llegado: bloque omitido. HN falló una vez por KeyError 'points' (radar.py usa h['points']; conviene h.get).",
+      "titulares": [
+        "Seguimiento Nvidia: el consejo readmite a Jensen Huang, acción +31 %, Trump dice que lo convenció",
+        "EE. UU. pondrá a Megaspeed y Speedmatrix en la lista de entidades",
+        "(20/11) YouTube, cerca de un acuerdo de ~3.000 M$ con distritos escolares por adicción",
+        "(21/11) Tesla FSD v15: «25x» en intervenciones críticas sin cifra absoluta",
+        "Stalwart 1.2 sustituto directo de Exchange; Kagi Mail en beta pública",
+        "METR Q4 2026: horizontes duplican cada ~3,6 meses",
+        "OpenAI contra la destilación adversarial (54 % → 0,2 %), Moonshot y DeepSeek",
+        "LeCun acusa a Amodei de inflar riesgos para ilegalizar modelos abiertos",
+        "Tencent Hy4 completo: 770B MoE, 49B activos, 1M de contexto",
+        "NVIDIA Nemotron-Labs-Sigma: difusión continua 3B/8B, 3,46x",
+        "Baseten bison-1 y groundhog-1 sobre Gemma 4",
+        "Radar: Anthropic formal-math VP ≠ VNP (sin revisión humana)",
+        "Radar: Seguimiento modelos en bucle — GLM-5.4 de Z.ai",
+        "Radar: Ladybird en alfa",
+        "Radar: NariQ, Qwen3.8-27B en 10 GB",
+        "Supremo aplica la amnistía a Puigdemont y archiva el procés",
+        "Debate a ocho en RTVE y promedio EL PAÍS: PP 31,5 / PSOE 29 / Vox ~18",
+        "Air Europa: correo de la SEPI sobre la «triquiñuela» para no notificar a Bruselas",
+        "OTAN y el satélite nuclear ruso «Sputnik-S»",
+        "Seguimiento CIJ: Reino Unido sanciona a cinco mandos de Myanmar",
+        "Oxfam: 99 % de Gaza con indicios de contaminación tóxica",
+        "Al día: IRPF sin deflactar (REAF); VIX en 36 y mercado frágil",
+        "FT: tecnológicas asiáticas tras Huang y Trump +15 M$; China, ahorro en acciones; ingeniero de OpenAI acusado",
+        "Palabra del día: tasa de actividad"
+      ]
     }
   ]
 }
