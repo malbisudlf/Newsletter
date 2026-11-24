@@ -6,11 +6,11 @@ out = {}
 try:  # Hacker News: portada actual (últimas 36 h), con puntos y comentarios
     r = requests.get('https://hn.algolia.com/api/v1/search',
                      params={'tags': 'front_page', 'hitsPerPage': 30}, timeout=20).json()
-    out['hn'] = [{'t': h['title'], 'pts': h['points'], 'com': h.get('num_comments'),
+    out['hn'] = [{'t': h['title'], 'pts': h.get('points'), 'com': h.get('num_comments'),
                   'url': h.get('url') or f"https://news.ycombinator.com/item?id={h['objectID']}",
                   'hn': f"https://news.ycombinator.com/item?id={h['objectID']}",
                   'h': round((time.time() - h['created_at_i']) / 3600, 1)} for h in r['hits']
-                 if time.time() - h['created_at_i'] < 36 * 3600]
+                 if h.get('points') is not None and time.time() - h['created_at_i'] < 36 * 3600]
 except Exception as e: out['hn'] = f'ERROR {e}'
 try:  # Hugging Face: modelos en tendencia
     r = requests.get('https://huggingface.co/api/models',
