@@ -3330,6 +3330,44 @@
         "FT: tecnológicas asiáticas tras Huang y Trump +15 M$; China, ahorro en acciones; ingeniero de OpenAI acusado",
         "Palabra del día: tasa de actividad"
       ]
+    },
+    {
+      "fecha": "2026-11-25",
+      "enviado_utc": "2026-11-25T05:17:00Z",
+      "tldr_ai": {
+        "email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI0hKPTgAA",
+        "fecha": "2026-11-24"
+      },
+      "tldr_fecha": "2026-11-24",
+      "nota": "Miércoles, disparado por API ~06:15: Klosh, Guardian y Dans aún no habían llegado; España y Mundo con web/RSS. MultiVersial del 25/11 usada. TLDR y TLDR AI del 24/11 usadas. The Trader nº182 y Dinero Claro 18/11 ya usados: Mercados y Finanzas omitidos. COMPOSIO_SEARCH retirado (410): se usó WebSearch + RSS. El 24/11 salieron dos briefings (05:15 y 08:07).",
+      "titulares": [
+        "Huawei culpable de 10 de 12 cargos (secretos comerciales, fraude bancario, sanciones), absuelta de RICO",
+        "Amazon: agentes de IA atacantes (Cairn) explotan un zero-day en ~11 min",
+        "GreyNoise: campaña GT13 contra Check Point Security Management (22 organizaciones, CVE-2026-16232)",
+        "Microsoft: autopsia de la caída del 12/11 de Exchange/Teams y su Code Red",
+        "Seguimiento Nvidia: −6 %, Blanche esquiva, Huang ante el Senado el 3/12, Rene Haas en Arm hasta 2033",
+        "Preprint OpenAI: el exponente de la multiplicación de matrices es exactamente 9/4",
+        "Tidal prohíbe la música 100 % IA y borra 27 M de pistas el 9/12",
+        "Musk: SpaceX va por detrás en IA y alquila cómputo (NYT)",
+        "Claude Ship: Code Review + PR Steward + Claude Approvals",
+        "OpenAI y Cisco: Shirudo, escudos eBPF para Linux sin parchear",
+        "GPT-6 diseña proteínas: 10,9 % de minibinders con unión",
+        "Radar: Ternary Bonsai 2.5 27B (5,9 GB, HN 385 + HF)",
+        "Radar: concepto, equipos de agentes + verificación en Lean (DeepMind, algoritmos cuánticos 11,8x)",
+        "Radar: Microsoft AI Rocket, RL sobre MAI Base 2 de 3T sin destilar",
+        "Radar: mjmirza/app-store-compliance (skill de cumplimiento para App Store/Play)",
+        "Último Consejo de Ministros: permiso por nacimiento de 20 semanas, duelo de 10 días, IRPF de autónomos −465 M€, Verifactu a 2028",
+        "JEC rechaza por unanimidad las quejas de PP y Vox sobre el voto CERA",
+        "Seguimiento Air Europa: Aagesen exigió cambiar el acta (El Mundo)",
+        "Seguimiento Canarias: récord de 2.100 migrantes en El Hierro en un día",
+        "BBC: datos de Rosstat, ~490.000 militares rusos muertos",
+        "Seguimiento Bengasi: hundida la corbeta rusa Merkury",
+        "BBC Verify: red china con +500 vídeos falsos de IA contra el DPP de Taiwán",
+        "Kilmar Ábrego García se va de EE. UU. a España",
+        "Al día: clase media nominal vs. real y SMI; registro horario y pluses en el cajón",
+        "FT: Anthropic bajo su precio de OPV y Asia cae; Nscale y su OPV de 35.000 M$; Shein paga 100 M$",
+        "Palabra del día: tarjeta revolving"
+      ]
     }
   ]
 }
