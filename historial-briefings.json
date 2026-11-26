@@ -3368,6 +3368,41 @@
         "FT: Anthropic bajo su precio de OPV y Asia cae; Nscale y su OPV de 35.000 M$; Shein paga 100 M$",
         "Palabra del día: tarjeta revolving"
       ]
+    },
+    {
+      "fecha": "2026-11-26",
+      "enviado_utc": "2026-11-26T05:17:12Z",
+      "titulares": [
+        "1Password: intrusión vía GitHub de un empleado; roban nombres, correos y tokens de recuperación, no bóvedas",
+        "Microsoft declara 'código rojo' interno tras la caída de Microsoft 365",
+        "Ubuntu tarda nueve días en parchear NoisyTCP (CVE-2026-99288) y KVM AMD; Nfs2root",
+        "La FCC autoriza a SpaceX hasta 1 millón de satélites con chips de IA (Starmind)",
+        "Seguimiento Nvidia: las cuentas de Trump operaron 44 veces con Nvidia; Huang pide perdón y va a terapia",
+        "Paradigm3: los enjambres de agentes no superan a un agente solo con igual presupuesto de tokens",
+        "Más de 100 centrales de gas propias (115 GW) anunciadas para centros de datos en EE. UU.",
+        "GPT-6.2 Astra identifica al autor de un cuaderno anónimo de 1808",
+        "Cognition SWE-2.1 (RL sobre Kimi K3), Terminal-Bench 4.1 50,0",
+        "Artifacts de Claude como apps de Mac y Windows",
+        "Meta lanza el agente Muse en Reino Unido y en los DM de Instagram",
+        "Radar: Google Cogentic (factorización L[1/3], logaritmos discretos, log-rank)",
+        "Radar: concepto 'Mathocalypse' (Aaronson): cota de la FFT, conjetura de Hirsch refutada",
+        "Radar: Riemann en Lean, versión corta (300k/76k líneas) de Anthropic",
+        "Radar: diagram-design y CLI-Anything en GitHub Trending",
+        "Puigdemont anuncia su regreso a Cataluña el 12 de diciembre",
+        "Debate a cuatro Sánchez-Feijóo-Abascal-Colau; Sánchez: mayoría progresista si hay un 75 % de participación",
+        "EE. UU. propone aranceles a 14 socios (China hasta el 40 %, UE 20-25 %)",
+        "Los jueces recomiendan retirar la acusación de soborno contra Netanyahu (caso 4000)",
+        "Ucrania daña cinco cazas rusos en Savasleyka",
+        "Al día: ¿400.000 pisos de alquiler desaparecidos? Menos anuncios, más contratos",
+        "Al día: la presidencia del BCE se decide hoy, con Hernández de Cos favorito",
+        "FT: el Libro Beige y la subida de la Fed en diciembre; el Banco de Corea sube al 3,25 %; ciberataque a FinCEN",
+        "Palabra del día: base imponible general y base del ahorro",
+        "Dinero Claro: comprar o alquilar una vivienda"
+      ],
+      "tldr_ai_email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI0-lX_gAA",
+      "tldr_ai_fecha": "2026-11-25",
+      "tldr_email_fecha": "2026-11-25",
+      "dinero_claro": "Comprar o alquilar una vivienda (2026-11-25)"
     }
   ]
 }
