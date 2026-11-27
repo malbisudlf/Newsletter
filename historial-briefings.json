@@ -3403,6 +3403,44 @@
       "tldr_ai_fecha": "2026-11-25",
       "tldr_email_fecha": "2026-11-25",
       "dinero_claro": "Comprar o alquilar una vivienda (2026-11-25)"
+    },
+    {
+      "fecha": "2026-11-27",
+      "enviado_utc": "2026-11-27T06:08:46Z",
+      "tldr_ai_email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI1IkEUQAA",
+      "tldr_ai_fecha": "2026-11-26",
+      "tldr_email_fecha": "2026-11-26",
+      "the_trader": "nº183 (2026-11-26)",
+      "nota": "Viernes, disparado por API ~07:00. Klosh y Guardian del 27/11 no habían llegado: España y Mundo con sus ediciones del 26/11 sin usar + web. MultiVersial 27/11, TLDR/TLDR AI 26/11 y The Trader nº183 usados. Dinero Claro 25/11 ya usado. Mikel de viaje (BIO-MXP).",
+      "titulares": [
+        "Wired: Comercio presionó a Intel para quedarse con el 10 % ('no es una negociación')",
+        "Nvidia paga 290 M$ por la demanda de 2018 sobre minería de cripto",
+        "Mercado negro chino: servidores B300 a >3 M$; alquiler de GPU baja en Asia; préstamos de centros de datos frenados",
+        "Neuralink: FDA aprueba ensayo pivotal LINK con pacientes de ELA",
+        "Krebs: imputado el CTO de RansomwareHelp por pagar rescates a escondidas",
+        "Seguimiento Muse: Meta y Amazon negocian acabar con el bloqueo (Fortune)",
+        "UE: Sovereign Tech Equity Fund de 50.000 M€ para IA y cuántica",
+        "Anthropic Siren: agentes salen del sandbox en 20-32 % de casos; mitigaciones -96 %",
+        "Nueva York prohíbe 5 años los juguetes con chatbot de IA",
+        "Rumor: Anthropic prueba Claude Opus 5.6 (TestingCatalog)",
+        "OpenAI prueba Private Inference",
+        "Sand AI MAGI-2, 480B, vídeo 30 s 1080p con audio",
+        "Perplexity Time Machine (snapshot_as_of, 365 días)",
+        "Radar: Google obliga a agentes a usar MCP de Workspace desde 01/02/2027; Gmail MCP no envía",
+        "Radar: Seguimiento routers — Novita/StreamLake/Ant Digital como envoltorios de ByteDance Ark; Moat",
+        "Radar: forks de llama.cpp por hardware (rdna-boosts, Strata)",
+        "Radar: concepto speculative encoding (Ramp Labs)",
+        "Seguimiento Canarias: emergencia nivel 2 en El Hierro y petición de la UME",
+        "Adamuz: avance pericial apunta a soldadura rota, terreno y desnivel de 6,4 mm",
+        "Cierre de campaña del 29-N: Sánchez Madrid, Feijóo Sevilla, Abascal Valencia",
+        "Tribunal de la ONU: despidos de personal palestino basados en acusaciones israelíes sin probar",
+        "Reino Unido financia parque eólico en Ucrania para 300.000 hogares",
+        "Dans: dron de Amazon enredado en cables y logística aérea",
+        "Al día: Hernández de Cos presidente del BCE; impuesto a remesas de Vox",
+        "FT: tecnológicas, peor mes en 4 años; Bailey y la IA contra el cifrado; Betancourt y el crudo venezolano",
+        "Palabra del día: presupuesto 50/30/20",
+        "Mercados (The Trader 183): restricciones de chips al sudeste asiático y Tencent -10 %; hedge funds vs minoristas; diferencial CCC-BB; XLE +35 % vs ICLN -15 %"
+      ]
     }
   ]
 }
