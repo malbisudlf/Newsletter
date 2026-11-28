@@ -3441,6 +3441,41 @@
         "Palabra del día: presupuesto 50/30/20",
         "Mercados (The Trader 183): restricciones de chips al sudeste asiático y Tencent -10 %; hedge funds vs minoristas; diferencial CCC-BB; XLE +35 % vs ICLN -15 %"
       ]
+    },
+    {
+      "fecha": "2026-11-28",
+      "enviado_utc": "2026-11-28T07:55:00Z",
+      "tldr_ai_email_id": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AdHd5ScS6VE6RFEld6JFydQAI1Veq1wAA",
+      "tldr_ai_fecha": "2026-11-27",
+      "tldr_email_fecha": "2026-11-27",
+      "nota": "Sábado, disparado por API ~07:30. Klosh y Guardian del 27/11 (no usados ayer) + web para España y Mundo. TLDR/TLDR AI 27/11 usadas. The Trader 183 y Dinero Claro 25/11 ya usados: omitidos. Mikel en Milán. WebFetch sin DNS: lectura web vía sandbox de Composio.",
+      "titulares": [
+        "Intrusión en Cloud One de la Fuerza Aérea de EE. UU. (Leidos, cese de Cairncross)",
+        "Skimmer WebRTC en Samsonite, American Tourister, Revolve, FWRD y Lascana (InfoHawk)",
+        "Vendedores de Nvidia exigen a neoclouds no alquilar a chinos (regla BIS 19/11)",
+        "Escasez de memoria encarece la electrónica navideña (WSJ)",
+        "Virginia y Oregón demandan a SpaceX por imágenes sexuales/CSAM de Grok",
+        "OpenAI recorta razonamiento en Astra/Sol 6.2 (micjm) y OpenRouter: Jevons se debilita (tokens 44x, gasto 7,6x)",
+        "Michael Nielsen retira su libro de redes neuronales",
+        "Nebius LayerStream (MoE fine-tuning 3,15x)",
+        "Anthropic prepara explorador de Google Drive en Claude (TestingCatalog)",
+        "Panel de benchmarks llama.cpp para AMD",
+        "Radar: skills de Convex envían la idea del usuario y esquivan clasificadores (issue #64)",
+        "Radar: djb, demostraciones falsas aceptadas por verificadores formales",
+        "Radar: Unkernel, Linux compilado a WebAssembly",
+        "Radar: obra/superpowers (+922/día)",
+        "Radar: paper Stable Gated DeltaNet-2",
+        "Jornada de reflexión del 29-N",
+        "Med Emre: remolque a Cartagena y rechazo de Murcia",
+        "Seguimiento El Hierro: la UME despliega 120 militares",
+        "UCO: posibles irregularidades en el túnel de Belate",
+        "UE: choque por la ayuda a largo plazo a Ucrania en el presupuesto",
+        "Trump llama 'falsas' a las cifras económicas previas a las midterms",
+        "Dans: obligación de cuidado digital de Australia",
+        "Al día: Ley del Suelo y vivienda; FMI (Valdés) y pensiones",
+        "FT: Irán y el double tapping en Ormuz; multinacionales de EE. UU. y fisco irlandés; perfil de Sánchez",
+        "Palabra del día: cuenta remunerada frente a depósito a plazo fijo"
+      ]
     }
   ]
 }
